@@ -1082,7 +1082,7 @@ policies_md: |
 ## Description
 Beachcomber's Rest is a true family home on the sought-after Peninsu`,
 
- "seabreeze": `---
+  "seabreeze": `---
 title: "Seabreeze"
 slug: "seabreeze"
 area: "Onrus"
@@ -1248,7 +1248,7 @@ Tucked away in the tranquil garden of a family home, Seaside Escape Studio @ Onr
 Whether you’re here to unwind, watch whales, or explore the coastline, this studio makes an easy, well-equipped retreat with everything you need for a relaxed stay.
 `,
 
- "out-of-africa-sandbaai": `---
+  "out-of-africa-sandbaai": `---
 title: "Out of Africa, Sandbaai"
 slug: "out-of-africa-sandbaai"
 area: "Sandbaai"
