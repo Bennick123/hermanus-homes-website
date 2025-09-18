@@ -752,7 +752,7 @@ sleeps: 6
 beds: 3
 baths: 2
 one_liner: "Spacious 'Old Onrus' family home with roof deck, enclosed braai room, and easy walk to cliff path, Davies Pool, and beach."
-hero: "/homes/sunset-terrace/29 Beyers Street, Onrus (1 of 24).jpg"
+hero: "/homes/sunset-terrace/29 Beyers Street Onrus (1 of 24).jpg"
 gallery:
   - "/homes/sunset-terrace/29 Beyers Street, Onrus (17 of 24).jpg"
   - "/homes/sunset-terrace/29 Beyers Street, Onrus (4 of 24).jpg"
