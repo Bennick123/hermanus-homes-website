@@ -27,21 +27,31 @@ title: "Tranquility"
 slug: "tranquility"
 area: "Vermont"
 address: "30 Fulmar Street, Vermont"
-sleeps: 12
+sleeps: 10
 beds: 6
 baths: 2
 one_liner: "Spacious rustic home on Vermont Saltpan with outstanding mountain views and exceptional bird life."
-hero: "/homes/tranquility/Hero.jpg"
+hero: "/homes/tranquility/10.jpeg"
 gallery:
-  - "/homes/tranquility/1.jpg"
-  - "/homes/tranquility/2.jpg"
-  - "/homes/tranquility/3.jpg"
-  - "/homes/tranquility/4.jpg"
-  - "/homes/tranquility/5.jpg"
-  - "/homes/tranquility/6.jpg"
-  - "/homes/tranquility/7.jpg"
+  - "/homes/tranquility/1.jpeg"
+  - "/homes/tranquility/2.jpeg"
+  - "/homes/tranquility/3.jpeg"
+  - "/homes/tranquility/4.jpeg"
+  - "/homes/tranquility/5.jpeg"
+  - "/homes/tranquility/7.jpeg"
   - "/homes/tranquility/8.jpg"
-  - "/homes/tranquility/9.jpg"
+  - "/homes/tranquility/Hero.jpg"
+  - "/homes/tranquility/11.jpeg"
+  - "/homes/tranquility/12.jpeg"
+  - "/homes/tranquility/13.jpeg"
+  - "/homes/tranquility/14.jpeg"
+  - "/homes/tranquility/15.jpeg"
+  - "/homes/tranquility/16.jpeg"
+  - "/homes/tranquility/17.jpeg"
+  - "/homes/tranquility/18.jpeg"
+  - "/homes/tranquility/19.jpeg"
+  - "/homes/tranquility/20.jpeg"
+  - "/homes/tranquility/9.jpeg"
 amenities:
   - Dishwasher
   - Washing machine
@@ -79,7 +89,7 @@ This appealing, spacious, rustic home is beautifully situated on the Vermont Sal
 ### Accommodation Details
 
 - **6 bedrooms:** 5 with double beds and 1 with two single beds
-- **Sleeps 12 persons**
+- **Sleeps 10 persons**
 - **2 bathrooms:** Both with bath and shower
 - **Outside shower** with hot water for those refreshing moments
 
@@ -145,7 +155,80 @@ This spacious four-bedroom home in Vermont is just a 10-minute drive from Herman
 The open-plan lounge and dining area flow into a well-equipped kitchen, making meal times easy. Upstairs, a fantastic deck and family room provide extra space to unwind, with full DSTV available and a convenient wine fridge. The fully enclosed garden and double garage add comfort and peace of mind.
 
 With fast Wi-Fi, inverter-backed power, and both indoor and outdoor braai facilities, this home is ideal for larger families looking for comfort and value near Hermanus.`,
-  
+
+ "skye-cottage": `---
+title: "Skye Cottage"
+slug: "skye-cottage"
+area: "Onrus"
+address: "25 Atlantic Drive, Onrus River"
+sleeps: 9
+beds: 5
+baths: 4
+one_liner: "West-facing Peninsula home with spectacular sunsets, enclosed garden, and flexible 5-bedroom layout including a rear flatlet."
+hero: "/homes/skye-cottage/Sunset Sept 2025.jpg"
+gallery:
+  - "/homes/skye-cottage/25 Atlantic Drive, Onrus-27.jpg"
+  - "/homes/skye-cottage/Re-Take Sept 2025-12.jpg"
+  - "/homes/skye-cottage/Re-Take Sept 2025-13.jpg"
+  - "/homes/skye-cottage/Re-Take Sept 2025-14.jpg"
+  - "/homes/skye-cottage/Retake.jpg"
+  - "/homes/skye-cottage/25 Atlantic Drive, Onrus-5.jpg"
+  - "/homes/skye-cottage/25 Atlantic Drive, Onrus-12_1.jpg"
+  - "/homes/skye-cottage/25 Atlantic Drive, Onrus-26_1.jpg"
+  - "/homes/skye-cottage/25 Atlantic Drive, Onrus-9.jpg"
+  - "/homes/skye-cottage/25 Atlantic Drive, Onrus-24.jpg"
+  - "/homes/skye-cottage/25 Atlantic Drive, Onrus-19_1.jpg"
+  - "/homes/skye-cottage/25 Atlantic Drive, Onrus-2.jpg"
+  - "/homes/skye-cottage/25 Atlantic Drive, Onrus-8.jpg"
+  - "/homes/skye-cottage/25 Atlantic Drive, Onrus-32.jpg"
+  - "/homes/skye-cottage/25 Atlantic Drive, Onrus-20.jpg"
+  - "/homes/skye-cottage/25 Atlantic Drive, Onrus-30.jpg"
+  - "/homes/skye-cottage/25 Atlantic Drive, Onrus-28.jpg"
+  - "/homes/skye-cottage/25 Atlantic Drive, Onrus-26.jpg"
+  - "/homes/skye-cottage/25 Atlantic Drive, Onrus-21.jpg"
+  - "/homes/skye-cottage/25 Atlantic Drive, Onrus-22.jpg"
+amenities:
+  - Uncapped Wi-Fi
+  - Washing machine
+  - Dishwasher
+  - Microwave
+  - Fridge
+  - Freezer
+  - Braai facilities
+  - Enclosed garden
+  - Safe parking
+  - Good security
+  - Rechargeable lights (load shedding)
+rates_md: |
+  Peak season
+  R7000 p/n (Minimum 10 nights)
+
+  Shoulder season
+  R4200 p/n (Minimum 2 nights)
+
+  Low season
+  R3200 p/n (Minimum 2 nights)
+policies_md: |
+  Pets: By special arrangement
+---
+
+## Description
+Skye Cottage is a well-equipped, west-facing family home in a prime Peninsula position, perfect for soaking up spectacular sunset views from the patio. Fully enclosed with a neat front lawn, the house offers a flexible layout that suits extended families or two smaller families sharing.
+
+### Accommodation Details
+- Bedrooms: 5 in total  
+  - Two queen bedrooms, each with its own en-suite bathroom  
+  - Two bedrooms with two single beds each, sharing a bathroom  
+  - Fifth bedroom with a single bed  
+- Rear flatlet forms part of the bed count and is ideal for grandparents or a couple with a child; includes a bar fridge, microwave, and small 2-plate oven.
+
+### Living & Kitchen
+Open-plan lounge and kitchen with a large TV and comfortable seating; the kitchen is well equipped for easy holiday cooking.
+
+### Outdoors
+An enclosed garden and braai facilities make long summer evenings effortless, with safe parking and good security providing peace of mind.
+`,
+
   rustica: `---
 title: "Rustica"
 slug: "rustica"
@@ -158,7 +241,6 @@ one_liner: "Rustic family home a short walk to the beach, with large enclosed ga
 hero: "/homes/rustica/IMG-20210902-WA0003.jpg"
 gallery:
   - "/homes/rustica/IMG-20210902-WA0008.jpg"
-  - "/homes/rustica/IMG-20210902-WA0014.jpg"
   - "/homes/rustica/IMG-20210902-WA0011.jpg"
   - "/homes/rustica/IMG-20210902-WA0007.jpg"
   - "/homes/rustica/IMG-20210902-WA0012.jpg"
@@ -187,7 +269,7 @@ rates_md: |
   **Off Season**  
   R2500 (Minimum 2 nights)
 policies_md: |
-  **Pets:** Not Allowed  
+  **Pets:** Allowed  
   **Smoking:** No smoking indoors  
   **TV:** No TV on site
 ---
@@ -290,7 +372,7 @@ title: "Pelican's Nest"
 slug: "pelicans-nest"
 area: "Vermont"
 address: "16 Pelican Street, Onrus River"
-sleeps: 7
+sleeps: 6
 beds: 3
 baths: 2
 one_liner: "Family-orientated holiday home with a heated pool, modern kitchen, and excellent security, walking distance to cliff paths and tidal pools."
@@ -352,7 +434,7 @@ policies_md: |
 Pelican's Nest is a unique, family-orientated holiday home located in the quiet suburb of Vermont, bordering Onrus. It's the perfect 'home away from home' with excellent security, including a full alarm system and CCTV.
 
 ### Accommodation Details
-The home sleeps 7 comfortably in three bedrooms:  
+The home sleeps 6 comfortably in three bedrooms:  
 - **Main bedroom:** Queen-size bed, en-suite bathroom with bath and shower  
 - **Second bedroom:** Queen-size bed  
 - **Third bedroom:** Bunk beds and a single bed  
@@ -457,9 +539,9 @@ sleeps: 6
 beds: 3
 baths: 2
 one_liner: "Seafront home with stunning ocean views, modern comforts, and a perfect setting to relax and reconnect with nature."
-hero: "/homes/seafront-retreat/72 Kus outside.jpg"
+hero: "/homes/seafront-retreat/72 Kus Weg, Sandbaai (Low Res)-1.jpg"
 gallery:
-  - "/homes/seafront-retreat/72 Kus Weg, Sandbaai (Low Res)-1.jpg"
+  - "/homes/seafront-retreat/72 Kus outside.jpg"
   - "/homes/seafront-retreat/72 Kus Weg, Sandbaai (Low Res)-8.jpg"
   - "/homes/seafront-retreat/72 Kus Weg, Sandbaai (Low Res)-19.jpg"
   - "/homes/seafront-retreat/72 Kus Weg, Sandbaai (Low Res)-17.jpg"
@@ -610,71 +692,6 @@ A very workable, well-equipped kitchen serves the dining and lounge areas. Step 
 
 ### Location & Views
 Set right on the cliff path, the home overlooks the coastline with sweeping sea views — the perfect spot to unwind, watch the waves, and recharge.`,
-
-  "island-time": `---
-title: "Island Time"
-slug: "island-time"
-area: "Onrus"
-address: "9 Protea Street, Onrus River"
-sleeps: 10
-beds: 4
-baths: 2
-one_liner: "Easy-going family home with enclosed garden, multiple braai options, and flexible sleeping for up to 10."
-hero: "/homes/island-time/10 Protea Street, Onrus-3.jpg"
-gallery:
-  - "/homes/island-time/10 Protea Street, Onrus-1.jpg"
-  - "/homes/island-time/10 Protea Street, Onrus-13.jpg"
-  - "/homes/island-time/10 Protea Street, Onrus-21.jpg"
-  - "/homes/island-time/10 Protea Street, Onrus-25.jpg"
-  - "/homes/island-time/10 Protea Street, Onrus-5.jpg"
-  - "/homes/island-time/10 Protea Street, Onrus-16.jpg"
-  - "/homes/island-time/10 Protea Street, Onrus-28.jpg"
-  - "/homes/island-time/10 Protea Street, Onrus-4.jpg"
-  - "/homes/island-time/10 Protea Street, Onrus-12.jpg"
-  - "/homes/island-time/10 Protea Street, Onrus-15.jpg"
-  - "/homes/island-time/10 Protea Street, Onrus-27.jpg"
-amenities:
-  - Wi-Fi
-  - Smart TV
-  - Streaming facilities
-  - DSTV on request (not available for weekends)
-  - Washing machine
-  - Tumble dryer
-  - Dishwasher
-  - Microwave
-  - Fridge
-  - Freezer
-  - Fireplace
-  - Braai facilities (pit braai & Weber)
-  - Excellent security
-  - Rechargeable lights for load shedding
-  - 2 bathrooms
-rates_md: |
-  **Peak**  
-  R4200 p/n (Minimum 10 nights)
-
-  **Shoulder**  
-  R3900 p/n (Minimum 2 nights)
-
-  **Off season**  
-  R3200 p/n (Minimum 2 nights)
-policies_md: |
-  **Pets:** Not Allowed
----
-
-## Description
-Island Time is tailored for relaxed family holidays. The open-plan lounge and dining room create a welcoming hub, with a well-equipped kitchen featuring all the modern conveniences.
-
-### Accommodation Details
-- **Bedrooms:** 3 bedrooms  
-- **Additional room:** Small room off the lounge with a single bed 
-- **Bathrooms:** 2  
-- **Bed setup:** 1 king, 1 queen, 6 singles (sleeps 10)
-
-### Outdoor Living
-Enjoy a furnished patio ideal for entertaining, a portable braai and Weber, and an enclosed garden that keeps the vibe private and easy. There’s ample street parking in front of the house, making arrivals simple.
-
-With streaming-ready Smart TV, Wi-Fi, and solid home comforts, Island Time is a great base for a carefree Onrus getaway.`,
 
   "sea-perfection": `---
 title: "Sea Perfection"
@@ -1139,67 +1156,6 @@ policies_md: |
 Seabreeze is beautifully situated on the Island in Onrus River — just moments from the popular beach and lagoon. The home has three double bedrooms (each with a double bed). The main bedroom includes an en-suite bathroom, with a second bathroom serving the other two rooms.
 
 A west-facing indoor braai room with a large dining table makes the perfect meeting place after a day at the beach. The kitchen is well equipped with all the modern conveniences, and the lounge includes a cosy indoor fireplace. Come spend a glorious holiday at Seabreeze and recharge in the fresh sea air and peaceful surroundings of Onrus River.
-`,
-
-  "seaside-hideaway": `---
-title: "Seaside Hideaway"
-slug: "seaside-hideaway"
-area: "Onrus"
-address: "30 De Villiers Street, Onrus River"
-sleeps: 7
-beds: 3
-baths: 3
-one_liner: "Charming Old Onrus home under the milkwoods with a separate flatlet and lush outdoor braai area, an easy walk to the beach and lagoon."
-hero: "/homes/seaside-hideaway/30 De Villiers Street Onrus-39.jpg"
-gallery:
-  - "/homes/seaside-hideaway/30 De Villiers Street Onrus-13.jpg"
-  - "/homes/seaside-hideaway/30 De Villiers Street Onrus-26.jpg"
-  - "/homes/seaside-hideaway/30 De Villiers Street Onrus-18.jpg"
-  - "/homes/seaside-hideaway/30 De Villiers Street Onrus-40.jpg"
-  - "/homes/seaside-hideaway/30 De Villiers Street Onrus-4_1.jpg"
-  - "/homes/seaside-hideaway/30 De Villiers Street Onrus-2.jpg"
-  - "/homes/seaside-hideaway/30 De Villiers Street Onrus-8.jpg"
-  - "/homes/seaside-hideaway/30 De Villiers Street Onrus-35.jpg"
-  - "/homes/seaside-hideaway/30 De Villiers Street Onrus-37.jpg"
-  - "/homes/seaside-hideaway/30 De Villiers Street Onrus-43.jpg"
-  - "/homes/seaside-hideaway/30 De Villiers Street Onrus-45.jpg"
-  - "/homes/seaside-hideaway/30 De Villiers Street Onrus-7.jpg"
-  - "/homes/seaside-hideaway/30 De Villiers Street Onrus-32.jpg"
-  - "/homes/seaside-hideaway/30 De Villiers Street Onrus-39.jpg"
-  - "/homes/seaside-hideaway/30 De Villiers Street Onrus-20.jpg"
-  - "/homes/seaside-hideaway/30 De Villiers Street Onrus-6.jpg"
-  - "/homes/seaside-hideaway/30 De Villiers Street Onrus-3.jpg"
-  - "/homes/seaside-hideaway/30 De Villiers Street Onrus-10.jpg"
-amenities:
-  - Uncapped Wi-Fi
-  - Smart TV for streaming
-  - Washing machine
-  - Tumble dryer
-  - Dishwasher
-  - Microwave
-  - Fridge
-  - Freezer
-  - Stove with convection oven
-  - Hairdryer
-  - Alarm system
-  - Solar panels
-  - Outdoor entertainment/braai area (under milkwoods)
-  - Remote-controlled security gate
-rates_md: |
-  Price
-  R5000 p/n (Minimum 12 nights)
-  10% discount for 3-week stays
-policies_md: |
-  Pets: Not Allowed
-  Notes: Stairs to the first floor are steep and not recommended for small children or elderly guests.
----
-
-## Description
-Seaside Hideaway is a unique, charmingly decorated home tucked under the milkwood trees in Old Onrus — a short walk to the main beach, lagoon, cliff path, and tidal pools. Behind a remote-controlled security gate, the ground floor offers an informal lounge, an 8-seater dining area opening to a sunny sunroom, a rustic but fully equipped kitchen, and a shower/toilet. From the kitchen, a quaint patio with a swing chair leads into a lovely, sheltered garden.
-
-A separate flatlet apart from the house includes a double bed plus a single, and its own shower and toilet — great for grandparents, a couple, or teens seeking privacy. Upstairs (stairs are steep), you’ll find a lounge with a large Smart TV and views, plus two bedrooms — one double and one with two singles — served by a bathroom with bath and toilet. Under the milkwoods, a spacious entertainment/braai area with hammock sets the scene for long, lazy afternoons and evenings together.
-
-Fresh, characterful, and wonderfully located, Seaside Hideaway is tailor-made for easy coastal holidays and making memories with family and friends.
 `,
 
   "seaside-escape-studio-onrus": `---

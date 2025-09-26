@@ -1,10 +1,10 @@
 import Link from "next/link"
 import { Facebook, Instagram, MessageCircle } from "lucide-react"
 
-const CompanyName = "Onrus Accommodation"
+const CompanyName = "Hermanus Homes"
 const CompanyTagline = "Luxury holiday rentals in Onrus, Vermont, Sandbaai and Hermanus"
-const PhoneNumber = "{{PhoneNumber}}"
-const EmailAddress = "{{EmailAddress}}"
+const PhoneNumber = "+27 79 496 4601"
+const EmailAddress = "Clare@hermanushomes.co.za"
 const InstagramURL = "{{InstagramURL}}"
 const FacebookURL = "{{FacebookURL}}"
 const WhatsAppURL = "{{WhatsAppURL}}"

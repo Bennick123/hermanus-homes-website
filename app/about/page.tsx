@@ -83,10 +83,9 @@ export default function About() {
                   </p>
                 </div>
                 <div>
-                  <h4 className="text-lg font-semibold mb-2">Concierge-style support</h4>
+                  <h4 className="text-lg font-semibold mb-2">Personal Support During Your Stay</h4>
                   <p className="text-gray-600 text-sm">
-                    Need a kayak delivered to the estuary, a table at the freshest seafood spot or directions to that
-                    hidden artist's studio? Just ask.
+                    I’ll be available throughout your visit to help with any issues, answer questions, and share advice to make your stay as smooth and enjoyable as possible.
                   </p>
                 </div>
               </div>
@@ -99,8 +98,7 @@ export default function About() {
                 <div>
                   <h4 className="text-lg font-semibold mb-2">Full-service property management</h4>
                   <p className="text-gray-600 text-sm">
-                    Ideal for owners who live abroad, we handle everything—marketing, dynamic pricing, guest screening,
-                    24hr check-in, maintenance and monthly reporting.
+                    Ideal for owners who live abroad, we handle everything—marketing, dynamic pricing, guest screening, maintenance and monthly reporting.
                   </p>
                 </div>
                 <div>

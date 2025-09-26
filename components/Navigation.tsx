@@ -2,9 +2,8 @@
 
 import { useState, useEffect } from "react"
 import Link from "next/link"
+import Image from "next/image"
 import { usePathname } from "next/navigation"
-
-const CompanyName = "Onrus accommodation"
 
 export default function Navigation() {
   const [isScrolled, setIsScrolled] = useState(false)
@@ -12,9 +11,7 @@ export default function Navigation() {
   const pathname = usePathname()
 
   useEffect(() => {
-    const handleScroll = () => {
-      setIsScrolled(window.scrollY > 50)
-    }
+    const handleScroll = () => setIsScrolled(window.scrollY > 50)
     window.addEventListener("scroll", handleScroll)
     return () => window.removeEventListener("scroll", handleScroll)
   }, [])
@@ -29,7 +26,6 @@ export default function Navigation() {
 
   const handleLinkClick = () => {
     setIsMobileMenuOpen(false)
-    // Scroll to top when navigating
     setTimeout(() => {
       window.scrollTo({ top: 0, behavior: "smooth" })
     }, 100)
@@ -37,18 +33,20 @@ export default function Navigation() {
 
   return (
     <nav
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-        isScrolled ? "bg-white shadow-lg" : "bg-white/95 backdrop-blur-sm"
-      }`}
-    >
+      className="fixed top-0 left-0 right-0 z-50 bg-white shadow-lg">
       <div className="container">
         <div className="flex items-center justify-between h-16 md:h-20">
-          {/* Logo */}
-          <Link href="/" onClick={handleLinkClick} className="flex items-center space-x-2">
-            <div className="w-8 h-8 bg-blue-600 rounded-full flex items-center justify-center">
-              <span className="text-white font-bold text-sm"></span>
-            </div>
-            <span className="font-semibold text-lg text-gray-800 hidden sm:block">{CompanyName}</span>
+          {/* Brand image (replaces logo + text) */}
+          <Link href="/" onClick={handleLinkClick} className="flex items-center">
+            {/* Use a fixed height and auto width so it scales nicely */}
+            <Image
+              src="/HHlogo.png"
+              alt="Hermanus Homes"
+              width={280}
+              height={80}
+              priority
+              className="h-10 md:h-16 w-auto object-contain"
+            />
           </Link>
 
           {/* Desktop Navigation */}
@@ -70,7 +68,7 @@ export default function Navigation() {
           {/* Mobile Menu Button */}
           <button
             className="md:hidden p-2"
-            onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+            onClick={() => setIsMobileMenuOpen((s) => !s)}
             aria-label="Toggle mobile menu"
           >
             <div className="w-6 h-6 flex flex-col justify-center items-center">
@@ -78,17 +76,17 @@ export default function Navigation() {
                 className={`bg-gray-800 block transition-all duration-300 ease-out h-0.5 w-6 rounded-sm ${
                   isMobileMenuOpen ? "rotate-45 translate-y-1" : "-translate-y-0.5"
                 }`}
-              ></span>
+              />
               <span
                 className={`bg-gray-800 block transition-all duration-300 ease-out h-0.5 w-6 rounded-sm my-0.5 ${
                   isMobileMenuOpen ? "opacity-0" : "opacity-100"
                 }`}
-              ></span>
+              />
               <span
                 className={`bg-gray-800 block transition-all duration-300 ease-out h-0.5 w-6 rounded-sm ${
                   isMobileMenuOpen ? "-rotate-45 -translate-y-1" : "translate-y-0.5"
                 }`}
-              ></span>
+              />
             </div>
           </button>
         </div>

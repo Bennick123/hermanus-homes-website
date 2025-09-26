@@ -5,17 +5,43 @@ import { useState } from "react"
 import Image from "next/image"
 import { Phone, Mail } from "lucide-react"
 
-const PhoneNumber = "+1234567890"
-const EmailAddress = "info@example.com"
+// Contacts
+const contacts = [
+  {
+    label: "CLARE",
+    email: "Clare@hermanushomes.co.za",
+    phone: "+27 79 496 4601",
+  },
+  {
+    label: "GLENDA",
+    email: "Bookings@hermanushomes.co.za",
+    phone: "+27 84 200 2253",
+  },
+]
 
 // Property options for the dropdown
 const propertyOptions = [
   "General Inquiry",
-  "Corner Delight at Onrust Beach",
+  "27 Krintang Crescent",
+  "A Wave From It All",
+  "Beachcombers Rest",
+  "Corner Delight Onrust Beach",
+  "Flow",
+  "Holiday Vibe",
+  "La Mer Beachfront",
+  "Once Upon a Tide",
+  "Out of Africa Sandbaai",
   "Pelican's Nest",
-  "Tranquility",
-  "Seafront Retreat",
+  "Rustica",
+  "Sea Perfection",
+  "Seabreeze",
   "Seacrest Cottage",
+  "Seafront Retreat",
+  "Seaside Escape Studio Onrus",
+  "Sunset Terrace",
+  "Tranquility",
+  "Whale a While",
+  "Whispering Waves",
   "Other Property",
 ]
 
@@ -30,14 +56,14 @@ export default function Contact() {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
-    // Handle form submission here
     console.log("Form submitted:", formData)
-    // Reset form
     setFormData({ name: "", email: "", phone: "", property: "General Inquiry", message: "" })
     alert("Thank you for your message! We will get back to you soon.")
   }
 
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
+  const handleChange = (
+    e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>
+  ) => {
     setFormData({
       ...formData,
       [e.target.name]: e.target.value,
@@ -56,7 +82,7 @@ export default function Contact() {
           priority
           sizes="100vw"
         />
-        <div className="absolute inset-0 bg-black/50"></div>
+        <div className="absolute inset-0 bg-black/50" />
         <div className="relative z-10 text-center text-white container">
           <h1 className="text-4xl md:text-6xl font-bold mb-4 fade-in-up text-shadow-lg">Contact Us</h1>
           <p className="text-lg md:text-xl max-w-3xl mx-auto fade-in-up text-shadow-md">
@@ -164,26 +190,37 @@ export default function Contact() {
             {/* Contact Information */}
             <div className="fade-in-up">
               <h2 className="text-2xl font-bold mb-6">Get in Touch</h2>
-              <div className="space-y-6">
-                <div className="flex items-start space-x-4">
-                  <div className="flex-shrink-0 w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center">
-                    <Phone className="text-blue-600" size={20} />
-                  </div>
-                  <div>
-                    <h3 className="font-semibold mb-1">Phone</h3>
-                    <p className="text-gray-600">{PhoneNumber}</p>
-                  </div>
-                </div>
 
-                <div className="flex items-start space-x-4">
-                  <div className="flex-shrink-0 w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center">
-                    <Mail className="text-blue-600" size={20} />
+              {/* Two equal-height cards that wrap long text */}
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 items-stretch">
+                {contacts.map((c) => (
+                  <div
+                    key={c.label}
+                    className="p-6 border rounded-lg h-full flex flex-col justify-start"
+                  >
+                    <h3 className="font-semibold tracking-wider mb-3">{c.label}</h3>
+                    <div className="space-y-3 text-gray-700">
+                      <p className="flex items-center gap-2">
+                        <Mail size={18} className="text-blue-600 shrink-0" />
+                        <a
+                          href={`mailto:${c.email}`}
+                          className="text-blue-600 hover:underline break-all max-w-full inline-block"
+                        >
+                          {c.email}
+                        </a>
+                      </p>
+                      <p className="flex items-center gap-2">
+                        <Phone size={18} className="text-blue-600 shrink-0" />
+                        <a
+                          href={`tel:${c.phone.replace(/[^\d+]/g, "")}`}
+                          className="text-blue-600 hover:underline break-all max-w-full inline-block"
+                        >
+                          {c.phone}
+                        </a>
+                      </p>
+                    </div>
                   </div>
-                  <div>
-                    <h3 className="font-semibold mb-1">Email</h3>
-                    <p className="text-gray-600">{EmailAddress}</p>
-                  </div>
-                </div>
+                ))}
               </div>
 
               {/* Why Contact Us */}
