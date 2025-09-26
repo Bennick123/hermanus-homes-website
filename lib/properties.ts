@@ -293,7 +293,7 @@ title: "Corner Delight at Onrust Beach"
 slug: "corner-delight-onrust-beach"
 area: "Onrus"
 address: "30 Duke Street, Onrus River"
-sleeps: 7
+sleeps: 8
 beds: 4
 baths: 3
 one_liner: "Spacious double-storey home with pool, multiple entertainment areas, and just a short walk to tidal pools and Onrust Beach."
@@ -333,17 +333,22 @@ amenities:
   - Sparkling pool
   - Rechargeable lights
 rates_md: |
-  **Peak season**  
-  R4750 p/n (Minimum 10 nights)  
+  Peak season
+  R4750 p/n for up to 6 guests (Minimum 10 nights)
+  +R400 p/p p/n for guests 7–8
 
-  **1 Dec – 14 Dec**  
-  R3500 p/n  
+  1 Dec – 14 Dec
+  R3500 p/n for up to 6 guests
+  +R400 p/p p/n for guests 7–8
 
-  **Shoulder season**  
-  R2900 p/n (Minimum 2 nights)  
+  Shoulder season
+  R2900 p/n for up to 6 guests (Minimum 2 nights)
+  +R400 p/p p/n for guests 7–8
 
-  **Off season**  
-  R2650 p/n (Minimum 2 nights)
+  Off season
+  R2650 p/n for up to 6 guests (Minimum 2 nights)
+  +R400 p/p p/n for guests 7–8
+  
 policies_md: |
   **Pets:** Not Allowed
 ---
