@@ -19,7 +19,7 @@ const properties = [
     name: "Pelican's Nest",
     description:
       "Family-orientated holiday home with a heated pool, modern kitchen, and excellent security, walking distance to cliff paths and tidal pools.",
-    image: "/homes/pelicans-nest/16 Pelican Onrus (1 of 50).jpg",
+    image: "/homes/pelicans-nest/16 Pelican Onrus (1 of 50).JPG",
     slug: "pelicans-nest",
   },
   {
