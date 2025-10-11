@@ -740,9 +740,8 @@ amenities:
   - Excellent security
 rates_md: |
   **Peak**  
-  R4200 p/n (Minimum 10 days)
+  R4500 p/n (Minimum 10 days)
 
-  **15–30 April**  
   Minimum 7 days
 policies_md: |
   **Pets:** Not Allowed
