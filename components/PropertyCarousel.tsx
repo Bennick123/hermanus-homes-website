@@ -19,7 +19,7 @@ const properties = [
     name: "Pelican's Nest",
     description:
       "Family-orientated holiday home with a heated pool, modern kitchen, and excellent security, walking distance to cliff paths and tidal pools.",
-    image: "/homes/pelicans-nest/16 Pelican Onrus (1 of 50).JPG",
+    image: "/homes/pelicans-nest/Pelican Decking reshoot-6.jpg",
     slug: "pelicans-nest",
   },
   {
@@ -34,16 +34,16 @@ const properties = [
     name: "Seafront Retreat",
     description:
       "Seafront home with stunning ocean views, modern comforts, and a perfect setting to relax and reconnect with nature.",
-    image: "/homes/seafront-retreat/72 Kus outside.jpg",
+    image: "/homes/seafront-retreat/72 Kus Weg, Sandbaai (Low Res)-1.jpg",
     slug: "seafront-retreat",
   },
   {
     id: 5,
-    name: "Seacrest Cottage",
+    name: "Whispering Waves",
     description:
-      "Neat and tidy holiday home within walking distance to Grotto Beach, featuring a private garden and cosy fireplace.",
-    image: "/homes/seacrest-cottage/IMG-20230801-WA0019.jpg",
-    slug: "seacrest-cottage",
+      "Whispering Waves sits on the sought-after Peninsula above Haardebaai, about a three-minute walk to Onrus Beach and the lagoon.",
+    image: "/homes/whispering-waves/02_25_arum.jpg",
+    slug: "whispering-waves",
   },
 ]
 

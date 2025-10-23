@@ -278,8 +278,7 @@ policies_md: |
 Rustica is a relaxed, rustic home in Onrus — just a ten-minute walk to the beach — and a great base for families wanting a simple coastal break.
 
 ### Accommodation Details
-- **Bedrooms:** 2 rooms, each with a double bed and a bunk 
-- **Extra sleeping:** Sleeper couch in lounge with slide-out single (house can sleep up to 10 if needed)  
+- **Bedrooms:** 2 rooms, each with a double bed and a double bunk  
 - **Bathroom:** 1 large bathroom with bath, shower, toilet, and basin
 
 ### Living & Kitchen
@@ -381,26 +380,23 @@ sleeps: 6
 beds: 3
 baths: 2
 one_liner: "Family-orientated holiday home with a heated pool, modern kitchen, and excellent security, walking distance to cliff paths and tidal pools."
-hero: "/homes/pelicans-nest/16 Pelican Onrus (1 of 50).JPG"
+hero: "/homes/pelicans-nest/Pelican Decking reshoot-6.jpg"
 gallery:
-  - "/homes/pelicans-nest/Re-Take Sept 2025.JPG"
-  - "/homes/pelicans-nest/Re-Take Sept 2025-3.JPG"
-  - "/homes/pelicans-nest/16 Pelican Onrus (2 of 50).JPG"
-  - "/homes/pelicans-nest/Re-Take Sept 2025-6.JPG"
-  - "/homes/pelicans-nest/16 Pelican Onrus (8 of 50).JPG"
-  - "/homes/pelicans-nest/16 Pelican Onrus (9 of 50).JPG"
-  - "/homes/pelicans-nest/16 Pelican Onrus (10 of 50).JPG"
-  - "/homes/pelicans-nest/16 Pelican Onrus (15 of 50).JPG"
-  - "/homes/pelicans-nest/16 Pelican Onrus (16 of 50).JPG"
+  - "/homes/pelicans-nest/Pelican Decking reshoot-5.jpg"
+  - "/homes/pelicans-nest/Pelican Decking reshoot-7.jpg"
+  - "/homes/pelicans-nest/Re-Take Sept 2025-6.jpg"
+  - "/homes/pelicans-nest/Re-Take Sept 2025-3.jpg"
+  - "/homes/pelicans-nest/Re-Take Sept 2025-4.jpg"
+  - "/homes/pelicans-nest/16 Pelican Onrus (14 of 50).JPG"
+  - "/homes/pelicans-nest/16 Pelican Onrus (19 of 50).JPG"
   - "/homes/pelicans-nest/16 Pelican Onrus (18 of 50).JPG"
-  - "/homes/pelicans-nest/16 Pelican Onrus (22 of 50).JPG"
-  - "/homes/pelicans-nest/16 Pelican Onrus (25 of 50).JPG"
-  - "/homes/pelicans-nest/16 Pelican Onrus (24 of 50).JPG"
-  - "/homes/pelicans-nest/16 Pelican Onrus (36 of 50).JPG"
-  - "/homes/pelicans-nest/16 Pelican Onrus (38 of 50).JPG"
-  - "/homes/pelicans-nest/16 Pelican Onrus (43 of 50).JPG"
-  - "/homes/pelicans-nest/16 Pelican Onrus (49 of 50).JPG"
+  - "/homes/pelicans-nest/16 Pelican Onrus (16 of 50).JPG"
+  - "/homes/pelicans-nest/16 Pelican Onrus (35 of 50).JPG"
   - "/homes/pelicans-nest/16 Pelican Onrus (34 of 50).JPG"
+  - "/homes/pelicans-nest/16 Pelican Onrus (41 of 50).JPG"
+  - "/homes/pelicans-nest/16 Pelican Onrus (39 of 50).JPG"
+  - "/homes/pelicans-nest/16 Pelican Onrus (44 of 50).JPG"
+  - "/homes/pelicans-nest/16 Pelican Onrus (43 of 50).JPG"
 amenities:
   - Uncapped Wi-Fi
   - DSTV
@@ -419,7 +415,7 @@ amenities:
   - Freezer
   - Rechargeable light bulbs
   - Smart TV
-  - Heated pool with safety net (extra R400 per day)
+  - Heated pool with safety net
   - CCTV
   - Solar geyser
 rates_md: |
@@ -436,13 +432,13 @@ policies_md: |
 ---
 
 ## Description
-Pelican's Nest is a unique, family-orientated holiday home located in the quiet suburb of Vermont, bordering Onrus. It's the perfect 'home away from home' with excellent security, including a full alarm system and CCTV.
+Pelican's Nest is a unique, family-orientated holiday home located in the quiet suburb of Vermont, bordering Onrus. It's the perfect 'home away from home' with excellent security, including a full alarm system and CCTV. A highlight of the property is the large swimming pool, which can be heated at an additional charge of R400 per day, paid in advance for stays longer than 10 days (no heating available for weekend lets). The garden is fully enclosed, and pets are welcome with prior arrangement.
 
 ### Accommodation Details
 The home sleeps 6 comfortably in three bedrooms:  
 - **Main bedroom:** Queen-size bed, en-suite bathroom with bath and shower  
-- **Second bedroom:** Queen-size bed  
-- **Third bedroom:** Bunk beds and a single bed  
+- **Second bedroom:** Double bed
+- **Third bedroom:** Double bed
 - **Second bathroom:** Spacious with bath and shower  
 
 The modern, vibrant kitchen is fully equipped with fridge, freezer, microwave, dishwasher, Nespresso coffee machine, gas stove, and icemaking machine. A washing machine and tumble dryer are also available.
@@ -643,7 +639,7 @@ slug: "a-wave-from-it-all"
 area: "Vermont"
 address: "37 Duiker Street, Vermont"
 sleeps: 10
-beds: 4
+beds: 3
 baths: 4
 one_liner: "Rustic cliff-path family home with spectacular ocean views, a sunny deck and braai, plus a dedicated bunk room for kids."
 hero: "/homes/a-wave-from-it-all/IMG_20210728_103247_2.jpg"
@@ -658,7 +654,7 @@ gallery:
   - "/homes/a-wave-from-it-all/IMG_20210728_103746_1.jpg"
 amenities:
   - Off-street parking
-  - DSTV (bring your own decoder)
+  - DSTV
   - Smart TV
   - Wi-Fi
   - Washing machine
@@ -666,11 +662,11 @@ amenities:
   - Coffee machine
   - Microwave
   - Fridge
-  - Indoor braai
   - Portable/Outdoor braai
   - 4 bathrooms
   - Security
   - Torches for load shedding
+
 rates_md: |
   **Peak season**  
   R4500 p/n (Minimum 10 nights)
@@ -680,6 +676,7 @@ rates_md: |
 
   **Off season**  
   R2300 p/n (Minimum 2 nights)
+
 policies_md: |
   **Pets:** Allowed by arrangement
 ---
@@ -688,12 +685,12 @@ policies_md: |
 A Wave From It All is a comfortable, rustic holiday home perfectly positioned on the cliff path in Vermont, offering spectacular ocean views and effortless indoor–outdoor living. It's an ideal base for a relaxed family break away from the hustle and bustle.
 
 ### Accommodation Details
-- **Bedrooms:** 3 standard bedrooms **plus** a large kids' room with **4 bunk beds**  
+- **Bedrooms:** 2 standard bedrooms **plus** a large kids' room with **4 bunk beds**  
 - **Bathrooms:** 4 total  
-- **Living:** Open-plan kitchen, lounge and dining area flowing to a sea-facing patio and deck
+- **Living:** Large lounge and dining room with a **separate kitchen**, flowing to a sea-facing patio and deck
 
 ### Cooking & Entertaining
-A very workable, well-equipped kitchen serves the dining and lounge areas. Step out to the deck with a portable braai for long summer evenings, or enjoy the **indoor braai** on cooler days.
+A very workable, well-equipped kitchen serves the dining and lounge areas. Step out to the deck with a portable braai for long summer evenings. There’s also a **sheltered courtyard at the back of the house** for windy days so you can still enjoy a braai.
 
 ### Location & Views
 Set right on the cliff path, the home overlooks the coastline with sweeping sea views — the perfect spot to unwind, watch the waves, and recharge.`,
@@ -764,7 +761,7 @@ Sea Perfection is a holidaymaker’s dream in the heart of Onrus — arrive, unp
 ### Outdoor Living
 Step from the lounge to the well-kept garden for easy entertaining, or head upstairs to enjoy braais with elevated views. With full DSTV, reliable connectivity, and thoughtful comforts throughout, Sea Perfection makes coastal downtime effortless.`,
 
-  "sunset-terrace": `---
+"sunset-terrace": `---
 title: "Sunset Terrace"
 slug: "sunset-terrace"
 area: "Onrus"
@@ -772,7 +769,7 @@ address: "29 Beyers Street, Onrus River"
 sleeps: 6
 beds: 3
 baths: 2
-one_liner: "Spacious 'Old Onrus' family home with roof deck, enclosed braai room, and easy walk to cliff path, Davies Pool, and beach."
+one_liner: "Spacious 'Old Onrus' family home with roof deck, enclosed braai room, and easy walk to cliff path, Davies Pool, and beach. Can be booked together with Seaclusion next door (27 Beyers) to sleep up to 16."
 hero: "/homes/sunset-terrace/29 Beyers Street Onrus (1 of 24).JPG"
 gallery:
   - "/homes/sunset-terrace/29 Beyers Street, Onrus (17 of 24).JPG"
@@ -825,13 +822,144 @@ rates_md: |
   R2300 p/n (Minimum 2 nights)
 policies_md: |
   **Pets:** Not Allowed
-  **Notes:** Shares an entrance with the neighbouring house (not intrusive). Garden fully enclosed with lawn for children.
+  **Notes:** Shares the same entrance gate with **Seaclusion** at 27 Beyers Street and the properties are alongside one another. These two homes can be let together to accommodate **up to 16 guests**. Garden fully enclosed with lawn for children.
 ---
 
 ## Description
 Set in the heart of Old Onrus, Sunset Terrace puts you two roads from the coastline, cliff path, and Davies Pool, and a brisk 15-minute walk from the main beach and lagoon. The home has three bedrooms: an upstairs main en-suite, plus two downstairs bedrooms (one double, one with two singles) sharing a shower and toilet. The open-plan, well-equipped kitchen includes a washing machine and dishwasher.
 
 An enclosed upstairs braai room is a winner on windy days, while the roof deck serves up mountain and sea views for sunset hour. Outside, the fully enclosed garden offers safe play space for kids, and a double garage keeps parking simple. With Wi-Fi, DSTV & Netflix, and an inverter for TV and essential lights, this is an easy, comfortable base for a family beach break.
+
+**Travelling as a larger group?** Sunset Terrace sits alongside its sister property, **Seaclusion** at 27 Beyers Street, and they share the same entrance gate. Book them together to sleep up to 16 across both homes.
+`,
+
+"seaclusion": `---
+title: "Seaclusion"
+slug: "seaclusion"
+area: "Onrus"
+address: "27 Beyers Street, Onrus River"
+sleeps: 10
+beds: 4
+baths: 3
+one_liner: "Comfortable Onrus family home with patio braai and upstairs deck with ocean views, an easy walk to the beach. Can be booked together with Sunset Terrace next door (29 Beyers) to sleep up to 16."
+hero: "/homes/seaclusion/Beyers Street Low Res-40.JPG"
+gallery:
+  - "/homes/seaclusion/Beyers Street Low Res-4.JPG"
+  - "/homes/seaclusion/Beyers Street Low Res-10.JPG"
+  - "/homes/seaclusion/Beyers Street Low Res-16.JPG"
+  - "/homes/seaclusion/Beyers Street Low Res-20.JPG"
+  - "/homes/seaclusion/Beyers Street Low Res-6.JPG"
+  - "/homes/seaclusion/Beyers Street Low Res-3.JPG"
+  - "/homes/seaclusion/Beyers Street Low Res-15.JPG"
+  - "/homes/seaclusion/Beyers Street Low Res-22.JPG"
+  - "/homes/seaclusion/Beyers Street Low Res-7.JPG"
+  - "/homes/seaclusion/Beyers Street Low Res-18.JPG"
+  - "/homes/seaclusion/Beyers Street Low Res-19.JPG"
+  - "/homes/seaclusion/Beyers Street Low Res-26.JPG"
+  - "/homes/seaclusion/Beyers Street Low Res-2.JPG"
+amenities:
+  - Uncapped Wi-Fi
+  - Netflix
+  - TV with DVD selection
+  - Fans
+  - Dishwasher
+  - Washing machine
+  - Tumble dryer
+  - Microwave
+  - Fridge
+  - Freezer
+  - Built-in braai (patio)
+  - Roof deck with ocean views
+  - Good security
+  - Safe parking
+  - Double garage
+rates_md: |
+  Peak  
+  R4750 p/n for 6 (R400 p/p up to 10) (Minimum 10 nights)
+
+  Shoulder  
+  R2900 p/n for 6 (R400 p/p up to 10) (Minimum 2 nights)
+
+  Off season  
+  R2650 p/n for 6 (R400 p/p up to 10) (Minimum 2 nights)
+policies_md: |
+  Pets: Not Allowed
+  Notes: Shares the same entrance gate with Sunset Terrace at 29 Beyers Street and the properties are alongside one another. These two homes can be let together to accommodate up to 16 guests. Booked 20 December – 2 January 2026.
+---
+
+## Description
+Set in Onrus, Seaclusion puts you within an easy walk of the beach and a short drive to Hermanus town centre, award-winning wine routes, fynbos reserves, great restaurants, a world-class golf course, and the Whale Coast Mall. It’s a relaxed, well-equipped base for family holidays.
+
+The home has four bedrooms: downstairs, a large family room with 1 double + 2 singles and an en-suite (shower), plus two additional double bedrooms served by a separate shower bathroom. Upstairs, the main bedroom (queen) features an en-suite with bath and shower. The open-plan kitchen and lounge flow onto a patio with a built-in braai for long summer evenings.
+
+Head up to the upper-level deck to unwind with ocean views at sunset. Inside, there’s Netflix and a TV with a selection of DVDs for family movie nights (no DSTV). Practical touches—Wi-Fi, dishwasher, washing machine, tumble dryer, double garage, and secure parking—keep seaside living simple.
+
+Travelling as a larger group? Seaclusion sits alongside its sister property, Sunset Terrace at 29 Beyers Street, and they share the same entrance gate. Book them together to sleep up to 16 across both homes.
+`,
+
+"island-time": `---
+title: "Island Time"
+slug: "island-time"
+area: "Onrus"
+address: "9 Protea Street, Onrus River"
+sleeps: 10
+beds: 4
+baths: 2
+one_liner: "Relaxed Onrus family home with open-plan living, furnished patio, enclosed garden, and Weber/pit braai—ideal for easy family entertaining."
+hero: "/homes/island-time/9 Protea Road, Onrus-2.JPG"
+gallery:
+  - "/homes/island-time/9 Protea Road, Onrus-1.JPG"
+  - "/homes/island-time/9 Protea Road, Onrus-10.JPG"
+  - "/homes/island-time/9 Protea Road, Onrus-14_1.JPG"
+  - "/homes/island-time/9 Protea Road, Onrus-16.JPG"
+  - "/homes/island-time/9 Protea Road, Onrus-19.JPG"
+  - "/homes/island-time/9 Protea Road, Onrus-21.JPG"
+  - "/homes/island-time/9 Protea Road, Onrus-25.JPG"
+  - "/homes/island-time/9 Protea Road, Onrus-26.JPG"
+  - "/homes/island-time/9 Protea Road, Onrus-12.JPG"
+  - "/homes/island-time/9 Protea Road, Onrus-18.JPG"
+  - "/homes/island-time/9 Protea Road, Onrus-20.JPG"
+  - "/homes/island-time/9 Protea Road, Onrus-22.JPG"
+  - "/homes/island-time/9 Protea Road, Onrus-27.JPG"
+  - "/homes/island-time/9 Protea Road, Onrus-28.JPG"
+amenities:
+  - Uncapped Wi-Fi
+  - Smart TV
+  - Streaming apps
+  - DSTV (on request)
+  - Dishwasher
+  - Washing machine
+  - Tumble dryer
+  - Microwave
+  - Fridge
+  - Freezer
+  - Portable/Weber braai
+  - Pit braai
+  - Enclosed garden
+  - Fireplace
+  - Rechargeable lights (load shedding)
+  - Excellent security
+  - Street parking (ample)
+rates_md: |
+  **Peak**  
+  R4200 p/n (Minimum 10 nights)
+
+  **Shoulder**  
+  R3900 p/n (Minimum 2 nights)
+
+  **Off season**  
+  R3200 p/n (Minimum 2 nights)
+policies_md: |
+  **Pets:** Not Allowed
+  **Notes:** DSTV available on request. Enclosed garden and ample street parking in front of the house.
+---
+
+## Description
+Set in Onrus, Island Time is made for fuss-free family holidays. An open-plan lounge and dining room create an easy, social hub, while a well-equipped kitchen with all the mod-cons keeps meal prep simple. Slide outside to a furnished patio and enclosed garden—perfect for braais and long, lazy afternoons.
+
+The home sleeps up to 10 across four rooms: three bedrooms + an extra room off the lounge with a single bed. Bed configuration is 1 king, 1 queen, and 6 singles. There are 2 bathrooms.
+
+For downtime, enjoy a Smart TV with streaming, and DSTV on request. Practical touches—Wi-Fi, dishwasher, washing machine, tumble dryer, microwave, fridge/freezer, and rechargeable lights for load shedding—make seaside living effortless. Outside you’ll find both a Weber/portable braai and a pit braai, plus ample street parking. This is an easygoing base to gather, relax, and make holiday memories.
 `,
 
  "whispering-waves": `---
@@ -1101,7 +1229,7 @@ policies_md: |
 ---
 
 ## Description
-Beachcomber's Rest is a true family home on the sought-after Peninsu`,
+Beachcomber’s Rest is a spacious, cheerful family home on the beloved Peninsula—just minutes from the beach and lagoon and a short stroll to local cafés and eateries. Freshly decorated and thoughtfully equipped, it’s designed for easy coastal living and can comfortably host up to 14 guests, making it ideal for multiple families holidaying together.`,
 
   "seabreeze": `---
 title: "Seabreeze"
@@ -1148,10 +1276,10 @@ rates_md: |
   R5600 p/n (Minimum 10 nights)
 
   Shoulder
-  R4500 p/n (Minimum 2 nights)
+  R2900 p/n (Minimum 2 nights)
 
   Off season
-  R4000 p/n (Minimum 2 nights)
+  R2700 p/n (Minimum 2 nights)
 policies_md: |
   Pets: Not Allowed
 ---
@@ -1390,9 +1518,10 @@ amenities:
   - Private entrance
   - Safe off-street parking
 rates_md: |
-  All year
-  R1500 p/n for 2 persons (Minimum 2 nights)
-  R2500 p/n for 4 persons (Minimum 2 nights)
+  Only Available 15 Dec - 15 Jan 
+
+  R2000 p/n (minimum stay 10 days)
+
 policies_md: |
   Pets: Not Allowed
 ---
@@ -1404,6 +1533,68 @@ The open-plan lounge, dining area, and well-equipped kitchen open to a private g
 
 A portable braai adds easy outdoor cooking to relaxed evenings at home. Comfortable, convenient, and close to everything, Whale-a-While is an ideal base for exploring Hermanus and its coastal paths.
 `,
+
+"lilak-house": `---
+title: "Lilak House"
+slug: "lilak-house"
+area: "Hermanus"
+address: "259 5th Street, Voelklip"
+sleeps: 8
+beds: 4
+baths: 3
+one_liner: "Spacious Voelklip family home with two en-suite masters, mountain-view balcony, north-facing braai area, and easy access to beaches and walks."
+hero: "/homes/lilak-house/exterior.JPG"
+gallery:
+  - "/homes/lilak-house/ROADSIDE.JPG"
+  - "/homes/lilak-house/mountain.JPG"
+  - "/homes/lilak-house/SINGLE GARAGE.JPG"
+  - "/homes/lilak-house/STAIRS.JPG"
+  - "/homes/lilak-house/lounge.JPG"
+  - "/homes/lilak-house/family room.JPG"
+  - "/homes/lilak-house/FAM ROOM.JPG"
+  - "/homes/lilak-house/F ROOM.JPG"
+  - "/homes/lilak-house/kitchen 2.JPG"
+  - "/homes/lilak-house/kitchen 3.JPG"
+  - "/homes/lilak-house/kitchen dining room and scullery.JPG"
+  - "/homes/lilak-house/scullery.JPG"
+  - "/homes/lilak-house/DOWNSTAIRS QUEEN EN SUITE.JPG"
+  - "/homes/lilak-house/DOWNSTAIRS MAIN BEDROOM.JPG"
+  - "/homes/lilak-house/EN SUITE MAIN BEDROOMDOWNSTAIRS.JPG"
+  - "/homes/lilak-house/MAIN BEDROOM UPSTAIRS ENSUITE.JPG"
+  - "/homes/lilak-house/HOOF SLAAAPKAMER ESNUITE.JPG"
+  - "/homes/lilak-house/2 SINGLES.JPG"
+  - "/homes/lilak-house/downstairs 2 sngles.JPG"
+  - "/homes/lilak-house/2nd bathroom.JPG"
+  - "/homes/lilak-house/3rd bathroom.JPG"
+  - "/homes/lilak-house/badkMER.JPG"
+  - "/homes/lilak-house/bathroom.JPG"
+  - "/homes/lilak-house/UPSTAIRS BATHROOM.JPG"
+  - "/homes/lilak-house/Picture1.JPG"
+amenities:
+  - DSTV (full package)
+  - TV (not smart)
+  - Dishwasher
+  - Washing machine
+  - Tumble dryer
+  - North-facing braai area
+  - Balcony with mountain view (upstairs master)
+  - Single garage
+rates_md: | 
+  Available **10 Dec – 10 Jan 2026** only.  
+  R8000 p/n
+
+policies_md: |
+  **Pets:** Please enquire  
+---
+
+## Description
+Lilak House is a four-bedroom, family-friendly home in Voelklip with generous rooms and plenty of space to spread out. Downstairs features a master bedroom with en-suite, a family bathroom with bath, and living areas designed for easy holiday time. Upstairs, a second master suite opens to a small balcony with mountain views—perfect for morning coffee.
+
+The kitchen has all the mod-cons—dishwasher, washing machine, and tumble dryer—and flows to a north-facing braai area for long summer evenings. There’s garaging for one car, and while it’s a walk to the beaches, it’s very doable, with classic Voelklip hiking paths and scenic walks close by. Entertainment is simple with a TV (not smart) and DSTV full package.
+
+Sleeping 8 with ease, Lilak House suits one large family or two smaller families looking for a comfortable Voelklip base during the festive season.
+`,
+
 }
 
 export async function getPropertySlugs(): Promise<string[]> {

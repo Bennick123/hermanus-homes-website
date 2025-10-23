@@ -1,6 +1,6 @@
 import Image from "next/image"
 import Link from "next/link"
-import { MapPin, Users, Bed, Bath } from "lucide-react"
+import { MapPin, Users, Bed, Bath, Info, ShieldCheck, Receipt } from "lucide-react"
 import { getAllProperties } from "@/lib/properties"
 
 // Force this to be a server component
@@ -53,7 +53,7 @@ export default async function StaysPage() {
                   </p>
                   <ul className="text-left space-y-1">
                     <li>• Vermont - Fynbos reserves and salt pan bird watching</li>
-                    <li>• Onrus - Blue flag beaches and tidal pools</li>
+                    <li>• Onrus - Beautiful beaches and tidal pools</li>
                     <li>• Hermanus - World-famous whale watching</li>
                     <li>• Sandbaai - Pristine beaches and coastal living</li>
                   </ul>
@@ -118,7 +118,7 @@ export default async function StaysPage() {
 
         const areaDescriptions = {
           Vermont: "Fynbos reserves, mountain trails, and the famous Vermont Salt Pan for bird watching",
-          Onrus: "Blue flag beaches, estuary views, and family-friendly tidal pools",
+          Onrus: "Beautiful beaches, estuary views, and family-friendly tidal pools",
           Hermanus: "World-famous whale watching, cliff path walks, and vibrant town center",
           Sandbaai: "Pristine beaches, coastal living, and peaceful seaside atmosphere",
         }
@@ -251,6 +251,41 @@ export default async function StaysPage() {
           </div>
         </div>
       </section>
+
+      {/* Fees & Deposits (Universal Note) */}
+<section className="section-padding bg-white">
+  <div className="container">
+    <div className="max-w-3xl mx-auto rounded-xl border border-amber-200 bg-amber-50 p-6 md:p-8 shadow-sm">
+      <div className="flex items-start gap-4">
+        <div className="mt-1 shrink-0">
+          <Info className="text-amber-700" size={24} aria-hidden="true" />
+        </div>
+        <div>
+          <h3 className="text-xl font-semibold mb-2">Fees & Deposits (applies to all stays)</h3>
+          <ul className="space-y-2 text-gray-700 text-sm md:text-base">
+            <li className="flex gap-2">
+              <ShieldCheck size={18} className="mt-1 shrink-0" aria-hidden="true" />
+              <span>
+                <strong>Refundable breakage deposit:</strong> R2000 per booking.
+              </span>
+            </li>
+            <li className="flex gap-2">
+              <Receipt size={18} className="mt-1 shrink-0" aria-hidden="true" />
+              <span>
+                <strong>Cleaning & laundry fee:</strong> charged once per stay and <em>quoted on enquiry</em>. 
+                The amount varies by property based on the home’s size and setup.
+              </span>
+            </li>
+          </ul>
+          <p className="text-gray-600 text-sm mt-3">
+            These items will be clearly itemised on your quote and booking confirmation.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 
       {/* Call to Action */}
       <section className="section-padding">

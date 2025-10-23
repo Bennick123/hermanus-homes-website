@@ -187,7 +187,7 @@ export default function Experiences() {
               <div className="relative h-48">
                 <SafeImage
                   src="/images/onrusbeach.jpg"
-                  alt="Onrus Blue Flag Beach"
+                  alt="Onrus Beach"
                   fill
                   className="object-cover"
                   loading="lazy"
@@ -196,9 +196,9 @@ export default function Experiences() {
                 />
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-semibold mb-2">Onrus Beach (Blue Flag)</h3>
+                <h3 className="text-xl font-semibold mb-2">Onrus Beach</h3>
                 <p className="text-gray-600 mb-4 text-sm">
-                  Surf gentle beach-breaks, hire a bodyboard or simply sun-soak on one of SA's cleanest Blue-Flag sands.
+                  Surf gentle beach-breaks, hire a bodyboard or simply sun-soak on one of SA's cleanest sands.
                 </p>
                 <div className="flex items-center text-sm text-gray-500 mb-4">
                   <Calendar size={16} className="mr-2" />

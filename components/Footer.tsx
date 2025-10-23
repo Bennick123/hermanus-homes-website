@@ -5,9 +5,8 @@ const CompanyName = "Hermanus Homes"
 const CompanyTagline = "Luxury holiday rentals in Onrus, Vermont, Sandbaai and Hermanus"
 const PhoneNumber = "+27 79 496 4601"
 const EmailAddress = "Clare@hermanushomes.co.za"
-const InstagramURL = "{{InstagramURL}}"
-const FacebookURL = "{{FacebookURL}}"
-const WhatsAppURL = "{{WhatsAppURL}}"
+const InstagramURL = "https://www.instagram.com/hermanusholidayhomesolutions"
+const FacebookURL = "https://www.facebook.com/hermanusholidayhomesolutions"
 
 export default function Footer() {
   const currentYear = new Date().getFullYear()
@@ -81,9 +80,6 @@ export default function Footer() {
               </a>
               <a href={FacebookURL} className="text-gray-300 hover:text-white transition-colors" aria-label="Facebook">
                 <Facebook size={20} />
-              </a>
-              <a href={WhatsAppURL} className="text-gray-300 hover:text-white transition-colors" aria-label="WhatsApp">
-                <MessageCircle size={20} />
               </a>
             </div>
           </div>
