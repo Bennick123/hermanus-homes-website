@@ -246,7 +246,7 @@ export default async function StaysPage() {
                 <Bath className="text-blue-600" size={24} />
               </div>
               <h3 className="text-lg font-semibold mb-2">Full Service</h3>
-              <p className="text-gray-600 text-sm">Concierge support and local assistance throughout your stay</p>
+              <p className="text-gray-600 text-sm">Support and local assistance throughout your stay</p>
             </div>
           </div>
         </div>

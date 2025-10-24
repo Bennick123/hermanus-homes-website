@@ -55,7 +55,7 @@ export default function Home() {
           <div className="text-center mb-12 fade-in-up">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Featured Properties</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Discover our handpicked selection of luxury holiday homes in Onrus and Vermont
+              Discover our handpicked selection of luxury holiday homes in Onrus, Vermont, Hermanus and Sandbaai
             </p>
           </div>
           <PropertyCarousel />
@@ -115,7 +115,7 @@ export default function Home() {
                 <Bath className="text-blue-600" size={24} />
               </div>
               <h3 className="text-lg font-semibold mb-2">Full Service</h3>
-              <p className="text-gray-600 text-sm">Concierge support and local assistance throughout your stay</p>
+              <p className="text-gray-600 text-sm">Support and local assistance throughout your stay</p>
             </div>
           </div>
         </div>

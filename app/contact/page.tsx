@@ -1,23 +1,15 @@
-"use client"
+"use client";
 
-import type React from "react"
-import { useState } from "react"
-import Image from "next/image"
-import { Phone, Mail } from "lucide-react"
+import type React from "react";
+import { useState } from "react";
+import Image from "next/image";
+import { Phone, Mail } from "lucide-react";
 
 // Contacts
 const contacts = [
-  {
-    label: "CLARE",
-    email: "Clare@hermanushomes.co.za",
-    phone: "+27 79 496 4601",
-  },
-  {
-    label: "GLENDA",
-    email: "Bookings@hermanushomes.co.za",
-    phone: "+27 84 200 2253",
-  },
-]
+  { label: "CLARE", email: "Clare@hermanushomes.co.za", phone: "+27 79 496 4601" },
+  { label: "GLENDA", email: "Bookings@hermanushomes.co.za", phone: "+27 84 200 2253" },
+];
 
 // Property options for the dropdown
 const propertyOptions = [
@@ -28,22 +20,26 @@ const propertyOptions = [
   "Corner Delight Onrust Beach",
   "Flow",
   "Holiday Vibe",
+  "island-time",
   "La Mer Beachfront",
+  "Lilak House",
   "Once Upon a Tide",
   "Out of Africa Sandbaai",
   "Pelican's Nest",
   "Rustica",
   "Sea Perfection",
   "Seabreeze",
+  "Seaclusion",
   "Seacrest Cottage",
   "Seafront Retreat",
   "Seaside Escape Studio Onrus",
+  "Skye Cottage",
   "Sunset Terrace",
   "Tranquility",
   "Whale a While",
   "Whispering Waves",
   "Other Property",
-]
+];
 
 export default function Contact() {
   const [formData, setFormData] = useState({
@@ -52,27 +48,56 @@ export default function Contact() {
     phone: "",
     property: "General Inquiry",
     message: "",
-  })
+  });
 
-  const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault()
-    console.log("Form submitted:", formData)
-    setFormData({ name: "", email: "", phone: "", property: "General Inquiry", message: "" })
-    alert("Thank you for your message! We will get back to you soon.")
-  }
+  const [submitting, setSubmitting] = useState(false);
+  const [status, setStatus] = useState<"idle" | "success" | "error">("idle");
+  const [errorMsg, setErrorMsg] = useState<string | null>(null);
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setSubmitting(true);
+    setStatus("idle");
+    setErrorMsg(null);
+
+    try {
+      const res = await fetch("/api/contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(formData),
+      });
+
+      const data = await res.json();
+
+      if (!res.ok) {
+        throw new Error(data?.error || "Failed to send. Please try again.");
+      }
+
+      setStatus("success");
+      setFormData({
+        name: "",
+        email: "",
+        phone: "",
+        property: "General Inquiry",
+        message: "",
+      });
+    } catch (err: any) {
+      setStatus("error");
+      setErrorMsg(err?.message || "Something went wrong.");
+    } finally {
+      setSubmitting(false);
+    }
+  };
 
   const handleChange = (
     e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>
   ) => {
-    setFormData({
-      ...formData,
-      [e.target.name]: e.target.value,
-    })
-  }
+    setFormData({ ...formData, [e.target.name]: e.target.value });
+  };
 
   return (
     <div className="pt-20">
-      {/* Hero Section with Onrus Beach */}
+      {/* Hero Section */}
       <section className="relative h-96 flex items-center justify-center overflow-hidden">
         <Image
           src="/images/onrusbeach.jpg"
@@ -84,7 +109,9 @@ export default function Contact() {
         />
         <div className="absolute inset-0 bg-black/50" />
         <div className="relative z-10 text-center text-white container">
-          <h1 className="text-4xl md:text-6xl font-bold mb-4 fade-in-up text-shadow-lg">Contact Us</h1>
+          <h1 className="text-4xl md:text-6xl font-bold mb-4 fade-in-up text-shadow-lg">
+            Contact Us
+          </h1>
           <p className="text-lg md:text-xl max-w-3xl mx-auto fade-in-up text-shadow-md">
             Ready to book your perfect holiday home? Have questions about our properties or services? We're here to help
             make your Hermanus getaway unforgettable.
@@ -99,6 +126,7 @@ export default function Contact() {
             {/* Contact Form */}
             <div className="fade-in-up">
               <h2 className="text-2xl font-bold mb-6">Send us a Message</h2>
+
               <form onSubmit={handleSubmit} className="space-y-6">
                 <div>
                   <label htmlFor="name" className="block text-sm font-medium text-gray-700 mb-2">
@@ -181,9 +209,25 @@ export default function Contact() {
                     placeholder="Tell us about your holiday plans, questions, or special requirements..."
                   />
                 </div>
-                <button type="submit" className="btn-primary w-full">
-                  Send Message
+
+                <button
+                  type="submit"
+                  className="btn-primary w-full disabled:opacity-60"
+                  disabled={submitting}
+                >
+                  {submitting ? "Sending..." : "Send Message"}
                 </button>
+
+                {status === "success" && (
+                  <p className="text-green-700 text-sm">
+                    Thank you! Your message has been sent to Clare.
+                  </p>
+                )}
+                {status === "error" && (
+                  <p className="text-red-700 text-sm">
+                    {errorMsg || "Something went wrong. Please try again."}
+                  </p>
+                )}
               </form>
             </div>
 
@@ -191,21 +235,14 @@ export default function Contact() {
             <div className="fade-in-up">
               <h2 className="text-2xl font-bold mb-6">Get in Touch</h2>
 
-              {/* Two equal-height cards that wrap long text */}
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 items-stretch">
                 {contacts.map((c) => (
-                  <div
-                    key={c.label}
-                    className="p-6 border rounded-lg h-full flex flex-col justify-start"
-                  >
+                  <div key={c.label} className="p-6 border rounded-lg h-full flex flex-col justify-start">
                     <h3 className="font-semibold tracking-wider mb-3">{c.label}</h3>
                     <div className="space-y-3 text-gray-700">
                       <p className="flex items-center gap-2">
                         <Mail size={18} className="text-blue-600 shrink-0" />
-                        <a
-                          href={`mailto:${c.email}`}
-                          className="text-blue-600 hover:underline break-all max-w-full inline-block"
-                        >
+                        <a href={`mailto:${c.email}`} className="text-blue-600 hover:underline break-all max-w-full inline-block">
                           {c.email}
                         </a>
                       </p>
@@ -223,7 +260,6 @@ export default function Contact() {
                 ))}
               </div>
 
-              {/* Why Contact Us */}
               <div className="mt-8 p-6 bg-blue-50 rounded-lg">
                 <h3 className="font-semibold mb-4 text-blue-900">Why Choose Us?</h3>
                 <ul className="space-y-2 text-sm text-blue-800">
@@ -239,5 +275,5 @@ export default function Contact() {
         </div>
       </section>
     </div>
-  )
+  );
 }
