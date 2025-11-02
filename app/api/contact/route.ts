@@ -7,7 +7,7 @@ export const runtime = "nodejs"; // Ensure Node runtime
 const resend = new Resend(process.env.RESEND_API_KEY);
 
 const TO = "clare@hermanushomes.co.za";
-const FROM = process.env.RESEND_FROM || "onboarding@resend.dev";
+const FROM = process.env.RESEND_FROM || "no-reply@onrusaccomadations.co.za";
 
 // Basic escaping to guard against HTML injection in emails
 function esc(s: string) {
@@ -61,18 +61,19 @@ export async function POST(req: NextRequest) {
     const subject = `Website enquiry${property ? ` — ${property}` : ""}`;
     const html = renderHtml({ name, email, phone, property, message });
 
-    const { error } = await resend.emails.send({
-      from: `Onrus Accommodations <${FROM}>`,
-      to: [TO],
-      subject,
-      html,
-      reply_to: email, // so Clare can just hit Reply
-    });
+    const { data, error } = await resend.emails.send({
+  from: `Onrus Accommodations <${FROM}>`,
+  to: [TO],
+  subject,
+  html,
+  reply_to: email,
+});
 
-    if (error) {
-      console.error("Resend error:", error);
-      return NextResponse.json({ error: "Failed to send email." }, { status: 500 });
-    }
+if (error) {
+  console.error("Resend API error:", error);
+  return NextResponse.json({ error: String(error) }, { status: 500 });
+}
+
 
     return NextResponse.json({ ok: true });
   } catch (err) {

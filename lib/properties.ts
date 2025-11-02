@@ -479,7 +479,7 @@ gallery:
   - "/homes/once-upon-a-tide/IMG-20230702-WA0019.jpg"
   - "/homes/once-upon-a-tide/Patio-braai-area.jpg"
 amenities:
-  - Wi-Fi on request
+  - Uncapped Wi-Fi
   - DSTV optional (R35 per day)
   - Washing machine
   - Dishwasher
