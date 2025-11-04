@@ -240,12 +240,19 @@ baths: 1
 one_liner: "Rustic family home a short walk to the beach, with large enclosed garden, indoor fireplace, and easy indoor–outdoor flow."
 hero: "/homes/rustica/IMG-20210902-WA0003.jpg"
 gallery:
-  - "/homes/rustica/IMG-20210902-WA0008.jpg"
-  - "/homes/rustica/IMG-20210902-WA0011.jpg"
-  - "/homes/rustica/IMG-20210902-WA0007.jpg"
-  - "/homes/rustica/IMG-20210902-WA0012.jpg"
-  - "/homes/rustica/IMG-20210902-WA0006.jpg"
-  - "/homes/rustica/IMG-20210902-WA0015.jpg"
+  - "/homes/rustica/1.jpg"
+  - "/homes/rustica/2.jpg"
+  - "/homes/rustica/3.jpg"
+  - "/homes/rustica/4.jpg"
+  - "/homes/rustica/5.jpg"
+  - "/homes/rustica/6.jpg"
+  - "/homes/rustica/7.jpg"
+  - "/homes/rustica/8.jpg"
+  - "/homes/rustica/9.jpg"
+  - "/homes/rustica/10.jpg"
+  - "/homes/rustica/11.jpg"
+  - "/homes/rustica/12.jpg"
+  - "/homes/rustica/13.jpg"
 amenities:
   - Wi-Fi
   - Dishwasher
@@ -261,13 +268,13 @@ amenities:
   - Freezer
 rates_md: |
   **Peak**  
-  R3600 (Minimum 10 days)
+  R3000 (Minimum 10 days)
 
   **Shoulder**  
-  R3000 (Minimum 2 nights)
+  R2500 (Minimum 2 nights)
 
   **Off Season**  
-  R2500 (Minimum 2 nights)
+  R2000 (Minimum 2 nights)
 policies_md: |
   **Pets:** Allowed  
   **Smoking:** No smoking indoors  

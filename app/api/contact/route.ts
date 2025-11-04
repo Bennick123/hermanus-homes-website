@@ -6,7 +6,7 @@ export const runtime = "nodejs"; // Ensure Node runtime
 
 const resend = new Resend(process.env.RESEND_API_KEY);
 
-const TO = "clare@hermanushomes.co.za";
+const TO = "Bookings@hermanushomes.co.za";
 const FROM = process.env.RESEND_FROM || "no-reply@onrusaccomadations.co.za";
 
 // Basic escaping to guard against HTML injection in emails
