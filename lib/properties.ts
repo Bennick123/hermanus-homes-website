@@ -640,68 +640,6 @@ The home features three bedrooms — two with queen-size beds and one with a dou
 
 Glass doors open to the outside braai and undercover patio area, set in a private back garden. With its great location and comfortable amenities, Seacrest Cottage is the perfect getaway for a relaxed and memorable holiday.`,
 
-  "a-wave-from-it-all": `---
-title: "A Wave From It All"
-slug: "a-wave-from-it-all"
-area: "Vermont"
-address: "37 Duiker Street, Vermont"
-sleeps: 10
-beds: 3
-baths: 4
-one_liner: "Rustic cliff-path family home with spectacular ocean views, a sunny deck and braai, plus a dedicated bunk room for kids."
-hero: "/homes/a-wave-from-it-all/IMG_20210728_103247_2.jpg"
-gallery:
-  - "/homes/a-wave-from-it-all/IMG_20210728_103117_1.jpg"
-  - "/homes/a-wave-from-it-all/IMG_20210728_103323_2.jpg"
-  - "/homes/a-wave-from-it-all/IMG_20210728_103720_2.jpg"
-  - "/homes/a-wave-from-it-all/IMG_20210728_103332_2.jpg"
-  - "/homes/a-wave-from-it-all/IMG_20210728_103150_2.jpg"
-  - "/homes/a-wave-from-it-all/IMG_20210728_103618_2.jpg"
-  - "/homes/a-wave-from-it-all/IMG_20210728_103357_2.jpg"
-  - "/homes/a-wave-from-it-all/IMG_20210728_103746_1.jpg"
-amenities:
-  - Off-street parking
-  - DSTV
-  - Smart TV
-  - Wi-Fi
-  - Washing machine
-  - Dishwasher
-  - Coffee machine
-  - Microwave
-  - Fridge
-  - Portable/Outdoor braai
-  - 4 bathrooms
-  - Security
-  - Torches for load shedding
-
-rates_md: |
-  **Peak season**  
-  R4500 p/n (Minimum 10 nights)
-
-  **Shoulder season**  
-  R3000 p/n (Minimum 2 nights)
-
-  **Off season**  
-  R2300 p/n (Minimum 2 nights)
-
-policies_md: |
-  **Pets:** Allowed by arrangement
----
-
-## Description
-A Wave From It All is a comfortable, rustic holiday home perfectly positioned on the cliff path in Vermont, offering spectacular ocean views and effortless indoor–outdoor living. It's an ideal base for a relaxed family break away from the hustle and bustle.
-
-### Accommodation Details
-- **Bedrooms:** 2 standard bedrooms **plus** a large kids' room with **4 bunk beds**  
-- **Bathrooms:** 4 total  
-- **Living:** Large lounge and dining room with a **separate kitchen**, flowing to a sea-facing patio and deck
-
-### Cooking & Entertaining
-A very workable, well-equipped kitchen serves the dining and lounge areas. Step out to the deck with a portable braai for long summer evenings. There’s also a **sheltered courtyard at the back of the house** for windy days so you can still enjoy a braai.
-
-### Location & Views
-Set right on the cliff path, the home overlooks the coastline with sweeping sea views — the perfect spot to unwind, watch the waves, and recharge.`,
-
   "sea-perfection": `---
 title: "Sea Perfection"
 slug: "sea-perfection"
@@ -1352,8 +1290,9 @@ sleeps: 6
 beds: 3
 baths: 3
 one_liner: "Comfortable family home walking distance to Sandbaai beach, with covered braai patio and a well-equipped open-plan living area."
-hero: "/homes/out-of-africa-sandbaai/back garden wth hammock.JPG"
+hero: "/homes/out-of-africa-sandbaai/hero.jpeg"
 gallery:
+  - "/homes/out-of-africa-sandbaai/back garden wth hammock.JPG"
   - "/homes/out-of-africa-sandbaai/IMG-20250609-WA0011.jpg"
   - "/homes/out-of-africa-sandbaai/IMG-20250609-WA0017.jpg"
   - "/homes/out-of-africa-sandbaai/IMG-20250609-WA0019.jpg"
