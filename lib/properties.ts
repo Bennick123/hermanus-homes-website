@@ -640,6 +640,77 @@ The home features three bedrooms — two with queen-size beds and one with a dou
 
 Glass doors open to the outside braai and undercover patio area, set in a private back garden. With its great location and comfortable amenities, Seacrest Cottage is the perfect getaway for a relaxed and memorable holiday.`,
 
+"sunset-heights": `---
+title: "Sunset Heights"
+slug: "sunset-heights"
+area: "Hermanus"
+address: "Hermanus, Western Cape, South Africa"
+sleeps: 6
+beds: 3
+baths: 3
+one_liner: "Tastefully decorated, quiet and well-secured home near the golf course and Fernkloof Nature Reserve, with superb indoor and outdoor braai areas."
+hero: "/homes/sunset-heights/Hero.jpeg"
+gallery:
+  - "/homes/sunset-heights/1.jpeg"
+  - "/homes/sunset-heights/2.jpeg"
+  - "/homes/sunset-heights/3.jpeg"
+  - "/homes/sunset-heights/4.jpeg"
+  - "/homes/sunset-heights/5.jpeg"
+  - "/homes/sunset-heights/6.jpeg"
+  - "/homes/sunset-heights/7.jpeg"
+  - "/homes/sunset-heights/8.jpeg"
+  - "/homes/sunset-heights/9.jpeg"
+  - "/homes/sunset-heights/10.jpeg"
+  - "/homes/sunset-heights/11.jpeg"
+  - "/homes/sunset-heights/12.jpeg"
+  - "/homes/sunset-heights/13.jpeg"
+  - "/homes/sunset-heights/14.jpeg"
+  - "/homes/sunset-heights/15.jpeg"
+  - "/homes/sunset-heights/16.jpeg"
+  - "/homes/sunset-heights/17.jpeg"
+  - "/homes/sunset-heights/18.jpeg"
+  - "/homes/sunset-heights/19.jpeg"
+  - "/homes/sunset-heights/20.jpeg"
+  - "/homes/sunset-heights/21.jpeg"
+  - "/homes/sunset-heights/22.jpeg"
+  - "/homes/sunset-heights/23.jpeg"
+  - "/homes/sunset-heights/24.jpeg"
+  - "/homes/sunset-heights/25.jpeg"
+  - "/homes/sunset-heights/26.jpeg"
+  - "/homes/sunset-heights/27.jpeg"
+  - "/homes/sunset-heights/28.jpeg"
+  - "/homes/sunset-heights/30.jpeg"
+  - "/homes/sunset-heights/31.jpeg"
+  - "/homes/sunset-heights/32.jpeg"
+  - "/homes/sunset-heights/33.jpeg"
+  - "/homes/sunset-heights/34.jpeg"
+  - "/homes/sunset-heights/35.jpeg"
+  - "/homes/sunset-heights/36.jpeg"
+amenities:
+  - Uncapped Wi-Fi
+  - Free parking on premises
+  - HDTV
+  - Washing machine
+  - Kitchen (fully equipped)
+  - Indoor braai
+  - Outdoor braai
+  - Excellent security
+rates_md: |
+  Pricing
+  See Airbnb listing for live nightly rates (varies by dates and fees).
+policies_md: |
+  Pets: Not Allowed
+  Notes: New listing. Available for a limited window (8 Jan – 16 Feb 2026). Exact address provided after booking.
+---
+
+## Description
+Sunset Heights is a stylish, well-appointed home in a quiet area of Hermanus, ideal for a relaxing holiday close to town. It’s very near the golf course and the popular Fernkloof Nature Reserve, making it a great base for golfers and nature lovers alike.
+
+The home offers three beautifully appointed en-suite bedrooms: one with a king-size bed and two with queen-size beds, all with quality linen and pillows. The open-plan living space is designed for easy holiday living, with a well-equipped kitchen and a superb entertainment setup.
+
+With fantastic braai facilities both inside and outside, this is an entertainer’s dream and a true “home away from home.”`,
+
+
   "sea-perfection": `---
 title: "Sea Perfection"
 slug: "sea-perfection"
