@@ -649,7 +649,7 @@ sleeps: 6
 beds: 3
 baths: 3
 one_liner: "Tastefully decorated, quiet and well-secured home near the golf course and Fernkloof Nature Reserve, with superb indoor and outdoor braai areas."
-hero: "/homes/sunset-heights/Hero.jpeg"
+hero: "/homes/sunset-heights/hero.jpeg"
 gallery:
   - "/homes/sunset-heights/1.jpeg"
   - "/homes/sunset-heights/2.jpeg"
@@ -1133,7 +1133,6 @@ amenities:
   - Icemaker
   - Coffee machine
   - Oven and hob
-  - Air fryer
   - Fans
   - Ceiling fans
   - Hairdryer
