@@ -1131,6 +1131,7 @@ amenities:
   - Microwave
   - Fridge/freezer
   - Icemaker
+  - Airfryer
   - Coffee machine
   - Oven and hob
   - Fans
