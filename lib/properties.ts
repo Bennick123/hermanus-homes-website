@@ -1306,51 +1306,82 @@ Seabreeze is beautifully situated on the Island in Onrus River — just moments 
 A west-facing indoor braai room with a large dining table makes the perfect meeting place after a day at the beach. The kitchen is well equipped with all the modern conveniences, and the lounge includes a cosy indoor fireplace. Come spend a glorious holiday at Seabreeze and recharge in the fresh sea air and peaceful surroundings of Onrus River.
 `,
 
-  "seaside-escape-studio-onrus": `---
-title: "Seaside Escape Studio @ Onrus"
-slug: "seaside-escape-studio-onrus"
+
+  "Silencio": `---
+title: "Silencio"
+slug: "Silencio"
 area: "Onrus"
-address: "30 Duke Street, Onrus River"
-sleeps: 2
-beds: 1
-baths: 1
-one_liner: "Quiet garden studio near Onrus beach and lagoon with a fully equipped kitchen—ideal for remote work or a coastal break."
-hero: "/homes/seaside-escape-studio-onrus/30 Duke Street, Onrus-7_1.jpg"
+address: "Onrus River, Western Cape, South Africa"
+sleeps: 9
+beds: 4
+baths: 2
+one_liner: "Stylish and peaceful holiday home just walking distance to Onrus beach, lagoon and cliff path — perfect for families and groups."
+hero: "/homes/Silencio/62 Dempers Street, Onrus-8.jpg"
 gallery:
-  - "/homes/seaside-escape-studio-onrus/30 Duke Street, Onrus-8.jpg"
-  - "/homes/seaside-escape-studio-onrus/30 Duke Street, Onrus-14.jpg"
-  - "/homes/seaside-escape-studio-onrus/30 Duke Street, Onrus-11.jpg"
-  - "/homes/seaside-escape-studio-onrus/30 Duke Street, Onrus-9.jpg"
-  - "/homes/seaside-escape-studio-onrus/30 Duke Street, Onrus-13.jpg"
-  - "/homes/seaside-escape-studio-onrus/30 Duke Street, Onrus-10.jpg"
-  - "/homes/seaside-escape-studio-onrus/30 Duke Street, Onrus-12.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-1.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-2.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-3.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-4.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-5.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-6.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-7.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-8.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-9.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-10.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-11.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-12.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-13.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-14.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-15.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-16.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-17.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-18.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-19.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-20.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-21.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-22.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-23.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-24.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-25.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-26.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-27.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-28.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-29.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-30.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-31.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-32.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-33.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-34.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-35.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-36.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-37.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-38.jpg"
+- "/homes/Silencio/62 Dempers Street, Onrus-39.jpg"
+
 amenities:
+  - Fully equipped kitchen
   - Uncapped Wi-Fi
-  - Smart TV (Netflix)
-  - DSTV optional (R35 per day)
-  - Air fryer
-  - Induction plate
-  - Dishwasher
+  - Free parking
+  - TV
   - Washing machine
-  - Tumble dryer
-  - Microwave
-  - Hairdryer
-  - Weber braai
-  - Fridge/freezer
-  - Remote-work friendly setup
+  - Outdoor seating and garden
+  - Family-friendly layout
+  - Quiet neighbourhood
 rates_md: |
-  Price
-  R950 p/n (Minimum 2 nights)
+  Pricing varies by season and dates
 policies_md: |
-  Pets: Allowed on request
-  Notes: Studio is located in the garden of the main house where the owners reside. Longer stays available (up to 60 days).
+  Pets: Not allowed
 ---
-
+  
 ## Description
-Tucked away in the tranquil garden of a family home, Seaside Escape Studio @ Onrus offers a calm, convenient base just a short stroll from the beach, lagoon, and scenic cliff paths. The open-plan lounge/kitchen is fully equipped and comfortable for remote work. The bedroom features an extra-large queen bed, and the bathroom has a shower and toilet.
+This Quiet Onrus River Retreat is a lovely holiday home perfectly positioned just a short walk from the popular Onrus beach, lagoon, tidal pools and scenic cliff path — ideal for guests who want both convenience and tranquillity.
 
-Whether you’re here to unwind, watch whales, or explore the coastline, this studio makes an easy, well-equipped retreat with everything you need for a relaxed stay.
+The residence offers four bedrooms and two bathrooms, comfortably accommodating up to 9 guests. The stylishly furnished living spaces include an open plan lounge, dining area and well-equipped kitchen for easy self-catering. The lounge opens out to a peaceful garden and seating areas where you can relax after a day exploring the coast.
+
+With comfortable communal spaces, good connectivity, free parking and a superb location near local eateries and seaside attractions, this home is a great choice for family holidays and group getaways.
 `,
+
+
 
   "out-of-africa-sandbaai": `---
 title: "Out of Africa, Sandbaai"
