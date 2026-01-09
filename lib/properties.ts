@@ -1368,7 +1368,18 @@ amenities:
   - Family-friendly layout
   - Quiet neighbourhood
 rates_md: |
-  Pricing varies by season and dates
+  Peak season  
+  R4750 p/n for up to 6 guests  
+  +R400 p/p p/n for guests 7–9  
+
+  Shoulder season  
+  R2900 p/n for up to 6 guests  
+  +R400 p/p p/n for guests 7–9  
+
+  Low season  
+  R2600 p/n for up to 6 guests  
+  +R400 p/p p/n for guests 7–9  
+
 policies_md: |
   Pets: Not allowed
 ---
