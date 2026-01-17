@@ -42,15 +42,15 @@ gallery:
   - "/homes/tranquility/8.jpg"
   - "/homes/tranquility/Hero.jpg"
   - "/homes/tranquility/11.jpeg"
-  - "/homes/tranquility/12.jpeg"
+  - "/homes/tranquility/22.jpeg"
   - "/homes/tranquility/13.jpeg"
   - "/homes/tranquility/14.jpeg"
   - "/homes/tranquility/15.jpeg"
   - "/homes/tranquility/16.jpeg"
-  - "/homes/tranquility/17.jpeg"
+  - "/homes/tranquility/23.jpeg"
   - "/homes/tranquility/18.jpeg"
   - "/homes/tranquility/19.jpeg"
-  - "/homes/tranquility/20.jpeg"
+  - "/homes/tranquility/24.jpeg"
   - "/homes/tranquility/9.jpeg"
 amenities:
   - Dishwasher
