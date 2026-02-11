@@ -1314,7 +1314,7 @@ area: "Onrus"
 address: "Onrus River, Western Cape, South Africa"
 sleeps: 9
 beds: 4
-baths: 2
+baths: 3
 one_liner: "Stylish and peaceful holiday home just walking distance to Onrus beach, lagoon and cliff path — perfect for families and groups."
 hero: "/homes/Silencio/62 Dempers Street, Onrus-8.jpg"
 gallery:
@@ -1387,7 +1387,7 @@ policies_md: |
 ## Description
 This Quiet Onrus River Retreat is a lovely holiday home perfectly positioned just a short walk from the popular Onrus beach, lagoon, tidal pools and scenic cliff path — ideal for guests who want both convenience and tranquillity.
 
-The residence offers four bedrooms and two bathrooms, comfortably accommodating up to 9 guests. The stylishly furnished living spaces include an open plan lounge, dining area and well-equipped kitchen for easy self-catering. The lounge opens out to a peaceful garden and seating areas where you can relax after a day exploring the coast.
+The residence offers four bedrooms and three bathrooms, comfortably accommodating up to 9 guests. The stylishly furnished living spaces include an open plan lounge, dining area and well-equipped kitchen for easy self-catering. The lounge opens out to a peaceful garden and seating areas where you can relax after a day exploring the coast.
 
 With comfortable communal spaces, good connectivity, free parking and a superb location near local eateries and seaside attractions, this home is a great choice for family holidays and group getaways.
 `,
