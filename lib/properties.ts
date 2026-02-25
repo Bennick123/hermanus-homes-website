@@ -1392,7 +1392,64 @@ The residence offers four bedrooms and three bathrooms, comfortably accommodatin
 With comfortable communal spaces, good connectivity, free parking and a superb location near local eateries and seaside attractions, this home is a great choice for family holidays and group getaways.
 `,
 
+"rosemarys-cottage": `---
+title: "Rosemary’s Cottage"
+slug: "rosemarys-cottage"
+area: "Hermanus"
+address: "7 Fisherman's Way, Lagoon Edge, Hermanus"
+sleeps: 6
+beds: 3
+baths: 2
+one_liner: "Charming lakeside family home in a peaceful residential setting with natural beauty and easy coastal lifestyle."
+hero: "/homes/rosemarys-cottage/7.jpeg"
+gallery:
+  - "/homes/rosemarys-cottage/3.jpeg"
+  - "/homes/rosemarys-cottage/7.jpeg"
+  - "/homes/rosemarys-cottage/9.jpeg"
+  - "/homes/rosemarys-cottage/11.jpeg"
+  - "/homes/rosemarys-cottage/12.jpeg"
+  - "/homes/rosemarys-cottage/13.jpeg"
+  - "/homes/rosemarys-cottage/14.jpeg"
+  - "/homes/rosemarys-cottage/18.jpeg"
+  - "/homes/rosemarys-cottage/19.jpeg"
+  - "/homes/rosemarys-cottage/21.jpeg"
+  - "/homes/rosemarys-cottage/22.jpeg"
+  - "/homes/rosemarys-cottage/24.jpeg"
+  - "/homes/rosemarys-cottage/25.jpeg"
+  - "/homes/rosemarys-cottage/26.jpeg"
+  - "/homes/rosemarys-cottage/27.jpeg"
+  - "/homes/rosemarys-cottage/29.jpeg"
+  - "/homes/rosemarys-cottage/31.jpeg"
+  - "/homes/rosemarys-cottage/34.jpeg"
+  - "/homes/rosemarys-cottage/38.jpeg"
+  - "/homes/rosemarys-cottage/39.jpeg"
+  - "/homes/rosemarys-cottage/42.jpeg"
+amenities:
+  - Fully equipped kitchen
+  - Wi-Fi
+  - Free parking on premises
+  - HDTV
+  - Peaceful seaside setting
+  - Outdoor space
+rates_md: |
+  Peak season
+  R3750 p/n (Minimum 10 nights)
 
+  Shoulder season
+  R2900 p/n (Minimum 2 nights)
+
+  Off season
+  R2500 p/n (Minimum 2 nights)
+policies_md: |
+  Pets: Not Allowed
+---
+
+## Description
+Rosemary’s Cottage is a delightful coastal home set in a peaceful seaside residential area in the Overstrand region, ideal for families or anyone seeking tranquility by the sea. The property comfortably sleeps up to 6 guests across three bedrooms and two bathrooms, offering a relaxed layout and easy access to local recreation.
+
+The cottage features a well-equipped kitchen, Wi-Fi, HDTV, and free parking on the premises. Outdoor spaces and gentle ocean breezes contribute to the relaxed atmosphere, while nearby facilities offer opportunities for swimming, sailing, tennis, and other outdoor pursuits within a gated and secure setting.
+
+Perfect for a restful seaside getaway, Rosemary’s Cottage combines coastal charm with comfort and convenience for memorable holidays.`,
 
   "out-of-africa-sandbaai": `---
 title: "Out of Africa, Sandbaai"
