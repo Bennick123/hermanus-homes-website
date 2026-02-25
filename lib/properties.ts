@@ -1433,13 +1433,13 @@ amenities:
   - Outdoor space
 rates_md: |
   Peak season
-  R3750 p/n (Minimum 10 nights)
+  R3000 p/n (Minimum 10 nights)
 
   Shoulder season
-  R2900 p/n (Minimum 2 nights)
+  R2500 p/n (Minimum 2 nights)
 
   Off season
-  R2500 p/n (Minimum 2 nights)
+  R2300 p/n (Minimum 2 nights)
 policies_md: |
   Pets: Not Allowed
 ---
