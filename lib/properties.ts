@@ -1401,7 +1401,7 @@ sleeps: 6
 beds: 3
 baths: 2
 one_liner: "Charming lakeside family home in a peaceful residential setting with natural beauty and easy coastal lifestyle."
-hero: "/homes/rosemarys-cottage/7.jpeg"
+hero: "/homes/Rosemarys-cottage/7.jpeg"
 gallery:
   - "/homes/rosemarys-cottage/3.jpeg"
   - "/homes/rosemarys-cottage/7.jpeg"
