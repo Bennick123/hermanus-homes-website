@@ -55,13 +55,11 @@ gallery:
 amenities:
   - Dishwasher
   - Washing machine
-  - Tumble Drier
-  - Fridge/Freezer x 2
+  - Fridge/Freezer
   - Good security
   - Rechargeable lights for loadshedding
   - Gas hob, electric oven
   - Smart TV
-  - Netflix
   - DSTV optional (R35 per day)
   - Wi-Fi
   - Lots of games
