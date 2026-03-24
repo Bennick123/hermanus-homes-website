@@ -103,8 +103,75 @@ Spectacular views from most of the rooms make this a truly special retreat. The 
 
 This is a character home where one could really unwind and enjoy nature. Whether you're watching the sunrise over the mountains, observing the rich bird life on the saltpan, or gathering around the fireplace in the evenings, Tranquility offers the perfect escape from the hustle and bustle of daily life.`,
 
+"herringbone": `---
+title: "Herringbone"
+slug: "herringbone"
+area: "Onrus"
+address: "Onrus River, Hermanus, Western Cape, South Africa"
+sleeps: 6
+beds: 3
+baths: 2
+one_liner: "Stylish coastal holiday home in Onrus River offering relaxed indoor-outdoor living close to beaches, lagoon and cliff paths."
+hero: "/homes/herringbone/1.jpeg"
+gallery:
+  - "/homes/herringbone/1.jpeg"
+  - "/homes/herringbone/2.jpeg"
+  - "/homes/herringbone/3.jpeg"
+  - "/homes/herringbone/4.jpeg"
+  - "/homes/herringbone/5.jpeg"
+  - "/homes/herringbone/6.jpeg"
+  - "/homes/herringbone/7.jpeg"
+  - "/homes/herringbone/8.jpeg"
+  - "/homes/herringbone/9.jpeg"
+  - "/homes/herringbone/10.jpeg"
+  - "/homes/herringbone/11.jpeg"
+  - "/homes/herringbone/12.jpeg"
+  - "/homes/herringbone/13.jpeg"
+  - "/homes/herringbone/14.jpeg"
+  - "/homes/herringbone/15.jpeg"
+  - "/homes/herringbone/16.jpeg"
+  - "/homes/herringbone/17.jpeg"
+  - "/homes/herringbone/18.jpeg"
+  - "/homes/herringbone/19.jpeg"
+  - "/homes/herringbone/20.jpeg"
+  - "/homes/herringbone/21.jpeg"
+  - "/homes/herringbone/22.jpeg"
+  - "/homes/herringbone/23.jpeg"
+  - "/homes/herringbone/24.jpeg"
+  - "/homes/herringbone/25.jpeg"
+  - "/homes/herringbone/26.jpeg"
+  - "/homes/herringbone/27.jpeg"
+  - "/homes/herringbone/28.jpeg"
+  - "/homes/herringbone/29.jpeg"
+  - "/homes/herringbone/30.jpeg"
+amenities:
+  - Uncapped Wi-Fi
+  - Smart TV for streaming
+  - Fully equipped kitchen
+  - Dishwasher
+  - Washing machine
+  - Microwave
+  - Fridge
+  - Freezer
+  - Braai facilities
+  - Secure parking
+  - Outdoor seating area
+rates_md: |
+  Pricing varies by season and dates
+policies_md: |
+  Pets: Not Allowed
+---
+
+## Description
+Herringbone is a stylish coastal holiday home located in the peaceful seaside village of Onrus River, just outside Hermanus. Designed for relaxed holiday living, the home offers comfortable indoor and outdoor spaces that make it perfect for families or small groups looking to unwind by the sea.
+
+The house features three bedrooms and two bathrooms, comfortably accommodating up to six guests. The open-plan living area flows into a well-equipped kitchen and dining space, creating a welcoming environment for cooking, socialising and relaxing after a day exploring the coastline.
+
+Outside, guests can enjoy a private outdoor area ideal for braais and enjoying the fresh sea air. With easy access to the popular Onrus beach, lagoon, scenic cliff paths and nearby restaurants, Herringbone provides a wonderful base for a memorable Hermanus holiday.
+`,
+
   "27-krintang-crescent": `---
-title: "27 Krintang Crescent"
+title: "Lizzie's"
 slug: "27-krintang-crescent"
 area: "Vermont"
 address: "27 Krintang Crescent, Vermont"
