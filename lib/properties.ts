@@ -69,13 +69,16 @@ amenities:
   - Outside shower with hot water
 rates_md: |
   **High season**  
-  R5000 p/n (Minimum 10 nights over Dec/Jan)
+  R4500 p/n for up to 6 guests (Minimum 10 nights over Dec/Jan)
+  +R400 p/p p/n for guests 7–10
 
   **Shoulder**  
-  R4000 p/n (min 2 nights)
+  R3300 p/n for up to 6 guests (min 2 nights)
+  +R400 p/p p/n for guests 7–10
 
   **Low**  
-  R2975 p/n (min 2 nights)
+  R3000 p/n for up to 6 guests (min 2 nights)
+  +R400 p/p p/n for guests 7–10
 
 policies_md: |
   **Pets:** Not Allowed 
