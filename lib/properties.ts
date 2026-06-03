@@ -68,16 +68,16 @@ amenities:
   - Inverter for TV during load shedding
   - Outside shower with hot water
 rates_md: |
-  **High season**  
-  R4500 p/n for up to 6 guests (Minimum 10 nights over Dec/Jan)
+  **High season**
+  R4900 p/n for up to 6 guests (Minimum 10 nights over Dec/Jan)
   +R300 p/p p/n for guests 7–10
 
-  **Shoulder**  
+  **Shoulder**
+  R3600 p/n for up to 6 guests (min 2 nights)
+  +R300 p/p p/n for guests 7–10
+
+  **Low**
   R3300 p/n for up to 6 guests (min 2 nights)
-  +R300 p/p p/n for guests 7–10
-
-  **Low**  
-  R3000 p/n for up to 6 guests (min 2 nights)
   +R300 p/p p/n for guests 7–10
 
 policies_md: |
@@ -212,7 +212,14 @@ amenities:
   - Excellent security
   - Bathrooms x 2
 rates_md: |
-  R4300 p/n (Minimum 10 nights)
+  **Peak**
+  R4800 p/n (Minimum 10 nights)
+
+  **Shoulder**
+  R3800 p/n (Minimum 2 nights)
+
+  **Low**
+  R3300 p/n (Minimum 2 nights)
 policies_md: |
   **Pets:** Not Allowed
 ---
@@ -269,13 +276,13 @@ amenities:
   - Rechargeable lights (load shedding)
 rates_md: |
   Peak season
-  R7000 p/n (Minimum 10 nights)
+  R7700 p/n (Minimum 10 nights)
 
   Shoulder season
-  R4200 p/n (Minimum 2 nights)
+  R4600 p/n (Minimum 2 nights)
 
   Low season
-  R3200 p/n (Minimum 2 nights)
+  R3500 p/n (Minimum 2 nights)
 policies_md: |
   Pets: By special arrangement
 ---
@@ -408,21 +415,21 @@ amenities:
   - Rechargeable lights
 rates_md: |
   Peak season
-  R4750 p/n for up to 6 guests (Minimum 10 nights)
+  R5300 p/n for up to 6 guests (Minimum 10 nights)
   +R400 p/p p/n for guests 7–8
 
   1 Dec – 14 Dec
-  R3500 p/n for up to 6 guests
+  R3850 p/n for up to 6 guests
   +R400 p/p p/n for guests 7–8
 
   Shoulder season
-  R2900 p/n for up to 6 guests (Minimum 2 nights)
+  R3200 p/n for up to 6 guests (Minimum 2 nights)
   +R400 p/p p/n for guests 7–8
 
   Off season
-  R2650 p/n for up to 6 guests (Minimum 2 nights)
+  R2900 p/n for up to 6 guests (Minimum 2 nights)
   +R400 p/p p/n for guests 7–8
-  
+
 policies_md: |
   **Pets:** Not Allowed
 ---
@@ -494,14 +501,14 @@ amenities:
   - CCTV
   - Solar geyser
 rates_md: |
-  **Peak season**  
-  R4700 p/n (Minimum 10 nights)
+  **Peak season**
+  R5300 p/n (Minimum 10 nights)
 
-  **Shoulder season**  
+  **Shoulder season**
+  R3200 p/n (Minimum 2 nights)
+
+  **Off season**
   R2900 p/n (Minimum 2 nights)
-
-  **Off season**  
-  R2650 p/n (Minimum 2 nights)
 policies_md: |
   **Pets:** Allowed by arrangement
 ---
@@ -574,8 +581,8 @@ amenities:
   - Air fryer
   - Weber braai
 rates_md: |
-  **Peak season**  
-  R3750 p/n (Minimum 10 nights)
+  **Peak season**
+  R4125 p/n (Minimum 10 nights)
 policies_md: |
   **Pets:** Not Allowed
 ---
@@ -639,14 +646,14 @@ amenities:
   - 2 bathrooms
   - Rechargeable light globes
 rates_md: |
-  **Peak season**  
-  R3700 p/n (Minimum 10 nights)
+  **Peak season**
+  R4200 p/n (Minimum 10 nights)
 
-  **Shoulder season**  
-  R3000 p/n
+  **Shoulder season**
+  R3300 p/n
 
-  **Off season**  
-  R2500 p/n
+  **Off season**
+  R2700 p/n
 policies_md: |
   **Pets:** Not Allowed
 ---
@@ -689,14 +696,14 @@ amenities:
   - Torches
   - Fireplace
 rates_md: |
-  **Peak season**  
+  **Peak season**
   R2900 p/n (Minimum 10 nights)
 
-  **Shoulder season**  
+  **Shoulder season**
   R2000 p/n (Minimum 2 nights)
 
-  **Off season**  
-  R1900 p/n (Minimum 2 nights)
+  **Off season**
+  R1500 p/n (Minimum 2 nights)
 policies_md: |
   **Pets:** Not Allowed
 ---
@@ -820,8 +827,8 @@ amenities:
   - Garaging for 2 cars
   - Excellent security
 rates_md: |
-  **Peak**  
-  R4500 p/n (Minimum 10 days)
+  **Peak**
+  R4900 p/n (Minimum 10 days)
 
   Minimum 7 days
 policies_md: |
@@ -896,14 +903,14 @@ amenities:
   - Safe parking
   - Double garage
 rates_md: |
-  **Peak**  
-  R4000 p/n (Minimum 10 nights)
+  **Peak**
+  R4400 p/n (Minimum 10 nights)
 
-  **Shoulder**  
-  R2600 p/n (Minimum 2 nights)
+  **Shoulder**
+  R2900 p/n (Minimum 2 nights)
 
-  **Off season**  
-  R2300 p/n (Minimum 2 nights)
+  **Off season**
+  R2500 p/n (Minimum 2 nights)
 policies_md: |
   **Pets:** Not Allowed
   **Notes:** Shares the same entrance gate with **Seaclusion** at 27 Beyers Street and the properties are alongside one another. These two homes can be let together to accommodate **up to 16 guests**. Garden fully enclosed with lawn for children.
@@ -958,14 +965,14 @@ amenities:
   - Safe parking
   - Double garage
 rates_md: |
-  Peak  
-  R4750 p/n for 6 (R400 p/p up to 10) (Minimum 10 nights)
+  Peak
+  R5300 p/n for 6 (R400 p/p up to 10) (Minimum 10 nights)
 
-  Shoulder  
+  Shoulder
+  R3200 p/n for 6 (R400 p/p up to 10) (Minimum 2 nights)
+
+  Off season
   R2900 p/n for 6 (R400 p/p up to 10) (Minimum 2 nights)
-
-  Off season  
-  R2650 p/n for 6 (R400 p/p up to 10) (Minimum 2 nights)
 policies_md: |
   Pets: Not Allowed
   Notes: Shares the same entrance gate with Sunset Terrace at 29 Beyers Street and the properties are alongside one another. These two homes can be let together to accommodate up to 16 guests. Booked 20 December – 2 January 2026.
@@ -1025,14 +1032,14 @@ amenities:
   - Excellent security
   - Street parking (ample)
 rates_md: |
-  **Peak**  
-  R4200 p/n (Minimum 10 nights)
+  **Peak**
+  R5000 p/n (Minimum 10 nights)
 
-  **Shoulder**  
-  R3900 p/n (Minimum 2 nights)
+  **Shoulder**
+  R4300 p/n (Minimum 2 nights)
 
-  **Off season**  
-  R3200 p/n (Minimum 2 nights)
+  **Off season**
+  R3500 p/n (Minimum 2 nights)
 policies_md: |
   **Pets:** Not Allowed
   **Notes:** DSTV available on request. Enclosed garden and ample street parking in front of the house.
@@ -1096,13 +1103,13 @@ amenities:
   - Off-street parking
 rates_md: |
   Peak
-  R5000 p/n (Minimum 10 nights)
+  R7700 p/n (Minimum 10 nights)
 
   Shoulder
-  R3500 p/n (Minimum 2 nights)
+  R3800 p/n (Minimum 2 nights)
 
   Low
-  R3250 p/n (Minimum 2 nights)
+  R3500 p/n (Minimum 2 nights)
 policies_md: |
   Pets: Not Allowed
 ---
@@ -1152,14 +1159,14 @@ amenities:
   - Braai facilities
   - Security system
 rates_md: |
-  **Peak**  
-  R3500 p/n (Minimum stay 10 nights)
+  **Peak**
+  R4000 p/n (Minimum stay 10 nights)
 
-  **Shoulder**  
-  R3000 p/n (Minimum stay 2 nights)
+  **Shoulder**
+  R3500 p/n (Minimum stay 2 nights)
 
-  **Off season**  
-  R2800 p/n (Minimum stay 2 nights)
+  **Off season**
+  R3100 p/n (Minimum stay 2 nights)
 policies_md: |
   **Pets:** Allowed by request
 ---
@@ -1211,16 +1218,16 @@ amenities:
   - Garden braai area
 rates_md: |
   Peak
-  R3400 p/n (Minimum 10 nights over Dec/Jan)
+  R3700 p/n (Minimum 10 nights over Dec/Jan)
 
   Easter Special
-  R2800 p/n (3-night stay)
+  R3100 p/n (3-night stay)
 
   Shoulder
-  R3200 p/n (Minimum 2 nights)
+  R3500 p/n (Minimum 2 nights)
 
   Low
-  R2800 p/n (Minimum 2 nights)
+  R2700 p/n (Minimum 2 nights)
 policies_md: |
   Pets: Allowed by arrangement
 ---
@@ -1301,13 +1308,13 @@ amenities:
   - Air conditioning (main bedroom and two upstairs bedrooms)
 rates_md: |
   Peak
-  R7000 p/n (Minimum 10 nights)
+  R7700 p/n (Minimum 10 nights)
 
   Shoulder
-  R5000 p/n (Minimum 2 nights)
+  R5600 p/n (Minimum 2 nights)
 
   Low
-  R4100 p/n (Minimum 2 nights)
+  R4200 p/n (Minimum 2 nights)
 policies_md: |
   Pets: Not Allowed
 ---
@@ -1357,13 +1364,13 @@ amenities:
   - Security alarm
 rates_md: |
   Peak
-  R5600 p/n (Minimum 10 nights)
+  R6000 p/n (Minimum 10 nights)
 
   Shoulder
-  R2900 p/n (Minimum 2 nights)
+  R3900 p/n (Minimum 2 nights)
 
   Off season
-  R2700 p/n (Minimum 2 nights)
+  R3000 p/n (Minimum 2 nights)
 policies_md: |
   Pets: Not Allowed
 ---
@@ -1436,17 +1443,17 @@ amenities:
   - Family-friendly layout
   - Quiet neighbourhood
 rates_md: |
-  Peak season  
-  R4750 p/n for up to 6 guests  
-  +R400 p/p p/n for guests 7–9  
+  Peak season
+  R5200 p/n for up to 6 guests
+  +R400 p/p p/n for guests 7–9
 
-  Shoulder season  
-  R2900 p/n for up to 6 guests  
-  +R400 p/p p/n for guests 7–9  
+  Shoulder season
+  R3000 p/n for up to 6 guests
+  +R400 p/p p/n for guests 7–9
 
-  Low season  
-  R2600 p/n for up to 6 guests  
-  +R400 p/p p/n for guests 7–9  
+  Low season
+  R2700 p/n for up to 6 guests
+  +R400 p/p p/n for guests 7–9
 
 policies_md: |
   Pets: Not allowed
@@ -1499,13 +1506,13 @@ amenities:
   - Outdoor space
 rates_md: |
   Peak season
-  R3000 p/n (Minimum 10 nights)
+  R3800 p/n (Minimum 10 nights)
 
   Shoulder season
-  R2500 p/n (Minimum 2 nights)
+  R3300 p/n (Minimum 2 nights)
 
   Off season
-  R2300 p/n (Minimum 2 nights)
+  R2700 p/n (Minimum 2 nights)
 policies_md: |
   Pets: Not Allowed
 ---
@@ -1564,13 +1571,13 @@ amenities:
   - Rechargeable light bulbs, candles, gas cylinder
 rates_md: |
   Peak
-  R2750 p/n (Minimum 10 nights)
+  R3000 p/n (Minimum 10 nights)
 
   Shoulder
-  R1900 p/n
+  R2100 p/n
 
   Off season
-  R1750 p/n
+  R1800 p/n
 policies_md: |
   Pets: Not Allowed
 ---
@@ -1629,13 +1636,13 @@ amenities:
   - Rechargeable light globes (load shedding)
 rates_md: |
   Peak
-  R5500 p/n (Minimum 10 days)
+  R6600 p/n (Minimum 10 days)
 
   Shoulder
-  R4000 p/n (Minimum 2 days)
+  R4400 p/n (Minimum 2 days)
 
   Off season
-  R2700 p/n (Minimum 2 days)
+  R3000 p/n (Minimum 2 days)
 policies_md: |
   Pets: Not Allowed
 ---
@@ -1700,9 +1707,9 @@ amenities:
   - Private entrance
   - Safe off-street parking
 rates_md: |
-  Only Available 15 Dec - 15 Jan 
+  Only Available 15 Dec - 15 Jan
 
-  R2000 p/n (minimum stay 10 days)
+  R2700 p/n (minimum stay 10 days)
 
 policies_md: |
   Pets: Not Allowed
