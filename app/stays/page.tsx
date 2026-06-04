@@ -26,7 +26,7 @@ export default async function StaysPage() {
         <section className="relative h-96 flex items-center justify-center overflow-hidden">
           <Image
             src="/images/stays-hero.jpg"
-            alt="Luxury holiday home with pool and entertainment area"
+            alt="Self-catering holiday homes in Onrus, Vermont, Sandbaai and Hermanus"
             fill
             className="object-cover"
             priority
@@ -151,7 +151,7 @@ export default async function StaysPage() {
                       <div className="relative h-64 overflow-hidden">
                         <Image
                           src={property.hero || "/placeholder.svg"}
-                          alt={property.title}
+                          alt={`${property.title} – ${property.beds} bedroom holiday rental in ${property.area}, Hermanus`}
                           fill
                           className="object-cover group-hover:scale-105 transition-transform duration-300"
                           sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"

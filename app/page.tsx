@@ -4,6 +4,40 @@ import PropertyCarousel from "@/components/PropertyCarousel"
 import ExperienceCards from "@/components/ExperienceCards"
 import { MapPin, Users, Bed, Bath } from "lucide-react"
 
+const SITE_URL = "https://www.onrusaccommodation.co.za"
+
+const organizationJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "LodgingBusiness",
+  "@id": `${SITE_URL}/#business`,
+  name: "Hermanus Homes",
+  alternateName: "Hermanus Holiday Home Solutions",
+  description:
+    "Family-run self-catering holiday rentals in Onrus, Vermont, Sandbaai and Hermanus on the Whale Coast of South Africa.",
+  url: SITE_URL,
+  telephone: "+27 79 496 4601",
+  email: "Clare@hermanushomes.co.za",
+  image: `${SITE_URL}/HHlogo.png`,
+  logo: `${SITE_URL}/HHlogo.png`,
+  priceRange: "R1500–R7700 per night",
+  address: {
+    "@type": "PostalAddress",
+    addressLocality: "Onrus River",
+    addressRegion: "Western Cape",
+    addressCountry: "ZA",
+  },
+  areaServed: [
+    { "@type": "Place", name: "Onrus" },
+    { "@type": "Place", name: "Vermont" },
+    { "@type": "Place", name: "Sandbaai" },
+    { "@type": "Place", name: "Hermanus" },
+  ],
+  sameAs: [
+    "https://www.instagram.com/hermanusholidayhomesolutions",
+    "https://www.facebook.com/hermanusholidayhomesolutions",
+  ],
+}
+
 const testimonials = [
   {
     text: "Our stay at Pelican's Nest was absolutely magical! The heated pool was perfect for the kids, and we spotted whales right from the cliff path. The local team's recommendations for restaurants were spot-on. Can't wait to return!",
@@ -25,6 +59,10 @@ const testimonials = [
 export default function Home() {
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
+      />
       {/* Hero Section */}
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         <Image

@@ -22,10 +22,54 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Hermanus Homes Solutions - Luxury Holiday Rentals",
+  metadataBase: new URL("https://www.onrusaccommodation.co.za"),
+  title: {
+    default: "Self-Catering Holiday Homes in Onrus, Vermont, Sandbaai & Hermanus | Hermanus Homes",
+    template: "%s | Hermanus Homes",
+  },
   description:
-    "Discover luxury holiday rentals in Onrus & Vermont near Hermanus. Unwind on the beautiful Hermanus Coast with our premium accommodation.",
-    generator: 'v0.app'
+    "Family-run self-catering holiday rentals in Onrus, Vermont, Sandbaai and Hermanus. Beach houses, cottages and family homes on the Whale Coast, walking distance to the sea.",
+  keywords: [
+    "Hermanus accommodation",
+    "Onrus self catering",
+    "Vermont holiday rental",
+    "Sandbaai accommodation",
+    "Hermanus holiday homes",
+    "Whale Coast accommodation",
+    "self catering Hermanus",
+    "Onrus beach house",
+  ],
+  alternates: {
+    canonical: "/",
+  },
+  openGraph: {
+    type: "website",
+    locale: "en_ZA",
+    url: "https://www.onrusaccommodation.co.za",
+    siteName: "Hermanus Homes",
+    title: "Self-Catering Holiday Homes in Onrus, Vermont, Sandbaai & Hermanus",
+    description:
+      "Family-run self-catering holiday rentals on the Whale Coast. Beach houses, cottages and family homes a short walk from the sea.",
+    images: [
+      {
+        url: "/images/coastal-sunset-hero.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Coastal sunset view of the Hermanus shoreline",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Self-Catering Holiday Homes in Onrus, Vermont, Sandbaai & Hermanus",
+    description:
+      "Family-run self-catering holiday rentals on the Whale Coast.",
+    images: ["/images/coastal-sunset-hero.jpg"],
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 }
 
 export default function RootLayout({

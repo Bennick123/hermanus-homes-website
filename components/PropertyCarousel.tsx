@@ -90,7 +90,7 @@ export default function PropertyCarousel() {
                 <div className="relative h-64 md:h-80 lg:h-96">
                   <Image
                     src={property.image || "/placeholder.svg"}
-                    alt={property.name}
+                    alt={`${property.name} – holiday rental in Hermanus`}
                     fill
                     className="object-cover rounded-lg"
                     sizes="(max-width: 768px) 100vw, 50vw"

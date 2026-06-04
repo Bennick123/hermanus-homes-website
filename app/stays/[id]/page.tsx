@@ -1,9 +1,12 @@
 import Link from "next/link"
 import ReactMarkdown from "react-markdown"
+import type { Metadata } from "next"
 import { MapPin, Users, Bed, Bath, ArrowLeft } from "lucide-react"
 import { getPropertyBySlug, getPropertySlugs } from "@/lib/properties"
 import { notFound } from "next/navigation"
 import ImageSlideshow from "@/components/ImageSlideshow"
+
+const SITE_URL = "https://www.onrusaccommodation.co.za"
 
 export async function generateStaticParams() {
   try {
@@ -24,6 +27,50 @@ interface PropertyPageProps {
   }
 }
 
+export async function generateMetadata({ params }: PropertyPageProps): Promise<Metadata> {
+  try {
+    const property = await getPropertyBySlug(params.id)
+    const location = property.address || `${property.area}, Hermanus`
+    const title = `${property.title} – ${property.beds}-Bedroom Holiday Home in ${property.area}`
+    const description = `${property.one_liner} Sleeps ${property.sleeps}, ${property.beds} bedrooms, ${property.baths} bathrooms. ${location}.`
+    const url = `${SITE_URL}/stays/${params.id}`
+    const image = property.hero ? `${SITE_URL}${property.hero}` : `${SITE_URL}/images/coastal-sunset-hero.jpg`
+
+    return {
+      title,
+      description,
+      alternates: { canonical: `/stays/${params.id}` },
+      openGraph: {
+        type: "website",
+        locale: "en_ZA",
+        url,
+        siteName: "Hermanus Homes",
+        title: `${property.title} | ${property.area} Holiday Rental`,
+        description,
+        images: [
+          {
+            url: image,
+            width: 1200,
+            height: 800,
+            alt: `${property.title} – holiday rental in ${property.area}, Hermanus`,
+          },
+        ],
+      },
+      twitter: {
+        card: "summary_large_image",
+        title: `${property.title} | ${property.area} Holiday Rental`,
+        description,
+        images: [image],
+      },
+    }
+  } catch {
+    return {
+      title: "Property Not Found",
+      robots: { index: false, follow: false },
+    }
+  }
+}
+
 export default async function PropertyPage({ params }: PropertyPageProps) {
   try {
     const property = await getPropertyBySlug(params.id)
@@ -33,8 +80,48 @@ export default async function PropertyPage({ params }: PropertyPageProps) {
       .filter(Boolean)
       .filter((img) => typeof img === "string" && img.trim() !== "")
 
+    const fullAddress = property.address || `${property.area}, Hermanus, Western Cape, South Africa`
+    const hasStreetAddress = /^(\d|Corner)/i.test(property.address || "")
+    const mapQuery = encodeURIComponent(`${fullAddress}, South Africa`)
+    const heroImageUrl = property.hero ? `${SITE_URL}${property.hero}` : `${SITE_URL}/images/coastal-sunset-hero.jpg`
+
+    const addressParts = (property.address || "").split(",").map((s) => s.trim())
+    const streetAddress = hasStreetAddress && addressParts[0] ? addressParts[0] : undefined
+    const addressLocality = hasStreetAddress && addressParts[1] ? addressParts[1] : property.area
+
+    const jsonLd = {
+      "@context": "https://schema.org",
+      "@type": "VacationRental",
+      name: property.title,
+      description: property.one_liner,
+      url: `${SITE_URL}/stays/${params.id}`,
+      image: allImages.slice(0, 8).map((img) => `${SITE_URL}${img}`),
+      address: {
+        "@type": "PostalAddress",
+        ...(streetAddress ? { streetAddress } : {}),
+        addressLocality,
+        addressRegion: "Western Cape",
+        addressCountry: "ZA",
+      },
+      numberOfRooms: property.beds,
+      numberOfBathroomsTotal: property.baths,
+      occupancy: {
+        "@type": "QuantitativeValue",
+        maxValue: property.sleeps,
+      },
+      amenityFeature: (property.amenities || []).map((a) => ({
+        "@type": "LocationFeatureSpecification",
+        name: a,
+      })),
+      brand: { "@type": "Organization", name: "Hermanus Homes" },
+    }
+
     return (
       <div className="pt-20">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
         {/* Back Button */}
         <section className="py-4 bg-gray-50">
           <div className="container">
@@ -81,7 +168,11 @@ export default async function PropertyPage({ params }: PropertyPageProps) {
         <section className="py-4">
           <div className="container">
             {allImages.length > 0 ? (
-              <ImageSlideshow images={allImages} title={property.title} className="mb-8" />
+              <ImageSlideshow
+                images={allImages}
+                title={`${property.title} – ${property.beds} bedroom self-catering holiday home in ${property.area}, Hermanus`}
+                className="mb-8"
+              />
             ) : (
               <div className="relative h-96 md:h-[500px] bg-gray-200 rounded-lg flex items-center justify-center mb-8">
                 <div className="text-center">
@@ -164,6 +255,29 @@ export default async function PropertyPage({ params }: PropertyPageProps) {
             </div>
           </div>
         </section>
+
+        {/* Location / Google Maps */}
+        {hasStreetAddress && (
+          <section className="py-8 bg-gray-50">
+            <div className="container">
+              <h2 className="text-2xl font-semibold mb-4">Location</h2>
+              <p className="text-gray-600 mb-4 flex items-center">
+                <MapPin size={18} className="mr-2 text-blue-600" />
+                {fullAddress}
+              </p>
+              <div className="relative w-full overflow-hidden rounded-lg" style={{ paddingBottom: "50%" }}>
+                <iframe
+                  src={`https://www.google.com/maps?q=${mapQuery}&output=embed`}
+                  className="absolute inset-0 w-full h-full border-0"
+                  loading="lazy"
+                  referrerPolicy="no-referrer-when-downgrade"
+                  title={`Map showing the location of ${property.title}`}
+                  allowFullScreen
+                />
+              </div>
+            </div>
+          </section>
+        )}
       </div>
     )
   } catch (error) {
