@@ -1386,7 +1386,7 @@ A west-facing indoor braai room with a large dining table makes the perfect meet
 title: "Silencio"
 slug: "Silencio"
 area: "Onrus"
-address: "Onrus River, Western Cape, South Africa"
+address: "62 Dempers Street, Onrus River"
 sleeps: 9
 beds: 4
 baths: 3
