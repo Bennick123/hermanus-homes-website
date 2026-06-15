@@ -1322,66 +1322,6 @@ policies_md: |
 ## Description
 Beachcomber’s Rest is a spacious, cheerful family home on the beloved Peninsula—just minutes from the beach and lagoon and a short stroll to local cafés and eateries. Freshly decorated and thoughtfully equipped, it’s designed for easy coastal living and can comfortably host up to 14 guests, making it ideal for multiple families holidaying together.`,
 
-  "seabreeze": `---
-title: "Seabreeze"
-slug: "seabreeze"
-area: "Onrus"
-address: "17 Protea Street, Onrus River"
-sleeps: 6
-beds: 3
-baths: 2
-one_liner: "Island-positioned family home a stone’s throw from Onrus beach and lagoon, with an indoor braai room and cosy fireplace."
-hero: "/homes/seabreeze/17 Protea Street Onrus (2 of 37).JPG"
-gallery:
-  - "/homes/seabreeze/17 Protea Street Onrus (1 of 37).JPG"
-  - "/homes/seabreeze/17 Protea Street Onrus (3 of 37).JPG"
-  - "/homes/seabreeze/17 Protea Street Onrus (4 of 37).JPG"
-  - "/homes/seabreeze/17 Protea Street Onrus (9 of 37).JPG"
-  - "/homes/seabreeze/17 Protea Street Onrus (13 of 37).JPG"
-  - "/homes/seabreeze/17 Protea Street Onrus (14 of 37).JPG"
-  - "/homes/seabreeze/17 Protea Street Onrus (19 of 37).JPG"
-  - "/homes/seabreeze/17 Protea Street Onrus (17 of 37).JPG"
-  - "/homes/seabreeze/17 Protea Street Onrus (21 of 37).JPG"
-  - "/homes/seabreeze/17 Protea Street Onrus (27 of 37).JPG"
-  - "/homes/seabreeze/17 Protea Street Onrus (30 of 37).JPG"
-  - "/homes/seabreeze/17 Protea Street Onrus (31 of 37).JPG"
-  - "/homes/seabreeze/17 Protea Street Onrus (33 of 37).JPG"
-  - "/homes/seabreeze/17 Protea Street Onrus (36 of 37).JPG"
-amenities:
-  - Uncapped Wi-Fi
-  - Smart TV for streaming
-  - Washing machine
-  - Dishwasher
-  - Microwave
-  - Stove/oven
-  - Fridge
-  - Freezer
-  - Fans
-  - Hairdryer
-  - Indoor fireplace
-  - Indoor braai room
-  - Inverter
-  - Security alarm
-rates_md: |
-  Peak
-  R6000 p/n (Minimum 10 nights)
-
-  Shoulder
-  R3900 p/n (Minimum 2 nights)
-
-  Off season
-  R3000 p/n (Minimum 2 nights)
-policies_md: |
-  Pets: Not Allowed
----
-
-## Description
-Seabreeze is beautifully situated on the Island in Onrus River — just moments from the popular beach and lagoon. The home has three double bedrooms (each with a double bed). The main bedroom includes an en-suite bathroom, with a second bathroom serving the other two rooms.
-
-A west-facing indoor braai room with a large dining table makes the perfect meeting place after a day at the beach. The kitchen is well equipped with all the modern conveniences, and the lounge includes a cosy indoor fireplace. Come spend a glorious holiday at Seabreeze and recharge in the fresh sea air and peaceful surroundings of Onrus River.
-`,
-
-
   "Silencio": `---
 title: "Silencio"
 slug: "Silencio"

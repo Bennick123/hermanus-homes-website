@@ -28,7 +28,6 @@ const propertyOptions = [
   "Pelican's Nest",
   "Rustica",
   "Sea Perfection",
-  "Seabreeze",
   "Seaclusion",
   "Seacrest Cottage",
   "Seafront Retreat",
