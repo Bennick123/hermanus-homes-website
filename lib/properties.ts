@@ -82,6 +82,7 @@ rates_md: |
 
 policies_md: |
   **Pets:** Not Allowed 
+  **Baby cot:** Available on request at R100 per stay
 ---
 
 ## Description
@@ -163,6 +164,7 @@ rates_md: |
   Pricing varies by season and dates
 policies_md: |
   Pets: Not Allowed
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -222,6 +224,7 @@ rates_md: |
   R3300 p/n (Minimum 2 nights)
 policies_md: |
   **Pets:** Not Allowed
+  **Baby cot:** Available on request at R100 per stay
 ---
 
 ## Description
@@ -285,6 +288,7 @@ rates_md: |
   R3500 p/n (Minimum 2 nights)
 policies_md: |
   Pets: By special arrangement
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -354,6 +358,7 @@ policies_md: |
   **Pets:** Allowed  
   **Smoking:** No smoking indoors  
   **TV:** No TV on site
+  **Baby cot:** Available on request at R100 per stay
 ---
 
 ## Description
@@ -432,6 +437,7 @@ rates_md: |
 
 policies_md: |
   **Pets:** Not Allowed
+  **Baby cot:** Available on request at R100 per stay
 ---
 
 ## Description
@@ -511,6 +517,7 @@ rates_md: |
   R2900 p/n (Minimum 2 nights)
 policies_md: |
   **Pets:** Allowed by arrangement
+  **Baby cot:** Available on request at R100 per stay
 ---
 
 ## Description
@@ -585,6 +592,7 @@ rates_md: |
   R4125 p/n (Minimum 10 nights)
 policies_md: |
   **Pets:** Not Allowed
+  **Baby cot:** Available on request at R100 per stay
 ---
 
 ## Description
@@ -656,6 +664,7 @@ rates_md: |
   R2700 p/n
 policies_md: |
   **Pets:** Not Allowed
+  **Baby cot:** Available on request at R100 per stay
 ---
 
 ## Description
@@ -706,6 +715,7 @@ rates_md: |
   R1500 p/n (Minimum 2 nights)
 policies_md: |
   **Pets:** Not Allowed
+  **Baby cot:** Available on request at R100 per stay
 ---
 
 ## Description
@@ -776,6 +786,7 @@ rates_md: |
 policies_md: |
   Pets: Not Allowed
   Notes: New listing. Available for a limited window (8 Jan – 16 Feb 2026). Exact address provided after booking.
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -833,6 +844,7 @@ rates_md: |
   Minimum 7 days
 policies_md: |
   **Pets:** Not Allowed
+  **Baby cot:** Available on request at R100 per stay
 ---
 
 ## Description
@@ -914,6 +926,7 @@ rates_md: |
 policies_md: |
   **Pets:** Not Allowed
   **Notes:** Shares the same entrance gate with **Seaclusion** at 27 Beyers Street and the properties are alongside one another. These two homes can be let together to accommodate **up to 16 guests**. Garden fully enclosed with lawn for children.
+  **Baby cot:** Available on request at R100 per stay
 ---
 
 ## Description
@@ -976,6 +989,7 @@ rates_md: |
 policies_md: |
   Pets: Not Allowed
   Notes: Shares the same entrance gate with Sunset Terrace at 29 Beyers Street and the properties are alongside one another. These two homes can be let together to accommodate up to 16 guests. Booked 20 December – 2 January 2026.
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -1043,6 +1057,7 @@ rates_md: |
 policies_md: |
   **Pets:** Not Allowed
   **Notes:** DSTV available on request. Enclosed garden and ample street parking in front of the house.
+  **Baby cot:** Available on request at R100 per stay
 ---
 
 ## Description
@@ -1112,6 +1127,7 @@ rates_md: |
   R3500 p/n (Minimum 2 nights)
 policies_md: |
   Pets: Not Allowed
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -1169,6 +1185,7 @@ rates_md: |
   R3100 p/n (Minimum stay 2 nights)
 policies_md: |
   **Pets:** Allowed by request
+  **Baby cot:** Available on request at R100 per stay
 ---
 
 ## Description
@@ -1230,6 +1247,7 @@ rates_md: |
   R2700 p/n (Minimum 2 nights)
 policies_md: |
   Pets: Allowed by arrangement
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -1317,6 +1335,7 @@ rates_md: |
   R4200 p/n (Minimum 2 nights)
 policies_md: |
   Pets: Not Allowed
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -1397,6 +1416,7 @@ rates_md: |
 
 policies_md: |
   Pets: Not allowed
+  Baby cot: Available on request at R100 per stay
 ---
   
 ## Description
@@ -1455,6 +1475,7 @@ rates_md: |
   R2700 p/n (Minimum 2 nights)
 policies_md: |
   Pets: Not Allowed
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -1520,6 +1541,7 @@ rates_md: |
   R1800 p/n
 policies_md: |
   Pets: Not Allowed
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -1585,6 +1607,7 @@ rates_md: |
   R3000 p/n (Minimum 2 days)
 policies_md: |
   Pets: Not Allowed
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -1653,6 +1676,7 @@ rates_md: |
 
 policies_md: |
   Pets: Not Allowed
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -1714,6 +1738,7 @@ rates_md: |
 
 policies_md: |
   **Pets:** Please enquire  
+  **Baby cot:** Available on request at R100 per stay
 ---
 
 ## Description
