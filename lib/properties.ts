@@ -118,7 +118,6 @@ baths: 2
 one_liner: "Stylish coastal holiday home in Onrus River offering relaxed indoor-outdoor living close to beaches, lagoon and cliff paths."
 hero: "/homes/herringbone/1.jpeg"
 gallery:
-  - "/homes/herringbone/1.jpeg"
   - "/homes/herringbone/2.jpeg"
   - "/homes/herringbone/3.jpeg"
   - "/homes/herringbone/4.jpeg"
@@ -506,6 +505,7 @@ amenities:
   - Heated pool with safety net
   - CCTV
   - Solar geyser
+  - 5kW inverter with 8 solar panels
 rates_md: |
   **Peak season**
   R5300 p/n (Minimum 10 nights)
@@ -537,6 +537,9 @@ The large swimming pool, complete with safety net, is the star attraction for su
 
 ### Comfort & Warmth
 For cooler evenings, the indoor fireplace warms the entire family area, with underfloor heating in the study and both bathrooms, plus heated towel racks for extra comfort.
+
+### Power & Backup
+The house runs on a **5kW inverter with 8 solar panels**, so the Wi-Fi, alarm, lights and televisions keep going for an extended period when the power goes out. Hot water comes off a solar geyser. The only things not carried by the system are the underfloor heating and the pool heater.
 
 ### Location
 The property is within walking distance to cliff paths and tidal pools, and only a 5-minute drive to Onrus Beach — a favourite spot for families, surfers, and bodyboarders.`,
@@ -725,78 +728,6 @@ The home features three bedrooms — two with queen-size beds and one with a dou
 
 Glass doors open to the outside braai and undercover patio area, set in a private back garden. With its great location and comfortable amenities, Seacrest Cottage is the perfect getaway for a relaxed and memorable holiday.`,
 
-"sunset-heights": `---
-title: "Sunset Heights"
-slug: "sunset-heights"
-area: "Hermanus"
-address: "Hermanus, Western Cape, South Africa"
-sleeps: 6
-beds: 3
-baths: 3
-one_liner: "Tastefully decorated, quiet and well-secured home near the golf course and Fernkloof Nature Reserve, with superb indoor and outdoor braai areas."
-hero: "/homes/sunset-heights/hero.jpeg"
-gallery:
-  - "/homes/sunset-heights/1.jpeg"
-  - "/homes/sunset-heights/2.jpeg"
-  - "/homes/sunset-heights/3.jpeg"
-  - "/homes/sunset-heights/4.jpeg"
-  - "/homes/sunset-heights/5.jpeg"
-  - "/homes/sunset-heights/6.jpeg"
-  - "/homes/sunset-heights/7.jpeg"
-  - "/homes/sunset-heights/8.jpeg"
-  - "/homes/sunset-heights/9.jpeg"
-  - "/homes/sunset-heights/10.jpeg"
-  - "/homes/sunset-heights/11.jpeg"
-  - "/homes/sunset-heights/12.jpeg"
-  - "/homes/sunset-heights/13.jpeg"
-  - "/homes/sunset-heights/14.jpeg"
-  - "/homes/sunset-heights/15.jpeg"
-  - "/homes/sunset-heights/16.jpeg"
-  - "/homes/sunset-heights/17.jpeg"
-  - "/homes/sunset-heights/18.jpeg"
-  - "/homes/sunset-heights/19.jpeg"
-  - "/homes/sunset-heights/20.jpeg"
-  - "/homes/sunset-heights/21.jpeg"
-  - "/homes/sunset-heights/22.jpeg"
-  - "/homes/sunset-heights/23.jpeg"
-  - "/homes/sunset-heights/24.jpeg"
-  - "/homes/sunset-heights/25.jpeg"
-  - "/homes/sunset-heights/26.jpeg"
-  - "/homes/sunset-heights/27.jpeg"
-  - "/homes/sunset-heights/28.jpeg"
-  - "/homes/sunset-heights/30.jpeg"
-  - "/homes/sunset-heights/31.jpeg"
-  - "/homes/sunset-heights/32.jpeg"
-  - "/homes/sunset-heights/33.jpeg"
-  - "/homes/sunset-heights/34.jpeg"
-  - "/homes/sunset-heights/35.jpeg"
-  - "/homes/sunset-heights/36.jpeg"
-amenities:
-  - Uncapped Wi-Fi
-  - Free parking on premises
-  - HDTV
-  - Washing machine
-  - Kitchen (fully equipped)
-  - Indoor braai
-  - Outdoor braai
-  - Excellent security
-rates_md: |
-  Pricing
-  See Airbnb listing for live nightly rates (varies by dates and fees).
-policies_md: |
-  Pets: Not Allowed
-  Notes: New listing. Available for a limited window (8 Jan – 16 Feb 2026). Exact address provided after booking.
-  Baby cot: Available on request at R100 per stay
----
-
-## Description
-Sunset Heights is a stylish, well-appointed home in a quiet area of Hermanus, ideal for a relaxing holiday close to town. It’s very near the golf course and the popular Fernkloof Nature Reserve, making it a great base for golfers and nature lovers alike.
-
-The home offers three beautifully appointed en-suite bedrooms: one with a king-size bed and two with queen-size beds, all with quality linen and pillows. The open-plan living space is designed for easy holiday living, with a well-equipped kitchen and a superb entertainment setup.
-
-With fantastic braai facilities both inside and outside, this is an entertainer’s dream and a true “home away from home.”`,
-
-
   "sea-perfection": `---
 title: "Sea Perfection"
 slug: "sea-perfection"
@@ -808,7 +739,6 @@ baths: 2
 one_liner: "Beautiful, fully equipped 3-bedroom home with indoor & outdoor braais, neat garden, and upstairs deck living in the heart of Onrus."
 hero: "/homes/sea-perfection/front view.jpg"
 gallery:
-  - "/homes/sea-perfection/downstairs lounge and indoor braai.jpg"
   - "/homes/sea-perfection/kitchen.jpg"
   - "/homes/sea-perfection/kitchen 2.jpg"
   - "/homes/sea-perfection/kitchen 3.jpg"
@@ -821,7 +751,7 @@ gallery:
   - "/homes/sea-perfection/upsairs outdoor braai.jpg"
   - "/homes/sea-perfection/back garden.jpg"
   - "/homes/sea-perfection/downstairs indoor braai.jpg"
-  - "/homes/sea-perfection/image.jpg"
+  - "/homes/sea-perfection/image.png"
 amenities:
   - Uncapped Wi-Fi
   - Back-up UPS
@@ -881,21 +811,14 @@ gallery:
   - "/homes/sunset-terrace/29 Beyers Street, Onrus (12 of 24).JPG"
   - "/homes/sunset-terrace/29 Beyers Street, Onrus (9 of 24).JPG"
   - "/homes/sunset-terrace/29 Beyers Street, Onrus (14 of 24).JPG"
-  - "/homes/sunset-terrace/29 Beyers Street, Onrus (20 of 24).JPG"
-  - "/homes/sunset-terrace/29 Beyers Street, Onrus (23 of 24).JPG"
   - "/homes/sunset-terrace/29 Beyers Street, Onrus (5 of 24).JPG"
   - "/homes/sunset-terrace/29 Beyers Street, Onrus (6 of 24).JPG"
   - "/homes/sunset-terrace/29 Beyers Street, Onrus (10 of 24).JPG"
   - "/homes/sunset-terrace/29 Beyers Street, Onrus (16 of 24).JPG"
   - "/homes/sunset-terrace/29 Beyers Street, Onrus (13 of 24).JPG"
-  - "/homes/sunset-terrace/29 Beyers Street, Onrus (19 of 24).JPG"
-  - "/homes/sunset-terrace/29 Beyers Street, Onrus (22 of 24).JPG"
-  - "/homes/sunset-terrace/29 Beyers Street, Onrus (1 of 24).JPG"
   - "/homes/sunset-terrace/29 Beyers Street, Onrus (11 of 24).JPG"
   - "/homes/sunset-terrace/29 Beyers Street, Onrus (8 of 24).JPG"
   - "/homes/sunset-terrace/29 Beyers Street, Onrus (15 of 24).JPG"
-  - "/homes/sunset-terrace/29 Beyers Street, Onrus (18 of 24).JPG"
-  - "/homes/sunset-terrace/29 Beyers Street, Onrus (21 of 24).JPG"
 amenities:
   - Uncapped Wi-Fi
   - DSTV & Netflix
@@ -946,7 +869,7 @@ sleeps: 10
 beds: 4
 baths: 3
 one_liner: "Comfortable Onrus family home with patio braai and upstairs deck with ocean views, an easy walk to the beach. Can be booked together with Sunset Terrace next door (29 Beyers) to sleep up to 16."
-hero: "/homes/seaclusion/Beyers Street Low Res-40.jpg"
+hero: "/homes/seaclusion/27-beyers-grey-exterior.jpg"
 gallery:
   - "/homes/seaclusion/Beyers Street Low Res-4.jpg"
   - "/homes/seaclusion/Beyers Street Low Res-10.jpg"
@@ -1200,20 +1123,32 @@ sleeps: 4
 beds: 2
 baths: 3
 one_liner: "Modern 2-bedroom, 3-bath home near beach and tidal pools, with sunny garden, braai room, and all the mod-cons."
-hero: "/homes/flow/hero.jpg"
+hero: "/homes/flow/pro-15.jpg"
 gallery:
-  - "/homes/flow/WhatsApp Image 2025-03-10 at 13.32.21_22abbaa9.jpg"
-  - "/homes/flow/WhatsApp Image 2025-03-10 at 13.32.18_ed77c388.jpg"
-  - "/homes/flow/WhatsApp Image 2025-03-10 at 13.32.17_7e9c18d0 (1).jpg"
-  - "/homes/flow/IMG-20250312-WA0006.jpg"
-  - "/homes/flow/WhatsApp Image 2025-03-10 at 13.38.37_30af129a.jpg"
-  - "/homes/flow/WhatsApp Image 2025-03-10 at 13.32.17_99c0c3e7.jpg"
-  - "/homes/flow/WhatsApp Image 2025-03-10 at 13.32.17_d4951fb2.jpg"
-  - "/homes/flow/WhatsApp Image 2025-03-10 at 13.32.20_cf9a2ac0.jpg"
-  - "/homes/flow/IMG-20250312-WA0004.jpg"
-  - "/homes/flow/WhatsApp Image 2025-03-10 at 13.32.22_9b16c9e9.jpg"
-  - "/homes/flow/WhatsApp Image 2025-03-10 at 13.32.20_093a7fe2.jpg"
-  - "/homes/flow/WhatsApp Image 2025-03-10 at 13.32.15_861303d5.jpg"
+  - "/homes/flow/pro-18.jpg"
+  - "/homes/flow/pro-06.jpg"
+  - "/homes/flow/pro-05.jpg"
+  - "/homes/flow/pro-13.jpg"
+  - "/homes/flow/pro-17.jpg"
+  - "/homes/flow/pro-14.jpg"
+  - "/homes/flow/pro-16.jpg"
+  - "/homes/flow/pro-08.jpg"
+  - "/homes/flow/pro-07.jpg"
+  - "/homes/flow/pro-09.jpg"
+  - "/homes/flow/pro-24.jpg"
+  - "/homes/flow/pro-23.jpg"
+  - "/homes/flow/pro-21.jpg"
+  - "/homes/flow/pro-22.jpg"
+  - "/homes/flow/pro-19.jpg"
+  - "/homes/flow/pro-25.jpg"
+  - "/homes/flow/pro-20.jpg"
+  - "/homes/flow/pro-12.jpg"
+  - "/homes/flow/pro-11.jpg"
+  - "/homes/flow/pro-10.jpg"
+  - "/homes/flow/pro-03.jpg"
+  - "/homes/flow/pro-04.jpg"
+  - "/homes/flow/pro-01.jpg"
+  - "/homes/flow/pro-02.jpg"
 amenities:
   - Uncapped Wi-Fi
   - Smart TV for streaming (Netflix)
@@ -1261,17 +1196,14 @@ title: "Beachcomber's Rest"
 slug: "beachcombers-rest"
 area: "Onrus"
 address: "3 Green Street, Onrus River"
-sleeps: 15
-beds: 6
-baths: 4
-one_liner: "Large Peninsula-positioned family home that sleeps up to 15, a short walk to Onrus beach & lagoon, with teen rumpus attic and great entertaining spaces."
+sleeps: 8
+beds: 4
+baths: 3
+one_liner: "Peninsula-positioned family home that sleeps up to 8, a short walk to Onrus beach & lagoon, with great entertaining spaces."
 hero: "/homes/beachcombers-rest/3 Green Street Onrus-1.jpg"
 gallery:
-  - "/homes/beachcombers-rest/3 Green Street Onrus-1.jpg"
   - "/homes/beachcombers-rest/3 Green street (Updated)-3.jpg"
   - "/homes/beachcombers-rest/3 Green street (Updated)-9.jpg"
-  - "/homes/beachcombers-rest/3 Green street (Updated)-5.jpg"
-  - "/homes/beachcombers-rest/3 Green street (Updated)-14.jpg"
   - "/homes/beachcombers-rest/3 Green Street Onrus-5.jpg"
   - "/homes/beachcombers-rest/3 Green Street Onrus-2.jpg"
   - "/homes/beachcombers-rest/3 Green Street Onrus-9.jpg"
@@ -1286,21 +1218,16 @@ gallery:
   - "/homes/beachcombers-rest/3 Green street (Updated)-1.jpg"
   - "/homes/beachcombers-rest/3 Green street (Updated)-4.jpg"
   - "/homes/beachcombers-rest/3 Green street (Updated)-8.jpg"
-  - "/homes/beachcombers-rest/3 Green street (Updated)-13.jpg"
-  - "/homes/beachcombers-rest/3 Green street (Updated)-15.jpg"
   - "/homes/beachcombers-rest/3 Green Street Onrus-4.jpg"
   - "/homes/beachcombers-rest/3 Green Street Onrus-7.jpg"
   - "/homes/beachcombers-rest/3 Green Street Onrus-10.jpg"
   - "/homes/beachcombers-rest/3 Green Street Onrus-17.jpg"
   - "/homes/beachcombers-rest/3 Green Street Onrus-25.jpg"
   - "/homes/beachcombers-rest/3 Green Street Onrus-40.jpg"
-  - "/homes/beachcombers-rest/3 Green Street Onrus-33.jpg"
   - "/homes/beachcombers-rest/3 Green Street Onrus-42.jpg"
   - "/homes/beachcombers-rest/3 Green Street Onrus-44.jpg"
   - "/homes/beachcombers-rest/3 Green street (Updated)-2.jpg"
   - "/homes/beachcombers-rest/3 Green street (Updated)-10.jpg"
-  - "/homes/beachcombers-rest/3 Green street (Updated)-6.jpg"
-  - "/homes/beachcombers-rest/3 Green street (Updated)-11.jpg"
   - "/homes/beachcombers-rest/3 Green Street Onrus-3.jpg"
   - "/homes/beachcombers-rest/3 Green Street Onrus-8.jpg"
   - "/homes/beachcombers-rest/3 Green Street Onrus-11.jpg"
@@ -1326,20 +1253,87 @@ amenities:
   - Air conditioning (main bedroom and two upstairs bedrooms)
 rates_md: |
   Peak
-  R7700 p/n (Minimum 10 nights)
+  R7000 p/n (Minimum 10 nights)
 
   Shoulder
-  R5600 p/n (Minimum 2 nights)
+  R4000 p/n (Minimum 2 nights)
 
   Low
-  R4200 p/n (Minimum 2 nights)
+  R3200 p/n (Minimum 2 nights)
 policies_md: |
   Pets: Not Allowed
   Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
-Beachcomber’s Rest is a spacious, cheerful family home on the beloved Peninsula—just minutes from the beach and lagoon and a short stroll to local cafés and eateries. Freshly decorated and thoughtfully equipped, it’s designed for easy coastal living and can comfortably host up to 14 guests, making it ideal for multiple families holidaying together.`,
+Beachcomber’s Rest is a cheerful family home on the beloved Peninsula, just minutes from the beach and lagoon and a short stroll to local cafés and eateries. Freshly decorated and thoughtfully equipped, it’s designed for easy coastal living and comfortably hosts up to 8 guests.
+
+### Accommodation Details
+
+- **Main bedroom (downstairs):** Queen bed, en suite with shower and toilet
+- **Second bedroom (downstairs):** Double bed, shares the family bathroom (bath with shower over, and toilet)
+- **Two bedrooms upstairs:** One with a double bed, one with two single beds, sharing a bathroom with shower and toilet
+- **Sleeps 8 guests** across four bedrooms and three bathrooms`,
+
+  "seabreeze": `---
+title: "Seabreeze"
+slug: "seabreeze"
+area: "Onrus"
+address: "17 Protea Street, Onrus River"
+sleeps: 6
+beds: 3
+baths: 2
+one_liner: "Island-positioned family home a stone’s throw from Onrus beach and lagoon, with an indoor braai room and cosy fireplace."
+hero: "/homes/seabreeze/17 Protea Street Onrus (2 of 37).JPG"
+gallery:
+  - "/homes/seabreeze/17 Protea Street Onrus (1 of 37).JPG"
+  - "/homes/seabreeze/17 Protea Street Onrus (3 of 37).JPG"
+  - "/homes/seabreeze/17 Protea Street Onrus (4 of 37).JPG"
+  - "/homes/seabreeze/17 Protea Street Onrus (9 of 37).JPG"
+  - "/homes/seabreeze/17 Protea Street Onrus (13 of 37).JPG"
+  - "/homes/seabreeze/17 Protea Street Onrus (14 of 37).JPG"
+  - "/homes/seabreeze/17 Protea Street Onrus (19 of 37).JPG"
+  - "/homes/seabreeze/17 Protea Street Onrus (17 of 37).JPG"
+  - "/homes/seabreeze/17 Protea Street Onrus (21 of 37).JPG"
+  - "/homes/seabreeze/17 Protea Street Onrus (27 of 37).JPG"
+  - "/homes/seabreeze/17 Protea Street Onrus (30 of 37).JPG"
+  - "/homes/seabreeze/17 Protea Street Onrus (31 of 37).JPG"
+  - "/homes/seabreeze/17 Protea Street Onrus (33 of 37).JPG"
+  - "/homes/seabreeze/17 Protea Street Onrus (36 of 37).JPG"
+amenities:
+  - Uncapped Wi-Fi
+  - Smart TV for streaming
+  - Washing machine
+  - Dishwasher
+  - Microwave
+  - Stove/oven
+  - Fridge
+  - Freezer
+  - Fans
+  - Hairdryer
+  - Indoor fireplace
+  - Indoor braai room
+  - Inverter
+  - Security alarm
+rates_md: |
+  Peak
+  R6000 p/n (Minimum 10 nights)
+
+  Shoulder
+  R3900 p/n (Minimum 2 nights)
+
+  Off season
+  R3000 p/n (Minimum 2 nights)
+policies_md: |
+  Pets: Not Allowed
+  Baby cot: Available on request at R100 per stay
+---
+
+## Description
+Seabreeze is beautifully situated on the Island in Onrus River — just moments from the popular beach and lagoon. The home has three double bedrooms (each with a double bed). The main bedroom includes an en-suite bathroom, with a second bathroom serving the other two rooms.
+
+A west-facing indoor braai room with a large dining table makes the perfect meeting place after a day at the beach. The kitchen is well equipped with all the modern conveniences, and the lounge includes a cosy indoor fireplace. Come spend a glorious holiday at Seabreeze and recharge in the fresh sea air and peaceful surroundings of Onrus River.
+`,
 
   "Silencio": `---
 title: "Silencio"
@@ -1359,7 +1353,6 @@ gallery:
 - "/homes/Silencio/62 Dempers Street, Onrus-5.jpg"
 - "/homes/Silencio/62 Dempers Street, Onrus-6.jpg"
 - "/homes/Silencio/62 Dempers Street, Onrus-7.jpg"
-- "/homes/Silencio/62 Dempers Street, Onrus-8.jpg"
 - "/homes/Silencio/62 Dempers Street, Onrus-9.jpg"
 - "/homes/Silencio/62 Dempers Street, Onrus-10.jpg"
 - "/homes/Silencio/62 Dempers Street, Onrus-11.jpg"
@@ -1390,7 +1383,6 @@ gallery:
 - "/homes/Silencio/62 Dempers Street, Onrus-36.jpg"
 - "/homes/Silencio/62 Dempers Street, Onrus-37.jpg"
 - "/homes/Silencio/62 Dempers Street, Onrus-38.jpg"
-- "/homes/Silencio/62 Dempers Street, Onrus-39.jpg"
 
 amenities:
   - Fully equipped kitchen
@@ -1439,7 +1431,6 @@ one_liner: "Charming lakeside family home in a peaceful residential setting with
 hero: "/homes/Rosemarys-cottage/7.jpeg"
 gallery:
   - "/homes/Rosemarys-cottage/3.jpeg"
-  - "/homes/Rosemarys-cottage/7.jpeg"
   - "/homes/Rosemarys-cottage/9.jpeg"
   - "/homes/Rosemarys-cottage/11.jpeg"
   - "/homes/Rosemarys-cottage/12.jpeg"
@@ -1687,67 +1678,86 @@ The open-plan lounge, dining area, and well-equipped kitchen open to a private g
 A portable braai adds easy outdoor cooking to relaxed evenings at home. Comfortable, convenient, and close to everything, Whale-a-While is an ideal base for exploring Hermanus and its coastal paths.
 `,
 
-"lilak-house": `---
-title: "Lilak House"
-slug: "lilak-house"
+  "casa-familia": `---
+title: "Casa Familia"
+slug: "casa-familia"
 area: "Hermanus"
-address: "259 5th Street, Voelklip"
-sleeps: 8
-beds: 4
-baths: 3
-one_liner: "Spacious Voelklip family home with two en-suite masters, mountain-view balcony, north-facing braai area, and easy access to beaches and walks."
-hero: "/homes/lilak-house/exterior.jpg"
+address: "152 11th Street, Voelklip, Hermanus"
+sleeps: 7
+beds: 3
+baths: 2
+one_liner: "Spacious ground-floor home in Voelklip with ocean views and a private entrance, a four-minute walk from the beach and cliff paths."
+hero: "/homes/casa-familia/ext-front.jpg"
 gallery:
-  - "/homes/lilak-house/ROADSIDE.jpg"
-  - "/homes/lilak-house/mountain.jpg"
-  - "/homes/lilak-house/SINGLE GARAGE.jpg"
-  - "/homes/lilak-house/STAIRS.jpg"
-  - "/homes/lilak-house/lounge.jpg"
-  - "/homes/lilak-house/family room.jpg"
-  - "/homes/lilak-house/FAM ROOM.jpg"
-  - "/homes/lilak-house/F ROOM.jpg"
-  - "/homes/lilak-house/kitchen 2.jpg"
-  - "/homes/lilak-house/kitchen 3.jpg"
-  - "/homes/lilak-house/kitchen dining room and scullery.jpg"
-  - "/homes/lilak-house/scullery.jpg"
-  - "/homes/lilak-house/DOWNSTAIRS QUEEN EN SUITE.jpg"
-  - "/homes/lilak-house/DOWNSTAIRS MAIN BEDROOM.jpg"
-  - "/homes/lilak-house/EN SUITE MAIN BEDROOMDOWNSTAIRS.jpg"
-  - "/homes/lilak-house/MAIN BEDROOM UPSTAIRS ENSUITE.jpg"
-  - "/homes/lilak-house/HOOF SLAAAPKAMER ESNUITE.jpg"
-  - "/homes/lilak-house/2 SINGLES.jpg"
-  - "/homes/lilak-house/downstairs 2 sngles.jpg"
-  - "/homes/lilak-house/2nd bathroom.jpg"
-  - "/homes/lilak-house/3rd bathroom.jpg"
-  - "/homes/lilak-house/badkMER.jpg"
-  - "/homes/lilak-house/bathroom.jpg"
-  - "/homes/lilak-house/UPSTAIRS BATHROOM.jpg"
-  - "/homes/lilak-house/Picture1.jpg"
+  - "/homes/casa-familia/ext-dusk.jpg"
+  - "/homes/casa-familia/patio-sunset.jpg"
+  - "/homes/casa-familia/patio-day.jpg"
+  - "/homes/casa-familia/patio-firepit.jpg"
+  - "/homes/casa-familia/sea-view.jpg"
+  - "/homes/casa-familia/cf-03.jpg"
+  - "/homes/casa-familia/cf-01.jpg"
+  - "/homes/casa-familia/cf-04.jpg"
+  - "/homes/casa-familia/cf-05.jpg"
+  - "/homes/casa-familia/cf-15.jpg"
+  - "/homes/casa-familia/dining.jpg"
+  - "/homes/casa-familia/kitchen-1.jpg"
+  - "/homes/casa-familia/kitchen-2.jpg"
+  - "/homes/casa-familia/cf-07.jpg"
+  - "/homes/casa-familia/cf-06.jpg"
+  - "/homes/casa-familia/cf-10.jpg"
+  - "/homes/casa-familia/cf-11.jpg"
+  - "/homes/casa-familia/cf-08.jpg"
+  - "/homes/casa-familia/cf-14.jpg"
+  - "/homes/casa-familia/bathroom-1.jpg"
+  - "/homes/casa-familia/bathroom-2.jpg"
+  - "/homes/casa-familia/cf-27.jpg"
+  - "/homes/casa-familia/cf-23.jpg"
+  - "/homes/casa-familia/cf-25.jpg"
+  - "/homes/casa-familia/cf-22.jpg"
+  - "/homes/casa-familia/cf-24.jpg"
 amenities:
-  - DSTV (full package)
-  - TV (not smart)
-  - Dishwasher
-  - Washing machine
-  - Tumble dryer
-  - North-facing braai area
-  - Balcony with mountain view (upstairs master)
-  - Single garage
-rates_md: | 
-  Available **10 Dec – 10 Jan 2026** only.  
-  R8000 p/n
+  - Ocean and mountain views
+  - Private entrance
+  - Front patio with braai facing the sea
+  - Outdoor gas fire pit
+  - Sun terrace and large lawned garden
+  - Outdoor dining for eight
+  - Uncapped fibre Wi-Fi
+  - Fully equipped kitchen
+  - Gas hob and extractor
+  - Breakfast bar
+  - Indoor dining table seating eight
+  - TV
+  - Family friendly, with toys and books for children
+  - Ample parking on the property
+  - Non-smoking
+rates_md: |
+  **Rates on request**
 
+  Contact us for a quote and availability.
 policies_md: |
-  **Pets:** Please enquire  
-  **Baby cot:** Available on request at R100 per stay
+  Pets: Please enquire
+
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
-Lilak House is a four-bedroom, family-friendly home in Voelklip with generous rooms and plenty of space to spread out. Downstairs features a master bedroom with en-suite, a family bathroom with bath, and living areas designed for easy holiday time. Upstairs, a second master suite opens to a small balcony with mountain views—perfect for morning coffee.
+Casa Familia is a spacious ground-floor home in Voelklip, one of the most sought-after corners of Hermanus. It has its own private entrance and a front patio with a braai looking out to the ocean, and the beach and cliff paths are a four-minute walk away.
 
-The kitchen has all the mod-cons—dishwasher, washing machine, and tumble dryer—and flows to a north-facing braai area for long summer evenings. There’s garaging for one car, and while it’s a walk to the beaches, it’s very doable, with classic Voelklip hiking paths and scenic walks close by. Entertainment is simple with a TV (not smart) and DSTV full package.
+The living room, dining room and kitchen run together in one bright, open space, decorated with a homely touch and set up properly for self-catering. The kitchen has a gas hob, an extractor and a breakfast bar, and the dining table seats eight. Uncapped fibre Wi-Fi runs throughout.
 
-Sleeping 8 with ease, Lilak House suits one large family or two smaller families looking for a comfortable Voelklip base during the festive season.
-`,
+Outside, the paved terrace runs the width of the house with a braai, a gas fire pit and dining for eight, looking over the lawn to the sea. The mountains sit behind the house, so you get both from the same spot.
+
+### Accommodation Details
+
+- **Main bedroom:** Large double bed
+- **Second bedroom:** Double bed and a single bed
+- **Third bedroom:** Double bed
+- **Sleeps 7 guests** across three bedrooms and two bathrooms
+
+### The Neighbourhood
+
+Voelklip beach is a short walk over, with Blue Flag Grotto Beach also close by. There are two restaurants within walking distance, and the long beach walkway gives you mountain views in one direction and the bay in the other. It is an easy, quiet base for families, with Fernkloof Nature Reserve and the Hermanus cliff path both a few minutes away.`,
 
 }
 
