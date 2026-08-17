@@ -21,6 +21,7 @@ const propertyOptions = [
   "Herringbone",
   "Holiday Vibe",
   "Island Time",
+  "Koel-af",
   "La Mer Beachfront",
   "Lizzie's",
   "Once Upon a Tide",

@@ -1759,6 +1759,111 @@ Outside, the paved terrace runs the width of the house with a braai, a gas fire 
 
 Voelklip beach is a short walk over, with Blue Flag Grotto Beach also close by. There are two restaurants within walking distance, and the long beach walkway gives you mountain views in one direction and the bay in the other. It is an easy, quiet base for families, with Fernkloof Nature Reserve and the Hermanus cliff path both a few minutes away.`,
 
+  "koel-af": `---
+title: "Koel-af"
+slug: "koel-af"
+area: "Hermanus"
+address: "Voelklip, Hermanus"
+sleeps: 7
+beds: 3
+baths: 2
+one_liner: "Relaxed three-bedroom family home in sought-after Voelklip, with indoor and outdoor braai areas and the mountain right behind you."
+hero: "/homes/koel-af/extra-04.jpg"
+gallery:
+  - "/homes/koel-af/extra-01.jpg"
+  - "/homes/koel-af/living-1.jpg"
+  - "/homes/koel-af/living-2.jpg"
+  - "/homes/koel-af/extra-02.jpg"
+  - "/homes/koel-af/kitchen-1.jpg"
+  - "/homes/koel-af/kitchen-2.jpg"
+  - "/homes/koel-af/dining-1.jpg"
+  - "/homes/koel-af/extra-12.jpg"
+  - "/homes/koel-af/extra-07.jpg"
+  - "/homes/koel-af/extra-11.jpg"
+  - "/homes/koel-af/extra-06.jpg"
+  - "/homes/koel-af/deck-1.jpg"
+  - "/homes/koel-af/ext-3.jpg"
+  - "/homes/koel-af/ext-1.jpg"
+  - "/homes/koel-af/ext-2.jpg"
+  - "/homes/koel-af/bed1-1.jpg"
+  - "/homes/koel-af/bed1-2.jpg"
+  - "/homes/koel-af/extra-03.jpg"
+  - "/homes/koel-af/bed2-1.jpg"
+  - "/homes/koel-af/bed2-2.jpg"
+  - "/homes/koel-af/extra-09.jpg"
+  - "/homes/koel-af/bed3-1.jpg"
+  - "/homes/koel-af/extra-08.jpg"
+  - "/homes/koel-af/bath-1.jpg"
+  - "/homes/koel-af/bath-2.jpg"
+  - "/homes/koel-af/bath-3.jpg"
+  - "/homes/koel-af/extra-05.jpg"
+  - "/homes/koel-af/extra-10.jpg"
+amenities:
+  - Wi-Fi
+  - TV
+  - Washing machine
+  - Dishwasher
+  - Fridge/freezer
+  - Oven and hob
+  - Microwave
+  - Kettle
+  - Coffee machine
+  - Toaster
+  - Dishes and cutlery
+  - Wine glasses
+  - Indoor fireplace
+  - Indoor braai room
+  - Outdoor braai
+  - Braai utensils
+  - Outdoor dining area
+  - Outdoor furniture
+  - Private garden
+  - Bath
+  - Hairdryer
+  - Bed linen
+  - Towels
+  - Iron
+  - Drying rack
+  - Ceiling fan
+  - Portable fans
+  - Board games
+  - Books and reading material
+  - Private entrance
+rates_md: |
+  **Rates on request**
+
+  Contact us for a quote and availability.
+policies_md: |
+  Pets: Not allowed
+
+  Smoking: Not allowed
+
+  Maximum guests: 7
+
+  Baby cot: Available on request at R100 per stay
+---
+
+## Description
+Koel-af is a comfortable, inviting three-bedroom home in the sought-after area of Voelklip, Hermanus. It is a relaxed and welcoming space for families or friends after a proper seaside break, with the mountain rising directly behind the house and the beach a short walk away.
+
+The home has indoor and outdoor braai facilities, so you can eat outside on a warm evening or move into the braai room when the weather turns. Either way you are set up for long, unhurried meals with the people you came with.
+
+### Accommodation Details
+
+- **Bedroom 1:** King bed, en-suite bathroom
+- **Bedroom 2:** Double bed and a single bed
+- **Bedroom 3:** Two single beds
+- **Sleeps 7 guests** across three bedrooms
+- **2 bathrooms:** Main en-suite plus a family bathroom
+
+### Indoor and Outdoor Living
+
+The lounge has a fireplace for cooler evenings, and a second sitting area gives everyone somewhere to spread out. The kitchen is well equipped for self-catering, with a dishwasher, oven and hob, and a dining table for the whole group. Outside, a covered braai area and a raised deck with a picnic table look straight up at the mountain.
+
+### The Neighbourhood
+
+Voelklip is one of the quietest and most established parts of Hermanus. Voelklip beach and Grotto Beach are both close, the cliff path and Fernkloof Nature Reserve are a few minutes away, and the village restaurants are an easy drive.`,
+
 }
 
 export async function getPropertySlugs(): Promise<string[]> {
