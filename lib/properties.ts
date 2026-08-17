@@ -1830,9 +1830,14 @@ amenities:
   - Books and reading material
   - Private entrance
 rates_md: |
-  **Rates on request**
+  **Peak**
+  R4000 p/n (15 December to 15 January)
 
-  Contact us for a quote and availability.
+  **Shoulder**
+  R3000 p/n (16 January to 30 April, and 1 September to 14 December)
+
+  **Low**
+  R2200 p/n (1 May to 31 August)
 policies_md: |
   Pets: Not allowed
 
