@@ -1853,7 +1853,7 @@ policies_md: |
 ## Description
 Koel-af is a comfortable, inviting three-bedroom home in the sought-after area of Voelklip, Hermanus. It is a relaxed and welcoming space for families or friends after a proper seaside break, with the mountain rising directly behind the house and the beach a short walk away.
 
-**Please note:** the lower level of the house is a separate flatlet that is permanently occupied by a long-term tenant. The holiday accommodation is the upper level. We mention this up front so that it is not a surprise when you arrive.
+**Please note:** The lower level of the house is a separate flatlet that is permanently occupied by a long-term tenant. The holiday accommodation is the upper level. We mention this up front so that it is not a surprise when you arrive.
 
 The home has indoor and outdoor braai facilities, so you can eat outside on a warm evening or move into the braai room when the weather turns. Either way you are set up for long, unhurried meals with the people you came with.
 
