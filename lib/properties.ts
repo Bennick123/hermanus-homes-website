@@ -59,8 +59,7 @@ amenities:
   - Good security
   - Rechargeable lights for loadshedding
   - Gas hob, electric oven
-  - Smart TV
-  - DSTV optional (R35 per day)
+  - Smart TV with streaming
   - Wi-Fi
   - Lots of games
   - Huge fireplace
@@ -97,7 +96,7 @@ This appealing, spacious, rustic home is beautifully situated on the Vermont Sal
 
 ### Special Features
 
-For the winter evenings, there is a huge fireplace as well as a firepit outside for those braai nights. There is an inverter which keeps the TV on during load shedding, ensuring you're never without entertainment.
+For the winter evenings, there is a huge fireplace as well as a firepit outside for those braai nights. There is now a Smart TV with streaming, and an inverter which keeps the TV on during load shedding, ensuring you're never without entertainment.
 
 ### The Views
 
