@@ -159,7 +159,14 @@ amenities:
   - Secure parking
   - Outdoor seating area
 rates_md: |
-  Pricing varies by season and dates
+  **Peak**
+  R5900 p/n (15 December to 15 January)
+
+  **Shoulder**
+  R2900 p/n (16 January to 30 April, and 1 September to 14 December)
+
+  **Low**
+  R2600 p/n (1 May to 31 August)
 policies_md: |
   Pets: Not Allowed
   Baby cot: Available on request at R100 per stay
