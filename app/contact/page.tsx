@@ -37,6 +37,7 @@ const propertyOptions = [
   "Silencio",
   "Skye Cottage",
   "Sunset Terrace",
+  "The Cabin",
   "Tranquility",
   "Whale-a-While",
   "Whispering Waves",

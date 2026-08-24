@@ -1872,6 +1872,113 @@ The lounge has a fireplace for cooler evenings, and a second sitting area gives 
 
 Voelklip is one of the quietest and most established parts of Hermanus. Voelklip beach and Grotto Beach are both close, the cliff path and Fernkloof Nature Reserve are a few minutes away, and the village restaurants are an easy drive.`,
 
+  "the-cabin": `---
+title: "The Cabin"
+slug: "the-cabin"
+area: "Onrus"
+address: "Onrus River"
+sleeps: 6
+beds: 3
+baths: 2
+one_liner: "Relaxed wooden cabin in Onrus River with a big indoor braai room and a wood-fired hot tub in the enclosed back garden."
+hero: "/homes/the-cabin/ext-5.jpg"
+gallery:
+  - "/homes/the-cabin/garden-1.jpg"
+  - "/homes/the-cabin/ext-1.jpg"
+  - "/homes/the-cabin/braai-1.jpg"
+  - "/homes/the-cabin/braai-2.jpg"
+  - "/homes/the-cabin/living-1.jpg"
+  - "/homes/the-cabin/living-4.jpg"
+  - "/homes/the-cabin/kitchen-1.jpg"
+  - "/homes/the-cabin/bed1-1.jpg"
+  - "/homes/the-cabin/bed2-1.jpg"
+  - "/homes/the-cabin/bed3-1.jpg"
+  - "/homes/the-cabin/bath-2.jpg"
+  - "/homes/the-cabin/bath-3.jpg"
+  - "/homes/the-cabin/bath-1.jpg"
+  - "/homes/the-cabin/garden-3.jpg"
+  - "/homes/the-cabin/garden-4.jpg"
+  - "/homes/the-cabin/ext-2.jpg"
+  - "/homes/the-cabin/ext-4.jpg"
+  - "/homes/the-cabin/ext-3.jpg"
+amenities:
+  - Wood-fired hot tub
+  - Indoor braai room
+  - Wood-burning fireplace
+  - Wi-Fi
+  - TV
+  - Kitchen
+  - Fridge/freezer
+  - Electric stove and oven
+  - Microwave
+  - Dishes and cutlery
+  - Wine glasses
+  - Kettle
+  - Nespresso coffee machine
+  - Toaster
+  - Dining table
+  - Braai utensils
+  - Bath
+  - Hairdryer
+  - Bed linen
+  - Towels
+  - Extra pillows and blankets
+  - Iron
+  - Enclosed back garden
+  - Outdoor furniture
+  - Outdoor dining area
+  - Sun loungers
+  - Board games
+  - Books and reading material
+  - First aid kit
+  - Private entrance
+  - Single level, no stairs
+  - Free off-street parking in the driveway
+rates_md: |
+  **Peak**
+  R4200 p/n
+
+  **Shoulder**
+  R2600 p/n
+
+  **Low**
+  R2200 p/n
+policies_md: |
+  Pets: Not allowed
+
+  Smoking: Not allowed
+
+  Maximum guests: 6
+
+  Check-in: After 14:00, checkout before 10:00
+
+  Baby cot: Available on request at R100 per stay, for children under 2
+
+  Please note: There is no washing machine or tumble dryer at the cabin
+---
+
+## Description
+The Cabin is a comfortable wooden cabin in the peaceful seaside village of Onrus River. It is a relaxed, no-frills holiday home and a good base for families who want to be close to the beach, the shops and everything else along this stretch of coast.
+
+It is honest about what it is. The accommodation is basic but comfortable, easy to live in, and set up for people who would rather be outside than fussing over a house.
+
+### Accommodation Details
+
+- **3 bedrooms**
+- **Sleeps 6 guests**
+- **2 bathrooms**
+- **Single level** throughout, with no stairs
+
+### The Braai Room and the Hot Tub
+
+The spacious indoor braai room is the heart of the cabin, built around a big brick fireplace that works as both a braai and a fire to sit around when the weather turns. It means you can braai properly whatever the wind is doing outside.
+
+The enclosed back garden is the other draw. It has a lawn, a covered patio, sun loungers and string lights, and a wood-fired hot tub to sink into after a day at the beach.
+
+### The Neighbourhood
+
+Onrus River is a quiet village with a beach, a lagoon and a tidal pool, all within easy reach. The cliff paths and restaurants of Hermanus are a short drive, and Vermont and Sandbaai are just along the coast.`,
+
 }
 
 export async function getPropertySlugs(): Promise<string[]> {
