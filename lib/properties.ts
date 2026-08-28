@@ -69,15 +69,15 @@ amenities:
 rates_md: |
   **High season**
   R4500 p/n for up to 6 guests (Minimum 10 nights over Dec/Jan)
-  +R300 p/p p/n for guests 7–10
+  +R400 p/p p/n for guests 7–10
 
   **Shoulder**
   R3300 p/n for up to 6 guests (min 2 nights)
-  +R300 p/p p/n for guests 7–10
+  +R400 p/p p/n for guests 7–10
 
   **Low**
   R3000 p/n for up to 6 guests (min 2 nights)
-  +R300 p/p p/n for guests 7–10
+  +R400 p/p p/n for guests 7–10
 
 policies_md: |
   **Pets:** Not Allowed 
