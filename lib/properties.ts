@@ -1620,69 +1620,6 @@ La Mer is a beautifully positioned beachfront home set right on the water’s ed
 Braai year-round with **indoor and outdoor braai** options. An **outdoor shower** keeps sandy feet at bay. With strong security, dependable comforts, and that unbeatable front-row ocean setting, La Mer makes easy, memorable coastal holidays.
 `,
 
-  "whale-a-while": `---
-title: "Whale-a-While"
-slug: "whale-a-while"
-area: "Hermanus"
-address: "13 Musson Street, Eastcliff, Hermanus"
-sleeps: 4
-beds: 2
-baths: 2
-one_liner: "Leafy Eastcliff apartment with private entrance and garden patio, close to town, golf course, and coastal walks."
-hero: "/homes/whale-a-while/13 Musson Road Hermanus-5.jpg"
-gallery:
-  - "/homes/whale-a-while/13 Musson Road Hermanus-7.jpg"
-  - "/homes/whale-a-while/13 Musson Road Hermanus-6.jpg"
-  - "/homes/whale-a-while/13 Musson Road Hermanus-11.jpg"
-  - "/homes/whale-a-while/13 Musson Road Hermanus-12.jpg"
-  - "/homes/whale-a-while/13 Musson Road Edit-2_1.jpg"
-  - "/homes/whale-a-while/13 Musson Road Edit-1.jpg"
-  - "/homes/whale-a-while/13 Musson Road Hermanus-4.jpg"
-  - "/homes/whale-a-while/13 Musson Road Hermanus-16.jpg"
-  - "/homes/whale-a-while/13 Musson Road Hermanus-13.jpg"
-  - "/homes/whale-a-while/13 Musson Road Hermanus-24.jpg"
-  - "/homes/whale-a-while/13 Musson Road Edit-3.jpg"
-  - "/homes/whale-a-while/13 Musson Road Hermanus-1.jpg"
-  - "/homes/whale-a-while/13 Musson Road Hermanus-2.jpg"
-  - "/homes/whale-a-while/13 Musson Road Hermanus-14.jpg"
-  - "/homes/whale-a-while/13 Musson Road Hermanus-18.jpg"
-amenities:
-  - Uncapped Wi-Fi
-  - Smart TV for streaming
-  - Washing machine
-  - Dishwasher
-  - Microwave
-  - Stove (gas hob, electric oven)
-  - Coffee machine
-  - Coffee plunger
-  - Toaster and kettle
-  - Electric hand mixer
-  - Large air fryer
-  - Fridge
-  - Freezer
-  - Mounted fans in all rooms
-  - Portable braai
-  - Security alarm
-  - Solar panels
-  - Private entrance
-  - Safe off-street parking
-rates_md: |
-  Only Available 15 Dec - 15 Jan
-
-  R2500 p/n (minimum stay 10 days)
-
-policies_md: |
-  Pets: Not Allowed
-  Baby cot: Available on request at R100 per stay
----
-
-## Description
-Whale-a-While is a welcoming apartment set alongside the main house at 13 Musson Street, with its own private entrance and safe parking. Tucked into leafy Eastcliff near town and the Hermanus Golf Club, it’s a great fit for holidaymakers and “Swallows” alike.
-
-The open-plan lounge, dining area, and well-equipped kitchen open to a private garden patio. The main bedroom has a queen-size bed with an en-suite shower room, while the second bedroom offers two single beds. A family bathroom includes a bath with shower-over-bath and toilet. All rooms have mounted fans, and the Smart TV is ready for streaming.
-
-A portable braai adds easy outdoor cooking to relaxed evenings at home. Comfortable, convenient, and close to everything, Whale-a-While is an ideal base for exploring Hermanus and its coastal paths.
-`,
 
   "casa-familia": `---
 title: "Casa Familia"

@@ -39,7 +39,6 @@ const propertyOptions = [
   "Sunset Terrace",
   "The Cabin",
   "Tranquility",
-  "Whale-a-While",
   "Whispering Waves",
   "Other Property",
 ];
