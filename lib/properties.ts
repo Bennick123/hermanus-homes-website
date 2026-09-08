@@ -1629,7 +1629,7 @@ address: "152 11th Street, Voelklip, Hermanus"
 sleeps: 7
 beds: 3
 baths: 2
-one_liner: "Spacious ground-floor home in Voelklip with ocean views and a private entrance, a four-minute walk from the beach and cliff paths."
+one_liner: "Spacious ground-floor apartment in Voelklip with ocean views and a private entrance, a four-minute walk from the beach and cliff paths."
 hero: "/homes/casa-familia/ext-front.jpg"
 gallery:
   - "/homes/casa-familia/ext-dusk.jpg"
@@ -1678,18 +1678,26 @@ rates_md: |
   **Rates on request**
 
   Contact us for a quote and availability.
+
+  **November mid-week special**
+
+  15% off Sunday to Thursday nights through November.
 policies_md: |
   Pets: Please enquire
 
   Baby cot: Available on request at R100 per stay
+
+  Availability: Casa Familia is let from the beginning of November to the end of March each year
 ---
 
 ## Description
-Casa Familia is a spacious ground-floor home in Voelklip, one of the most sought-after corners of Hermanus. It has its own private entrance and a front patio with a braai looking out to the ocean, and the beach and cliff paths are a four-minute walk away.
+Casa Familia is a spacious ground-floor apartment in Voelklip, one of the most sought-after corners of Hermanus. It has its own private entrance and a front patio with a braai looking out to the ocean, and the beach and cliff paths are a four-minute walk away.
+
+**Please note:** Casa Familia is only available from the beginning of November to the end of March each year.
 
 The living room, dining room and kitchen run together in one bright, open space, decorated with a homely touch and set up properly for self-catering. The kitchen has a gas hob, an extractor and a breakfast bar, and the dining table seats eight. Uncapped fibre Wi-Fi runs throughout.
 
-Outside, the paved terrace runs the width of the house with a braai, a gas fire pit and dining for eight, looking over the lawn to the sea. The mountains sit behind the house, so you get both from the same spot.
+Outside, the paved terrace runs the width of the apartment with a braai, a gas fire pit and dining for eight, looking over the lawn to the sea. The mountains sit behind the building, so you get both from the same spot.
 
 ### Accommodation Details
 
