@@ -1681,13 +1681,9 @@ rates_md: |
 
   **November mid-week special**
 
-  15% off Sunday to Thursday nights through November.
+  15% off Sunday to Thursday nights for the month of November 2026.
 policies_md: |
   Pets: Please enquire
-
-  Baby cot: Available on request at R100 per stay
-
-  Availability: Casa Familia is let from the beginning of November to the end of March each year
 ---
 
 ## Description
