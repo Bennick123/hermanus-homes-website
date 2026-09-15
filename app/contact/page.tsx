@@ -34,6 +34,7 @@ const propertyOptions = [
   "Seaclusion",
   "Seacrest Cottage",
   "Seafront Retreat",
+  "Serenity",
   "Silencio",
   "Skye Cottage",
   "Sunset Terrace",

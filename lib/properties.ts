@@ -1927,6 +1927,113 @@ The enclosed back garden is the other draw. It has a lawn, a covered patio, sun 
 
 Onrus River is a quiet village with a beach, a lagoon and a tidal pool, all within easy reach. The cliff paths and restaurants of Hermanus are a short drive, and Vermont and Sandbaai are just along the coast.`,
 
+  "serenity": `---
+title: "Serenity"
+slug: "serenity"
+area: "Hermanus"
+address: "Voelklip, Hermanus"
+sleeps: 8
+beds: 4
+baths: 4
+one_liner: "Modern four-bedroom Voelklip home with a heated saltwater pool, full solar power and a balcony where you can hear the sea."
+hero: "/homes/serenity/ext-08.jpg"
+gallery:
+  - "/homes/serenity/ext-07.jpg"
+  - "/homes/serenity/ext-09.jpg"
+  - "/homes/serenity/ext-03.jpg"
+  - "/homes/serenity/living-01.jpg"
+  - "/homes/serenity/living-03.jpg"
+  - "/homes/serenity/living-02.jpg"
+  - "/homes/serenity/ext-10.jpg"
+  - "/homes/serenity/kitchen-02.jpg"
+  - "/homes/serenity/kitchen-03.jpg"
+  - "/homes/serenity/dining-01.jpg"
+  - "/homes/serenity/dining-05.jpg"
+  - "/homes/serenity/bed1-01.jpg"
+  - "/homes/serenity/bed1-08.jpg"
+  - "/homes/serenity/bed1-07.jpg"
+  - "/homes/serenity/bed2-01.jpg"
+  - "/homes/serenity/bed4-01.jpg"
+  - "/homes/serenity/bed3-03.jpg"
+  - "/homes/serenity/bath4-01.jpg"
+  - "/homes/serenity/bath1-01.jpg"
+  - "/homes/serenity/bath3-01.jpg"
+  - "/homes/serenity/bath2-01.jpg"
+  - "/homes/serenity/kitchen-07.jpg"
+  - "/homes/serenity/ext-04.jpg"
+amenities:
+  - Heated saltwater pool with pool cover
+  - Full solar power, so no power outages
+  - Balcony off the lounge
+  - Secluded back patio with braai
+  - Outdoor dining for eight
+  - Sun loungers
+  - Fully fenced back garden
+  - Wi-Fi throughout
+  - TV
+  - Central air conditioning
+  - Radiant heating
+  - Fully equipped kitchen
+  - Dishwasher
+  - Double oven and stove
+  - Microwave
+  - Fridge/freezer
+  - Nespresso coffee machine
+  - Kettle and toaster
+  - Washing machine
+  - Tumble dryer
+  - Iron and drying rack
+  - Safe
+  - Bed linen
+  - Hairdryer
+  - Board games and books
+  - Yoga mat
+  - First aid kit and fire extinguisher
+  - Self check-in with keypad
+  - Free parking on the property
+rates_md: |
+  **Rates on request**
+
+  Contact us for a quote and availability.
+policies_md: |
+  Pets: Please enquire
+
+  Smoking: Not allowed
+
+  Parties and events: Not allowed
+
+  Maximum guests: 8
+
+  Minimum stay: 2 nights
+
+  Check-in: After 14:00, checkout before 11:00. Late checkout on request.
+---
+
+## Description
+Serenity is a modern four-bedroom, four-bathroom holiday home in Voelklip, one of the most sought-after seaside suburbs in Hermanus. It is bright, spacious and stylishly finished, a nine-minute walk from the beach and about five minutes from the mountain hiking paths and the lagoon. Golfers are close to the course too.
+
+The house runs on a full solar system, so load shedding and power outages will not interrupt your holiday.
+
+### Upstairs Living
+
+The top floor is the heart of the house. The kitchen, dining area and lounge share one open-plan space, and the lounge opens onto a balcony where you can hear the ocean over a morning coffee or sundowners. The kitchen is properly equipped for self-catering, with a dishwasher, a double oven and a Nespresso machine.
+
+### The Pool and the Patio
+
+Out the back is a secluded patio with an eight-seater table, a braai and sun loungers, set against the mountain. The heated saltwater pool was installed in August 2026 and has a cover.
+
+### Accommodation Details
+
+- **Main bedroom:** King bed with its own en-suite bathroom
+- **Second and third bedrooms:** Queen bed each
+- **Family room:** Two single beds
+- **4 bathrooms**, with each bedroom served by its own
+- **Sleeps 8 guests**
+
+### Good to Know
+
+The house spreads across two levels, which gives good separation for two couples or a larger family. Check-in is self-service with a keypad, and the back garden is fully fenced.`,
+
 }
 
 export async function getPropertySlugs(): Promise<string[]> {
