@@ -1930,109 +1930,102 @@ Onrus River is a quiet village with a beach, a lagoon and a tidal pool, all with
   "serenity": `---
 title: "Serenity"
 slug: "serenity"
-area: "Hermanus"
-address: "Voelklip, Hermanus"
-sleeps: 8
-beds: 4
-baths: 4
-one_liner: "Modern four-bedroom Voelklip home with a heated saltwater pool, full solar power and a balcony where you can hear the sea."
-hero: "/homes/serenity/ext-08.jpg"
+area: "Vermont"
+address: "Vermont, Hermanus"
+sleeps: 6
+beds: 3
+baths: 1.5
+one_liner: "Newly renovated single-level family house in Vermont, one street back from the cliff path and walking distance to both tidal pools."
+hero: "/homes/serenity/extra-01.jpg"
 gallery:
-  - "/homes/serenity/ext-07.jpg"
-  - "/homes/serenity/ext-09.jpg"
-  - "/homes/serenity/ext-03.jpg"
-  - "/homes/serenity/living-01.jpg"
-  - "/homes/serenity/living-03.jpg"
+  - "/homes/serenity/extra-07.jpg"
   - "/homes/serenity/living-02.jpg"
-  - "/homes/serenity/ext-10.jpg"
+  - "/homes/serenity/living-01.jpg"
+  - "/homes/serenity/kitchen-01.jpg"
   - "/homes/serenity/kitchen-02.jpg"
   - "/homes/serenity/kitchen-03.jpg"
   - "/homes/serenity/dining-01.jpg"
-  - "/homes/serenity/dining-05.jpg"
+  - "/homes/serenity/ext-02.jpg"
+  - "/homes/serenity/patio-02.jpg"
+  - "/homes/serenity/patio-01.jpg"
+  - "/homes/serenity/extra-04.jpg"
   - "/homes/serenity/bed1-01.jpg"
-  - "/homes/serenity/bed1-08.jpg"
-  - "/homes/serenity/bed1-07.jpg"
+  - "/homes/serenity/bed1-02.jpg"
+  - "/homes/serenity/bath-01.jpg"
   - "/homes/serenity/bed2-01.jpg"
-  - "/homes/serenity/bed4-01.jpg"
-  - "/homes/serenity/bed3-03.jpg"
-  - "/homes/serenity/bath4-01.jpg"
-  - "/homes/serenity/bath1-01.jpg"
-  - "/homes/serenity/bath3-01.jpg"
-  - "/homes/serenity/bath2-01.jpg"
-  - "/homes/serenity/kitchen-07.jpg"
-  - "/homes/serenity/ext-04.jpg"
+  - "/homes/serenity/bed2-02.jpg"
+  - "/homes/serenity/bed3-01.jpg"
+  - "/homes/serenity/bed3-02.jpg"
+  - "/homes/serenity/bath-02.jpg"
+  - "/homes/serenity/halfbath-01.jpg"
+  - "/homes/serenity/halfbath-02.jpg"
+  - "/homes/serenity/laundry-01.jpg"
+  - "/homes/serenity/ext-01.jpg"
 amenities:
-  - Heated saltwater pool with pool cover
-  - Full solar power, so no power outages
-  - Balcony off the lounge
-  - Secluded back patio with braai
-  - Outdoor dining for eight
-  - Sun loungers
-  - Fully fenced back garden
-  - Wi-Fi throughout
-  - TV
-  - Central air conditioning
-  - Radiant heating
+  - Undercover braai area
+  - Enclosed garden
+  - Wood-burning fireplace
+  - Wi-Fi
+  - HDTV with Netflix
   - Fully equipped kitchen
-  - Dishwasher
-  - Double oven and stove
-  - Microwave
+  - Gas stove and oven
   - Fridge/freezer
-  - Nespresso coffee machine
+  - Microwave
   - Kettle and toaster
+  - Coffee machine
+  - Dishes and cutlery
+  - Wine glasses
+  - Dining table
+  - Braai utensils
   - Washing machine
   - Tumble dryer
   - Iron and drying rack
-  - Safe
-  - Bed linen
+  - Bath
   - Hairdryer
-  - Board games and books
-  - Yoga mat
-  - First aid kit and fire extinguisher
-  - Self check-in with keypad
-  - Free parking on the property
+  - Bed linen
+  - Extra pillows and blankets
+  - Heating
+  - Fans
+  - Patio and outdoor furniture
+  - Private entrance
+  - Double garage, two spaces
+  - Single level, no stairs
 rates_md: |
-  **Rates on request**
+  **Peak**
+  R5200 p/n
 
-  Contact us for a quote and availability.
+  **Shoulder**
+  R3500 p/n
+
+  **Low**
+  R3000 p/n
 policies_md: |
-  Pets: Please enquire
+  Pets: Not allowed
 
   Smoking: Not allowed
 
   Parties and events: Not allowed
 
-  Maximum guests: 8
+  Maximum guests: 6
 
-  Minimum stay: 2 nights
-
-  Check-in: After 14:00, checkout before 11:00. Late checkout on request.
+  Check-in: After 15:00
 ---
 
 ## Description
-Serenity is a modern four-bedroom, four-bathroom holiday home in Voelklip, one of the most sought-after seaside suburbs in Hermanus. It is bright, spacious and stylishly finished, a nine-minute walk from the beach and about five minutes from the mountain hiking paths and the lagoon. Golfers are close to the course too.
+Serenity is a newly renovated three-bedroom house in Vermont, one street back from the cliff path and within walking distance of both tidal pools. It is a single-level home, easy to live in and set up for relaxed family holidays.
 
-The house runs on a full solar system, so load shedding and power outages will not interrupt your holiday.
-
-### Upstairs Living
-
-The top floor is the heart of the house. The kitchen, dining area and lounge share one open-plan space, and the lounge opens onto a balcony where you can hear the ocean over a morning coffee or sundowners. The kitchen is properly equipped for self-catering, with a dishwasher, a double oven and a Nespresso machine.
-
-### The Pool and the Patio
-
-Out the back is a secluded patio with an eight-seater table, a braai and sun loungers, set against the mountain. The heated saltwater pool was installed in August 2026 and has a cover.
+The lounge, dining room and kitchen share one large open-plan space, and the kitchen is fully equipped for self-catering. There is a wood-burning fireplace for cooler evenings and an undercover braai area in the enclosed garden, so you can braai whatever the weather is doing.
 
 ### Accommodation Details
 
-- **Main bedroom:** King bed with its own en-suite bathroom
-- **Second and third bedrooms:** Queen bed each
-- **Family room:** Two single beds
-- **4 bathrooms**, with each bedroom served by its own
-- **Sleeps 8 guests**
+- **Main bedroom:** Queen bed, with an en-suite shower and toilet
+- **Second bedroom:** Queen bed
+- **Third bedroom:** Two three-quarter beds, which can be pushed together to make a king
+- **Sleeps 6 guests**
 
-### Good to Know
+### The Neighbourhood
 
-The house spreads across two levels, which gives good separation for two couples or a larger family. Check-in is self-service with a keypad, and the back garden is fully fenced.`,
+Vermont sits between Onrus and Hermanus with direct access to the coastal path. The tidal pools at Rabies and Davies are favourites with families, and the Vermont Salt Pan nearby draws flamingos, herons and kingfishers. Hermanus town centre, the Old Harbour and the whale-watching cliff path are about ten minutes by car.`,
 
 }
 
