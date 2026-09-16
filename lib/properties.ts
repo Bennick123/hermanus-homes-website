@@ -1936,8 +1936,9 @@ sleeps: 6
 beds: 3
 baths: 1.5
 one_liner: "Newly renovated single-level family house in Vermont, one street back from the cliff path and walking distance to both tidal pools."
-hero: "/homes/serenity/extra-01.jpg"
+hero: "/homes/serenity/bed1-01.jpg"
 gallery:
+  - "/homes/serenity/extra-01.jpg"
   - "/homes/serenity/extra-07.jpg"
   - "/homes/serenity/living-02.jpg"
   - "/homes/serenity/living-01.jpg"
@@ -1949,7 +1950,6 @@ gallery:
   - "/homes/serenity/patio-02.jpg"
   - "/homes/serenity/patio-01.jpg"
   - "/homes/serenity/extra-04.jpg"
-  - "/homes/serenity/bed1-01.jpg"
   - "/homes/serenity/bed1-02.jpg"
   - "/homes/serenity/bath-01.jpg"
   - "/homes/serenity/bed2-01.jpg"
