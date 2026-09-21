@@ -1964,7 +1964,6 @@ gallery:
 amenities:
   - Undercover braai area
   - Enclosed garden
-  - Wood-burning fireplace
   - Wi-Fi
   - HDTV with Netflix
   - Fully equipped kitchen
@@ -2014,7 +2013,7 @@ policies_md: |
 ## Description
 Serenity is a newly renovated three-bedroom house in Vermont, one street back from the cliff path and within walking distance of both tidal pools. It is a single-level home, easy to live in and set up for relaxed family holidays.
 
-The lounge, dining room and kitchen share one large open-plan space, and the kitchen is fully equipped for self-catering. There is a wood-burning fireplace for cooler evenings and an undercover braai area in the enclosed garden, so you can braai whatever the weather is doing.
+The lounge, dining room and kitchen share one large open-plan space, and the kitchen is fully equipped for self-catering. There is an undercover braai area in the enclosed garden, so you can braai whatever the weather is doing.
 
 ### Accommodation Details
 
