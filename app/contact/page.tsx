@@ -18,6 +18,7 @@ const propertyOptions = [
   "Casa Familia",
   "Corner Delight at Onrust Beach",
   "Flow",
+  "Green Street, Blue View",
   "Herringbone",
   "Holiday Vibe",
   "Island Time",

@@ -2025,6 +2025,99 @@ The lounge, dining room and kitchen share one large open-plan space, and the kit
 ### The Neighbourhood
 
 Vermont sits between Onrus and Hermanus with direct access to the coastal path. The tidal pools at Rabies and Davies are favourites with families, and the Vermont Salt Pan nearby draws flamingos, herons and kingfishers. Hermanus town centre, the Old Harbour and the whale-watching cliff path are about ten minutes by car.`,
+  "green-street-blue-view": `---
+title: "Green Street, Blue View"
+slug: "green-street-blue-view"
+area: "Onrus"
+address: "29 Green Street, Onrus River"
+sleeps: 6
+beds: 3
+baths: 4
+one_liner: "Double-storey family home on the Onrus Peninsula with sea views from the living areas, an indoor braai and four bathrooms."
+hero: "/homes/green-street-blue-view/living-02.jpg"
+gallery:
+  - "/homes/green-street-blue-view/living-01.jpg"
+  - "/homes/green-street-blue-view/living-03.jpg"
+  - "/homes/green-street-blue-view/extra-01.jpg"
+  - "/homes/green-street-blue-view/kitchen-01.jpg"
+  - "/homes/green-street-blue-view/kitchen-02.jpg"
+  - "/homes/green-street-blue-view/dining-01.jpg"
+  - "/homes/green-street-blue-view/dining-02.jpg"
+  - "/homes/green-street-blue-view/dining-03.jpg"
+  - "/homes/green-street-blue-view/bed1-01.jpg"
+  - "/homes/green-street-blue-view/bed1-04.jpg"
+  - "/homes/green-street-blue-view/bed1-03.jpg"
+  - "/homes/green-street-blue-view/bath3-01.jpg"
+  - "/homes/green-street-blue-view/bed2-01.jpg"
+  - "/homes/green-street-blue-view/bed2-02.jpg"
+  - "/homes/green-street-blue-view/bed3-02.jpg"
+  - "/homes/green-street-blue-view/bed3-03.jpg"
+  - "/homes/green-street-blue-view/bath2-01.jpg"
+  - "/homes/green-street-blue-view/bath1-01.jpg"
+  - "/homes/green-street-blue-view/bath4-01.jpg"
+  - "/homes/green-street-blue-view/extra-09.jpg"
+  - "/homes/green-street-blue-view/extra-10.jpg"
+  - "/homes/green-street-blue-view/ext-02.jpg"
+  - "/homes/green-street-blue-view/ext-01.jpg"
+  - "/homes/green-street-blue-view/ext-03.jpg"
+amenities:
+  - Sea views
+  - Indoor braai
+  - Charcoal braai
+  - Wi-Fi
+  - TV
+  - Fully equipped kitchen
+  - Electric stove and oven
+  - Dishwasher
+  - Fridge/freezer
+  - Microwave
+  - Kettle and toaster
+  - Coffee
+  - Dishes and cutlery
+  - Wine glasses
+  - Dining table
+  - Braai utensils
+  - Washing machine
+  - Iron and drying rack
+  - Bath
+  - Hairdryer
+  - Bed linen
+  - Extra pillows and blankets
+  - Hangers and wardrobe space
+  - Heating
+  - Fans
+  - Books and board games
+  - Fire extinguisher
+  - Private entrance
+policies_md: |
+  Pets: Not allowed
+
+  Smoking: Not allowed
+
+  Parties and events: Not allowed
+
+  Maximum guests: 6
+
+  Check-in: After 15:00
+---
+
+## Description
+Green Street, Blue View is a double-storey family home on the Peninsula in Onrus River, about a five minute walk from Onrus beach and the child-friendly lagoon. There is plenty of room for a family or two couples travelling together, with three bedrooms and four bathrooms.
+
+Upstairs is the heart of the house: an open-plan kitchen, lounge and dining area with sea views across the Peninsula, and a separate glassed-in braai room with an indoor braai and a long table for everyone to sit around. The kitchen is well equipped for self-catering, with a dishwasher, oven and hob, microwave and all the usual basics.
+
+### Accommodation Details
+
+- **Main bedroom:** Queen bed, upstairs, with a corner bath and shower in the room
+- **Second bedroom:** Double bed, downstairs
+- **Third bedroom:** Two single beds, downstairs
+- **Sleeps 6 guests**
+
+Two further bathrooms are downstairs with the second and third bedrooms, and there is a guest bathroom upstairs.
+
+### The Neighbourhood
+
+The Peninsula is one of the most sought-after pockets of Onrus River, with the beach, the lagoon and the tidal pool all within walking distance. Onrus has a farm stall, a few restaurants and an easy walk along the coast, and Hermanus town centre, the Old Harbour and the whale-watching cliff path are about ten minutes by car.`,
 
 }
 
