@@ -111,10 +111,10 @@ title: "Herringbone"
 slug: "herringbone"
 area: "Onrus"
 address: "Onrus River, Hermanus, Western Cape, South Africa"
-sleeps: 6
-beds: 3
-baths: 2
-one_liner: "Stylish coastal holiday home in Onrus River offering relaxed indoor-outdoor living close to beaches, lagoon and cliff paths."
+sleeps: 8
+beds: 4
+baths: 4
+one_liner: "Stylish coastal holiday home in Onrus River with four en-suite bedrooms and relaxed indoor-outdoor living close to beaches, lagoon and cliff paths."
 hero: "/homes/herringbone/1.jpeg"
 gallery:
   - "/homes/herringbone/2.jpeg"
@@ -147,6 +147,7 @@ gallery:
   - "/homes/herringbone/29.jpeg"
   - "/homes/herringbone/30.jpeg"
 amenities:
+  - Four en-suite bedrooms
   - Uncapped Wi-Fi
   - Smart TV for streaming
   - Fully equipped kitchen
@@ -167,15 +168,20 @@ rates_md: |
 
   **Low**
   R2600 p/n (1 May to 31 August)
+
+  Rates are for up to 6 guests. Extra guests are R400 per person per night, up to a maximum of 8.
 policies_md: |
   Pets: Not Allowed
+
   Baby cot: Available on request at R100 per stay
+
+  Maximum guests: 8
 ---
 
 ## Description
 Herringbone is a stylish coastal holiday home located in the peaceful seaside village of Onrus River, just outside Hermanus. Designed for relaxed holiday living, the home offers comfortable indoor and outdoor spaces that make it perfect for families or small groups looking to unwind by the sea.
 
-The house features three bedrooms and two bathrooms, comfortably accommodating up to six guests. The open-plan living area flows into a well-equipped kitchen and dining space, creating a welcoming environment for cooking, socialising and relaxing after a day exploring the coastline.
+The house has four en-suite bedrooms, three downstairs and one upstairs, and sleeps up to eight guests. The open-plan living area flows into a well-equipped kitchen and dining space, creating a welcoming environment for cooking, socialising and relaxing after a day exploring the coastline.
 
 Outside, guests can enjoy a private outdoor area ideal for braais and enjoying the fresh sea air. With easy access to the popular Onrus beach, lagoon, scenic cliff paths and nearby restaurants, Herringbone provides a wonderful base for a memorable Hermanus holiday.
 `,
