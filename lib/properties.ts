@@ -2115,11 +2115,11 @@ Upstairs is the heart of the house: an open-plan kitchen, lounge and dining area
 ### Accommodation Details
 
 - **Main bedroom:** Queen bed, upstairs, with a corner bath and shower in the room
-- **Second bedroom:** Double bed, downstairs
-- **Third bedroom:** Two single beds, downstairs
+- **Second bedroom:** Double bed, downstairs, en-suite
+- **Third bedroom:** Two single beds, downstairs, en-suite
 - **Sleeps 6 guests**
 
-Two further bathrooms are downstairs with the second and third bedrooms, and there is a guest bathroom upstairs.
+Both downstairs bedrooms have their own en-suite bathrooms, and there is a separate guest toilet and shower downstairs as well.
 
 ### The Neighbourhood
 
