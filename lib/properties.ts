@@ -2095,6 +2095,17 @@ amenities:
   - Books and board games
   - Fire extinguisher
   - Private entrance
+rates_md: |
+  **Peak**
+  R6000 p/n
+
+  **Shoulder**
+  R4000 p/n
+
+  **Low**
+  R2900 p/n
+
+  Minimum stay of 10 nights in peak season.
 policies_md: |
   Pets: Not allowed
 
@@ -2103,6 +2114,8 @@ policies_md: |
   Parties and events: Not allowed
 
   Maximum guests: 6
+
+  Minimum stay: 10 nights in peak season
 
   Check-in: After 15:00
 ---
