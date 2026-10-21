@@ -1681,21 +1681,23 @@ amenities:
   - Ample parking on the property
   - Non-smoking
 rates_md: |
-  **Rates on request**
+  **1 December to 30 April**
+  R4000 p/n
 
-  Contact us for a quote and availability.
-
-  **November mid-week special**
-
-  15% off Sunday to Thursday nights for the month of November 2026.
+  **November**
+  Rates on request, with 15% off Sunday to Thursday nights for the month of November 2026.
 policies_md: |
   Pets: Please enquire
+
+  Parties: Not suitable for party groups, as there are two other apartments on the property
 ---
 
 ## Description
 Casa Familia is a spacious ground-floor apartment in Voelklip, one of the most sought-after corners of Hermanus. It has its own private entrance and a front patio with a braai looking out to the ocean, and the beach and cliff paths are a four-minute walk away.
 
 **Please note:** Casa Familia is only available from the beginning of November to the end of March each year.
+
+There are two other apartments on the same property, so this is not the place for a group wanting to party. It suits young families and couples looking for a quiet base.
 
 The living room, dining room and kitchen run together in one bright, open space, decorated with a homely touch and set up properly for self-catering. The kitchen has a gas hob, an extractor and a breakfast bar, and the dining table seats eight. Uncapped fibre Wi-Fi runs throughout.
 
