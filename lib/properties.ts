@@ -1900,7 +1900,7 @@ rates_md: |
   **Low**
   R1800 p/n
 policies_md: |
-  Pets: Not allowed
+  Pets: Allowed
 
   Smoking: Not allowed
 
