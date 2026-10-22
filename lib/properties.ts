@@ -1695,7 +1695,7 @@ policies_md: |
 ## Description
 Casa Familia is a spacious ground-floor apartment in Voelklip, one of the most sought-after corners of Hermanus. It has its own private entrance and a front patio with a braai looking out to the ocean, and the beach and cliff paths are a four-minute walk away.
 
-**Please note:** Casa Familia is only available from the beginning of November to the end of March each year.
+**Please note:** Casa Familia is only available from 1 November to 30 April each year.
 
 There are two other apartments on the same property, so this is not the place for a group wanting to party. It suits young families and couples looking for a quiet base.
 
@@ -1895,10 +1895,10 @@ rates_md: |
   R4200 p/n
 
   **Shoulder**
-  R2600 p/n
+  R2200 p/n
 
   **Low**
-  R2200 p/n
+  R1800 p/n
 policies_md: |
   Pets: Not allowed
 
