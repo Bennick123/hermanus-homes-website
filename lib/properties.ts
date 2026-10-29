@@ -80,8 +80,13 @@ rates_md: |
   +R400 p/p p/n for guests 7–10
 
 policies_md: |
-  **Pets:** Not Allowed 
-  **Baby cot:** Available on request at R100 per stay
+  Pets: Not allowed
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -171,7 +176,11 @@ rates_md: |
 
   Rates are for up to 6 guests. Extra guests are R400 per person per night, up to a maximum of 8.
 policies_md: |
-  Pets: Not Allowed
+  Pets: Not allowed
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
 
   Baby cot: Available on request at R100 per stay
 
@@ -234,8 +243,13 @@ rates_md: |
   **Low**
   R3000 p/n (Minimum 2 nights)
 policies_md: |
-  **Pets:** Not Allowed
-  **Baby cot:** Available on request at R100 per stay
+  Pets: Not allowed
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -299,6 +313,11 @@ rates_md: |
   R3200 p/n (Minimum 2 nights)
 policies_md: |
   Pets: By special arrangement
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
   Baby cot: Available on request at R100 per stay
 ---
 
@@ -366,10 +385,15 @@ rates_md: |
   **Off Season**  
   R2000 (Minimum 2 nights)
 policies_md: |
-  **Pets:** Allowed  
-  **Smoking:** No smoking indoors  
-  **TV:** No TV on site
-  **Baby cot:** Available on request at R100 per stay
+  Pets: Allowed
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
+  TV: No TV on site
+
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -447,8 +471,13 @@ rates_md: |
   +R400 p/p p/n for guests 7–8
 
 policies_md: |
-  **Pets:** Not Allowed
-  **Baby cot:** Available on request at R100 per stay
+  Pets: Not allowed
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -528,8 +557,13 @@ rates_md: |
   **Off season**
   R2600 p/n (Minimum 2 nights)
 policies_md: |
-  **Pets:** Allowed by arrangement
-  **Baby cot:** Available on request at R100 per stay
+  Pets: Allowed by arrangement
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -606,8 +640,13 @@ rates_md: |
   **Peak season**
   R3750 p/n (Minimum 10 nights)
 policies_md: |
-  **Pets:** Not Allowed
-  **Baby cot:** Available on request at R100 per stay
+  Pets: Not allowed
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -678,8 +717,13 @@ rates_md: |
   **Off season**
   R2500 p/n
 policies_md: |
-  **Pets:** Not Allowed
-  **Baby cot:** Available on request at R100 per stay
+  Pets: Not allowed
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -729,8 +773,13 @@ rates_md: |
   **Off season**
   R1400 p/n (Minimum 2 nights)
 policies_md: |
-  **Pets:** Not Allowed
-  **Baby cot:** Available on request at R100 per stay
+  Pets: Not allowed
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -785,8 +834,13 @@ rates_md: |
 
   Minimum 7 days
 policies_md: |
-  **Pets:** Not Allowed
-  **Baby cot:** Available on request at R100 per stay
+  Pets: Not allowed
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -859,9 +913,15 @@ rates_md: |
   **Off season**
   R2300 p/n (Minimum 2 nights)
 policies_md: |
-  **Pets:** Not Allowed
-  **Notes:** Shares the same entrance gate with **Seaclusion** at 27 Beyers Street and the properties are alongside one another. These two homes can be let together to accommodate **up to 16 guests**. Garden fully enclosed with lawn for children.
-  **Baby cot:** Available on request at R100 per stay
+  Pets: Not allowed
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
+  Notes: Shares the same entrance gate with Seaclusion at 27 Beyers Street and the properties are alongside one another. These two homes can be let together to accommodate up to 16 guests. Garden fully enclosed with lawn for children.
+
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -922,8 +982,14 @@ rates_md: |
   Off season
   R2600 p/n for 6 (R400 p/p up to 10) (Minimum 2 nights)
 policies_md: |
-  Pets: Not Allowed
+  Pets: Not allowed
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
   Notes: Shares the same entrance gate with Sunset Terrace at 29 Beyers Street and the properties are alongside one another. These two homes can be let together to accommodate up to 16 guests. Booked 20 December – 2 January 2026.
+
   Baby cot: Available on request at R100 per stay
 ---
 
@@ -990,9 +1056,15 @@ rates_md: |
   **Off season**
   R3200 p/n (Minimum 2 nights)
 policies_md: |
-  **Pets:** Not Allowed
-  **Notes:** DSTV available on request. Enclosed garden and ample street parking in front of the house.
-  **Baby cot:** Available on request at R100 per stay
+  Pets: Not allowed
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
+  Notes: DSTV available on request. Enclosed garden and ample street parking in front of the house.
+
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -1061,7 +1133,12 @@ rates_md: |
   Low
   R3200 p/n (Minimum 2 nights)
 policies_md: |
-  Pets: Not Allowed
+  Pets: Not allowed
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
   Baby cot: Available on request at R100 per stay
 ---
 
@@ -1119,8 +1196,13 @@ rates_md: |
   **Off season**
   R2800 p/n (Minimum stay 2 nights)
 policies_md: |
-  **Pets:** Allowed by request
-  **Baby cot:** Available on request at R100 per stay
+  Pets: Allowed by request
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
+  Baby cot: Available on request at R100 per stay
 ---
 
 ## Description
@@ -1194,6 +1276,11 @@ rates_md: |
   R2500 p/n (Minimum 2 nights)
 policies_md: |
   Pets: Allowed by arrangement
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
   Baby cot: Available on request at R100 per stay
 ---
 
@@ -1273,7 +1360,12 @@ rates_md: |
   Low
   R3200 p/n (Minimum 2 nights)
 policies_md: |
-  Pets: Not Allowed
+  Pets: Not allowed
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
   Baby cot: Available on request at R100 per stay
 ---
 
@@ -1337,7 +1429,12 @@ rates_md: |
   Off season
   R2700 p/n (Minimum 2 nights)
 policies_md: |
-  Pets: Not Allowed
+  Pets: Not allowed
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
   Baby cot: Available on request at R100 per stay
 ---
 
@@ -1420,6 +1517,11 @@ rates_md: |
 
 policies_md: |
   Pets: Not allowed
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
   Baby cot: Available on request at R100 per stay
 ---
   
@@ -1477,7 +1579,12 @@ rates_md: |
   Off season
   R2500 p/n (Minimum 2 nights)
 policies_md: |
-  Pets: Not Allowed
+  Pets: Not allowed
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
   Baby cot: Available on request at R100 per stay
 ---
 
@@ -1543,7 +1650,12 @@ rates_md: |
   Off season
   R1600 p/n
 policies_md: |
-  Pets: Not Allowed
+  Pets: Not allowed
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
   Baby cot: Available on request at R100 per stay
 ---
 
@@ -1609,7 +1721,12 @@ rates_md: |
   Off season
   R2700 p/n (Minimum 2 days)
 policies_md: |
-  Pets: Not Allowed
+  Pets: Not allowed
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
   Baby cot: Available on request at R100 per stay
 ---
 
@@ -1689,7 +1806,9 @@ rates_md: |
 policies_md: |
   Pets: Please enquire
 
-  Parties: Not suitable for party groups, as there are two other apartments on the property
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm. Not suitable for party groups, as there are two other apartments on the property
 ---
 
 ## Description
@@ -1798,6 +1917,8 @@ policies_md: |
 
   Smoking: Not allowed
 
+  Parties: No noisy parties after 10pm
+
   Maximum guests: 7
 
   Baby cot: Available on request at R100 per stay
@@ -1903,6 +2024,8 @@ policies_md: |
   Pets: Allowed
 
   Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
 
   Maximum guests: 6
 
@@ -2011,7 +2134,7 @@ policies_md: |
 
   Smoking: Not allowed
 
-  Parties and events: Not allowed
+  Parties and events: Not allowed, and no noise after 10pm
 
   Maximum guests: 6
 
@@ -2113,7 +2236,7 @@ policies_md: |
 
   Smoking: Not allowed
 
-  Parties and events: Not allowed
+  Parties and events: Not allowed, and no noise after 10pm
 
   Maximum guests: 6
 
