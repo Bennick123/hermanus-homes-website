@@ -77,8 +77,9 @@ export default async function StaysPage() {
     (acc, area) => {
       const areaProperties = allProperties.filter((p) => p.area === area)
 
-      // Sort properties within each area, putting Tranquility first
+      // Sort properties within each area, putting new listings then Tranquility first
       areaProperties.sort((a, b) => {
+        if (!!a.badge !== !!b.badge) return a.badge ? -1 : 1
         if (a.title === "Tranquility") return -1
         if (b.title === "Tranquility") return 1
         return a.title.localeCompare(b.title)
@@ -110,6 +111,42 @@ export default async function StaysPage() {
           </p>
         </div>
       </section>
+
+      {/* New Listings */}
+      {allProperties
+        .filter((p) => p.badge)
+        .map((property) => (
+          <section key={property.slug} className="section-padding bg-amber-50">
+            <div className="container">
+              <Link
+                href={`/stays/${property.slug}`}
+                className="group grid grid-cols-1 lg:grid-cols-2 gap-8 items-center"
+              >
+                <div className="relative h-64 md:h-80 lg:h-96 overflow-hidden rounded-lg">
+                  <Image
+                    src={property.hero || "/placeholder.svg"}
+                    alt={`${property.title} – ${property.beds} bedroom holiday rental in ${property.area}, Hermanus`}
+                    fill
+                    className="object-cover group-hover:scale-105 transition-transform duration-300"
+                    sizes="(max-width: 1024px) 100vw, 50vw"
+                  />
+                </div>
+                <div className="space-y-4">
+                  <span className="inline-block bg-amber-400 text-gray-900 text-sm font-semibold px-3 py-1 rounded-full">
+                    {property.badge}
+                  </span>
+                  <h2 className="text-3xl md:text-4xl font-bold">{property.title}</h2>
+                  <div className="flex items-center text-gray-500">
+                    <MapPin size={16} className="mr-1" />
+                    <span>{property.address || `${property.area}, Hermanus`}</span>
+                  </div>
+                  <p className="text-gray-700 text-lg">{property.one_liner}</p>
+                  <span className="btn-primary">View Details</span>
+                </div>
+              </Link>
+            </div>
+          </section>
+        ))}
 
       {/* Properties by Area */}
       {areaOrder.map((area, areaIndex) => {
@@ -156,6 +193,11 @@ export default async function StaysPage() {
                           className="object-cover group-hover:scale-105 transition-transform duration-300"
                           sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
                         />
+                        {property.badge && (
+                          <span className="absolute top-3 left-3 bg-amber-400 text-gray-900 text-xs font-semibold px-3 py-1 rounded-full shadow">
+                            {property.badge}
+                          </span>
+                        )}
                       </div>
 
                       {/* Property Details */}

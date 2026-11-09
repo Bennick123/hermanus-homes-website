@@ -7,6 +7,7 @@ export type Property = {
   slug: string
   area: "Hermanus" | "Onrus" | "Vermont" | "Sandbaai"
   address?: string
+  badge?: string
   sleeps: number
   beds: number
   baths: number
@@ -2263,6 +2264,123 @@ Both downstairs bedrooms have their own en-suite bathrooms, and there is a separ
 
 The Peninsula is one of the most sought-after pockets of Onrus River, with the beach, the lagoon and the tidal pool all within walking distance. Onrus has a farm stall, a few restaurants and an easy walk along the coast, and Hermanus town centre, the Old Harbour and the whale-watching cliff path are about ten minutes by car.`,
 
+  "art-deco": `---
+title: "Art Deco"
+slug: "art-deco"
+area: "Vermont"
+address: "Vermont, Hermanus"
+badge: "New, available all season"
+sleeps: 4
+beds: 2
+baths: 2.5
+one_liner: "Two en-suite bedrooms, an enclosed stoep that folds open to exceptional mountain views, and a lush garden with a splash pool."
+hero: "/homes/art-deco/stoep-01.jpg"
+gallery:
+  - "/homes/art-deco/stoep-02.jpg"
+  - "/homes/art-deco/stoep-03.jpg"
+  - "/homes/art-deco/stoep-04.jpg"
+  - "/homes/art-deco/stoep-05.jpg"
+  - "/homes/art-deco/stoep-06.jpg"
+  - "/homes/art-deco/stoep-07.jpg"
+  - "/homes/art-deco/living-01.jpg"
+  - "/homes/art-deco/living-02.jpg"
+  - "/homes/art-deco/living-03.jpg"
+  - "/homes/art-deco/living-04.jpg"
+  - "/homes/art-deco/living-05.jpg"
+  - "/homes/art-deco/living-06.jpg"
+  - "/homes/art-deco/living-07.jpg"
+  - "/homes/art-deco/kitchen-01.jpg"
+  - "/homes/art-deco/kitchen-02.jpg"
+  - "/homes/art-deco/kitchen-03.jpg"
+  - "/homes/art-deco/scullery-01.jpg"
+  - "/homes/art-deco/study-01.jpg"
+  - "/homes/art-deco/study-02.jpg"
+  - "/homes/art-deco/study-03.jpg"
+  - "/homes/art-deco/stairs-01.jpg"
+  - "/homes/art-deco/bed1-01.jpg"
+  - "/homes/art-deco/bed1-02.jpg"
+  - "/homes/art-deco/bed1-03.jpg"
+  - "/homes/art-deco/bath1-01.jpg"
+  - "/homes/art-deco/bath1-02.jpg"
+  - "/homes/art-deco/bath1-03.jpg"
+  - "/homes/art-deco/bed2-01.jpg"
+  - "/homes/art-deco/bed2-02.jpg"
+  - "/homes/art-deco/bed2-03.jpg"
+  - "/homes/art-deco/bath2-01.jpg"
+  - "/homes/art-deco/bath2-02.jpg"
+  - "/homes/art-deco/pool-01.jpg"
+  - "/homes/art-deco/pool-02.jpg"
+  - "/homes/art-deco/pool-03.jpg"
+  - "/homes/art-deco/pool-04.jpg"
+  - "/homes/art-deco/garden-01.jpg"
+  - "/homes/art-deco/garden-02.jpg"
+  - "/homes/art-deco/garden-03.jpg"
+  - "/homes/art-deco/garden-04.jpg"
+  - "/homes/art-deco/garden-05.jpg"
+  - "/homes/art-deco/ext-01.jpg"
+  - "/homes/art-deco/ext-02.jpg"
+amenities:
+  - Enclosed stoep with folding doors and windows
+  - Mountain views
+  - Table seating eight on the stoep
+  - Splash pool
+  - Braai area in the garden
+  - Open-plan kitchen, dining room and lounge
+  - Electric oven and gas hob
+  - Scullery and laundry
+  - Extra fridge
+  - Dishwasher
+  - Washing machine
+  - Upstairs study
+  - Guest toilet
+  - Security
+  - Wi-Fi
+  - TV
+  - Garage for one car, street parking for three
+rates_md: |
+  **Rate**
+  R3800 p/n
+
+  **Cleaning fee**
+  R1600
+
+  **Refundable breakage deposit**
+  R2000
+
+  Minimum stay of 10 days from 15 December to 15 January.
+policies_md: |
+  Pets: Please enquire
+
+  Smoking: Not allowed
+
+  Parties: No noisy parties after 10pm
+
+  Children: Not suitable for small children, as there are stairs
+
+  Flatlet on the property: The owner keeps a separate one-bedroom flatlet for her own storage and may occasionally stay a night. It has its own private entrance
+---
+
+## Description
+Art Deco is a new addition to our collection, available for the whole season. It is a striking, characterful house in Vermont, and very different from anything else we offer. It is ideally suited to two couples.
+
+The heart of the house is the enclosed stoep. Its folding doors and windows all open up, bringing in the garden and the exceptional mountain views, and the table out there seats eight. The stoep leads off an open-plan kitchen, dining room and lounge, with a scullery and laundry behind the kitchen.
+
+Outside there is a beautifully planted garden with a braai area and a small splash pool on the deck.
+
+### Accommodation Details
+
+- **Main bedroom:** Queen bed, with an en-suite bath, shower and toilet
+- **Second bedroom:** Queen bed, with an en-suite shower and toilet
+- **Sleeps 4 guests**
+
+A day bed in the lounge can be moved up to the study if needed, and there is a separate guest toilet.
+
+**Please note:** The house has stairs, so it is not suitable for small children. There is also a separate one-bedroom flatlet on the property, which the owner uses to store her belongings. You may see some movement during your stay and she may spend the odd night there, but it has its own private entrance.
+
+### The Neighbourhood
+
+Vermont sits between Onrus and Hermanus, with the coastal path and the Vermont Salt Pan close by. Hermanus town centre and the Old Harbour are about ten minutes by car.`,
+
 }
 
 export async function getPropertySlugs(): Promise<string[]> {
@@ -2287,6 +2405,7 @@ export async function getAllProperties(): Promise<Property[]> {
     const validProps = props.filter((p): p is Property => p !== null)
     return validProps.sort((a, b) => {
       if (a.area !== b.area) return a.area.localeCompare(b.area)
+      if (!!a.badge !== !!b.badge) return a.badge ? -1 : 1
       return a.title.localeCompare(b.title)
     })
   } catch (error) {

@@ -75,6 +75,12 @@ export default function Home() {
         />
         <div className="absolute inset-0 bg-black/20"></div>
         <div className="relative z-10 text-center text-white container">
+          <Link
+            href="/stays/art-deco"
+            className="inline-block bg-amber-400 text-gray-900 text-sm font-semibold px-4 py-2 rounded-full mb-6 hover:bg-amber-300 transition-colors fade-in-up"
+          >
+            New: Art Deco in Vermont, available all season
+          </Link>
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 fade-in-up text-shadow-lg">
             Unwind on the Hermanus Coast
           </h1>

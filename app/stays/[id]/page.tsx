@@ -136,6 +136,11 @@ export default async function PropertyPage({ params }: PropertyPageProps) {
         <section className="py-8">
           <div className="container">
             <div className="mb-6">
+              {property.badge && (
+                <span className="inline-block bg-amber-400 text-gray-900 text-sm font-semibold px-3 py-1 rounded-full mb-3">
+                  {property.badge}
+                </span>
+              )}
               <div className="flex items-center text-sm text-gray-500 mb-2">
                 <MapPin size={16} className="mr-1" />
                 {property.address || `${property.area}, Hermanus, Western Cape, South Africa`}

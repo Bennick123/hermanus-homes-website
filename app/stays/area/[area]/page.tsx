@@ -192,6 +192,11 @@ export default async function AreaPage({ params }: AreaPageProps) {
                         className="object-cover group-hover:scale-105 transition-transform duration-300"
                         sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
                       />
+                      {property.badge && (
+                        <span className="absolute top-3 left-3 bg-amber-400 text-gray-900 text-xs font-semibold px-3 py-1 rounded-full shadow">
+                          {property.badge}
+                        </span>
+                      )}
                     </div>
                     <div className="p-6">
                       <div className="flex items-center text-xs text-gray-500 mb-2">

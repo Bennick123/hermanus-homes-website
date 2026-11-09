@@ -7,6 +7,15 @@ import { ChevronLeft, ChevronRight } from "lucide-react"
 
 const properties = [
   {
+    id: 6,
+    name: "Art Deco",
+    description:
+      "Two en-suite bedrooms, an enclosed stoep that folds open to exceptional mountain views, and a lush garden with a splash pool, in Vermont.",
+    image: "/homes/art-deco/stoep-01.jpg",
+    slug: "art-deco",
+    badge: "New, available all season",
+  },
+  {
     id: 1,
     name: "Corner Delight at Onrust Beach",
     description:
@@ -97,6 +106,11 @@ export default function PropertyCarousel() {
                   />
                 </div>
                 <div className="space-y-4">
+                  {property.badge && (
+                    <span className="inline-block bg-amber-400 text-gray-900 text-sm font-semibold px-3 py-1 rounded-full">
+                      {property.badge}
+                    </span>
+                  )}
                   <h3 className="text-2xl md:text-3xl font-bold">{property.name}</h3>
                   <p className="text-gray-600">{property.description}</p>
                   <Link href={`/stays/${property.slug}`} className="btn-primary">

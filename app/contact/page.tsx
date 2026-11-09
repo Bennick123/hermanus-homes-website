@@ -14,6 +14,7 @@ const contacts = [
 // Property options for the dropdown
 const propertyOptions = [
   "General Inquiry",
+  "Art Deco",
   "Beachcomber's Rest",
   "Casa Familia",
   "Corner Delight at Onrust Beach",
