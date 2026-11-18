@@ -2357,7 +2357,7 @@ policies_md: |
 
   Children: Not suitable for small children, as there are stairs
 
-  Flatlet on the property: The owner keeps a separate one-bedroom flatlet for her own storage and may occasionally stay a night. It has its own private entrance
+  Flatlet on the property: Reserved for the owner's personal storage and not part of the guest accommodation. It has its own separate entrance
 ---
 
 ## Description
@@ -2375,7 +2375,9 @@ Outside there is a beautifully planted garden with a braai area and a small spla
 
 A day bed in the lounge can be moved up to the study if needed, and there is a separate guest toilet.
 
-**Please note:** The house has stairs, so it is not suitable for small children. There is also a separate one-bedroom flatlet on the property, which the owner uses to store her belongings. You may see some movement during your stay and she may spend the odd night there, but it has its own private entrance.
+**Please note:** The house has stairs, so it is not suitable for small children.
+
+There is an upstairs flatlet which is reserved for the owner's personal storage and is not part of the guest accommodation. On occasion, the owner may need to access the flatlet briefly during your stay to collect a few personal belongings. This is via a completely separate, discreet entrance with no access through the guest areas of the house, ensuring your comfort and privacy at all times. We appreciate your understanding.
 
 ### The Neighbourhood
 
