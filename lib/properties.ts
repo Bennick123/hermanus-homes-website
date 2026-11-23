@@ -2349,7 +2349,7 @@ rates_md: |
 
   Minimum stay of 10 days from 15 December to 15 January.
 policies_md: |
-  Pets: Not allowed
+  Pets: Allowed on request
 
   Smoking: Not allowed
 
