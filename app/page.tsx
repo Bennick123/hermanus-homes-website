@@ -75,12 +75,20 @@ export default function Home() {
         />
         <div className="absolute inset-0 bg-black/20"></div>
         <div className="relative z-10 text-center text-white container">
-          <Link
-            href="/stays/art-deco"
-            className="inline-block bg-amber-400 text-gray-900 text-sm font-semibold px-4 py-2 rounded-full mb-6 hover:bg-amber-300 transition-colors fade-in-up"
-          >
-            New: Art Deco in Vermont, available all season
-          </Link>
+          <div className="flex flex-wrap justify-center gap-3 mb-6 fade-in-up">
+            <Link
+              href="/stays/green-street-blue-view"
+              className="inline-block bg-amber-400 text-gray-900 text-sm font-semibold px-4 py-2 rounded-full hover:bg-amber-300 transition-colors"
+            >
+              Green Street, Blue View: 10% off 5+ nights, 1 to 17 Dec
+            </Link>
+            <Link
+              href="/stays/art-deco"
+              className="inline-block bg-amber-400 text-gray-900 text-sm font-semibold px-4 py-2 rounded-full hover:bg-amber-300 transition-colors"
+            >
+              New: Art Deco in Vermont, available all season
+            </Link>
+          </div>
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 fade-in-up text-shadow-lg">
             Unwind on the Hermanus Coast
           </h1>

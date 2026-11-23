@@ -2162,6 +2162,7 @@ title: "Green Street, Blue View"
 slug: "green-street-blue-view"
 area: "Onrus"
 address: "29 Green Street, Onrus River"
+badge: "10% off stays of 5+ nights, 1 to 17 December 2026"
 sleeps: 6
 beds: 3
 baths: 4
@@ -2222,6 +2223,9 @@ amenities:
   - Fire extinguisher
   - Private entrance
 rates_md: |
+  **Special: 1 to 17 December 2026**
+  10% discount for stays of 5 nights or more
+
   **Peak**
   R6000 p/n
 
@@ -2247,6 +2251,8 @@ policies_md: |
 ---
 
 ## Description
+**Special offer: 10% discount for stays of 5 nights or more between 1 and 17 December 2026.**
+
 Green Street, Blue View is a double-storey family home on the Peninsula in Onrus River, about a five minute walk from Onrus beach and the child-friendly lagoon. There is plenty of room for a family or two couples travelling together, with three bedrooms and four bathrooms.
 
 Upstairs is the heart of the house: an open-plan kitchen, lounge and dining area with sea views across the Peninsula, and a separate glassed-in braai room with an indoor braai and a long table for everyone to sit around. The kitchen is well equipped for self-catering, with a dishwasher, oven and hob, microwave and all the usual basics.

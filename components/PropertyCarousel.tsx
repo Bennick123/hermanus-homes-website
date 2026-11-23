@@ -16,6 +16,15 @@ const properties = [
     badge: "New, available all season",
   },
   {
+    id: 7,
+    name: "Green Street, Blue View",
+    description:
+      "Double-storey family home on the Onrus Peninsula with sea views, an indoor braai and four bathrooms, a short walk from the beach and lagoon.",
+    image: "/homes/green-street-blue-view/living-02.jpg",
+    slug: "green-street-blue-view",
+    badge: "10% off 5+ nights, 1 to 17 December",
+  },
+  {
     id: 1,
     name: "Corner Delight at Onrust Beach",
     description:
