@@ -80,6 +80,8 @@ rates_md: |
   R3000 p/n for up to 6 guests (min 2 nights)
   +R400 p/p p/n for guests 7–10
 
+  **Cleaning fee**
+  R2000 per stay
 policies_md: |
   Pets: Not allowed
 
@@ -176,6 +178,9 @@ rates_md: |
   R2600 p/n (1 May to 31 August)
 
   Rates are for up to 6 guests. Extra guests are R400 per person per night, up to a maximum of 8.
+
+  **Cleaning fee**
+  R2000 per stay
 policies_md: |
   Pets: Not allowed
 
@@ -243,6 +248,9 @@ rates_md: |
 
   **Low**
   R3000 p/n (Minimum 2 nights)
+
+  **Cleaning fee**
+  R1800 per stay
 policies_md: |
   Pets: Not allowed
 
@@ -312,6 +320,9 @@ rates_md: |
 
   Low season
   R3200 p/n (Minimum 2 nights)
+
+  **Cleaning fee**
+  R1800 per stay
 policies_md: |
   Pets: By special arrangement
 
@@ -385,6 +396,9 @@ rates_md: |
 
   **Off Season**  
   R2000 (Minimum 2 nights)
+
+  **Cleaning fee**
+  R1500 per stay
 policies_md: |
   Pets: Allowed
 
@@ -471,6 +485,8 @@ rates_md: |
   R2600 p/n for up to 6 guests (Minimum 2 nights)
   +R400 p/p p/n for guests 7–8
 
+  **Cleaning fee**
+  R2000 per stay
 policies_md: |
   Pets: Not allowed
 
@@ -557,6 +573,9 @@ rates_md: |
 
   **Off season**
   R2600 p/n (Minimum 2 nights)
+
+  **Cleaning fee**
+  R1750 per stay
 policies_md: |
   Pets: Allowed by arrangement
 
@@ -640,6 +659,9 @@ amenities:
 rates_md: |
   **Peak season**
   R3750 p/n (Minimum 10 nights)
+
+  **Cleaning fee**
+  R1500 per stay
 policies_md: |
   Pets: Not allowed
 
@@ -717,6 +739,9 @@ rates_md: |
 
   **Off season**
   R2500 p/n
+
+  **Cleaning fee**
+  R1500 per stay
 policies_md: |
   Pets: Not allowed
 
@@ -773,6 +798,9 @@ rates_md: |
 
   **Off season**
   R1400 p/n (Minimum 2 nights)
+
+  **Cleaning fee**
+  R1500 per stay
 policies_md: |
   Pets: Not allowed
 
@@ -834,6 +862,9 @@ rates_md: |
   R4500 p/n (Minimum 10 days)
 
   Minimum 7 days
+
+  **Cleaning fee**
+  R1200 per stay
 policies_md: |
   Pets: Not allowed
 
@@ -913,6 +944,9 @@ rates_md: |
 
   **Off season**
   R2300 p/n (Minimum 2 nights)
+
+  **Cleaning fee**
+  R1500 per stay
 policies_md: |
   Pets: Not allowed
 
@@ -982,6 +1016,9 @@ rates_md: |
 
   Off season
   R2600 p/n for 6 (R400 p/p up to 10) (Minimum 2 nights)
+
+  **Cleaning fee**
+  R2000 per stay
 policies_md: |
   Pets: Not allowed
 
@@ -1056,6 +1093,9 @@ rates_md: |
 
   **Off season**
   R3200 p/n (Minimum 2 nights)
+
+  **Cleaning fee**
+  R2000 per stay
 policies_md: |
   Pets: Not allowed
 
@@ -1133,6 +1173,9 @@ rates_md: |
 
   Low
   R3200 p/n (Minimum 2 nights)
+
+  **Cleaning fee**
+  R1500 per stay
 policies_md: |
   Pets: Not allowed
 
@@ -1196,6 +1239,9 @@ rates_md: |
 
   **Off season**
   R2800 p/n (Minimum stay 2 nights)
+
+  **Cleaning fee**
+  R1500 per stay
 policies_md: |
   Pets: Allowed by request
 
@@ -1275,6 +1321,9 @@ rates_md: |
 
   Low
   R2500 p/n (Minimum 2 nights)
+
+  **Cleaning fee**
+  R1600 per stay
 policies_md: |
   Pets: Allowed by arrangement
 
@@ -1360,6 +1409,9 @@ rates_md: |
 
   Low
   R3200 p/n (Minimum 2 nights)
+
+  **Cleaning fee**
+  R2200 per stay
 policies_md: |
   Pets: Not allowed
 
@@ -1429,6 +1481,9 @@ rates_md: |
 
   Off season
   R2700 p/n (Minimum 2 nights)
+
+  **Cleaning fee**
+  R1500 per stay
 policies_md: |
   Pets: Not allowed
 
@@ -1516,6 +1571,8 @@ rates_md: |
   R2500 p/n for up to 6 guests
   +R400 p/p p/n for guests 7–9
 
+  **Cleaning fee**
+  R1800 per stay
 policies_md: |
   Pets: Not allowed
 
@@ -1579,6 +1636,9 @@ rates_md: |
 
   Off season
   R2500 p/n (Minimum 2 nights)
+
+  **Cleaning fee**
+  R1750 per stay
 policies_md: |
   Pets: Not allowed
 
@@ -1650,6 +1710,9 @@ rates_md: |
 
   Off season
   R1600 p/n
+
+  **Cleaning fee**
+  R1500 per stay
 policies_md: |
   Pets: Not allowed
 
@@ -1721,6 +1784,9 @@ rates_md: |
 
   Off season
   R2700 p/n (Minimum 2 days)
+
+  **Cleaning fee**
+  R2000 per stay
 policies_md: |
   Pets: Not allowed
 
@@ -1804,6 +1870,9 @@ rates_md: |
 
   **November**
   Rates on request, with 15% off Sunday to Thursday nights for the month of November 2026.
+
+  **Cleaning fee**
+  R1600 per stay
 policies_md: |
   Pets: Please enquire
 
@@ -1913,6 +1982,9 @@ rates_md: |
 
   **Low**
   R2200 p/n (1 May to 31 August)
+
+  **Cleaning fee**
+  R1600 per stay
 policies_md: |
   Pets: Not allowed
 
@@ -2021,6 +2093,9 @@ rates_md: |
 
   **Low**
   R1800 p/n
+
+  **Cleaning fee**
+  R1200 per stay
 policies_md: |
   Pets: Allowed
 
@@ -2130,6 +2205,9 @@ rates_md: |
 
   **Low**
   R3000 p/n
+
+  **Cleaning fee**
+  R1600 per stay
 policies_md: |
   Pets: Not allowed
 
@@ -2236,6 +2314,9 @@ rates_md: |
   R2900 p/n
 
   Minimum stay of 10 nights in peak season.
+
+  **Cleaning fee**
+  R1500 per stay
 policies_md: |
   Pets: Not allowed
 
@@ -2348,7 +2429,7 @@ rates_md: |
   R3800 p/n
 
   **Cleaning fee**
-  R1600
+  R1600 per stay
 
   **Refundable breakage deposit**
   R2000
